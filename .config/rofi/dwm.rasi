@@ -1,0 +1,142 @@
+/**                    |""|  | |""" |"""|
+ * User: neo64yt       |  |  | |--- |   |
+ * Copyright: neo64yt  |  |__| |___ |___|
+ */
+
+ * {
+    background-color: #1f1f1f;
+    text-color: #ffffff;
+
+    /* Color names */
+    brown: #6d4c41;
+    cyan: #00acc1;
+    aquablue: #00897b;
+    yellow: #fdd835;
+    black: #1f1f1f;
+    white: #ffffff;
+
+    /* Use these to configure color */
+    selected-normal-foreground: @black;
+    normal-foreground: @white;
+    selected-normal-background: @cyan;
+    normal-background: @brown;
+    
+    selected-urgent-foreground: @yellow;
+    urgent-foreground: @black;
+    selected-urgent-background: @cyan;
+    urgent-background: @yellow;
+
+    selected-active-foreground: @aquablue;
+    active-foreground: @black;
+    selected-active-background: @cyan;
+    active-background: @aquablue;
+
+    font: "Iosevka Term Curly Slab medium 11";
+    hide-scrollbar: "false";
+}
+
+window {
+    width: 50%;
+    height: 70%;
+    children: [mainbox];
+    padding: 20px;
+}
+
+mainbox {
+    children: [ sidebar, inputbar, listview ];
+    width: 30px;
+}
+
+button {
+    background-color: @normal-background;
+    text-color: @normal-foreground;
+    padding: 10px 2px;
+}
+
+button selected {
+    background-color: @selected-normal-background;
+    text-color: @selected-normal-foreground;
+}
+
+inputbar {
+    children: [ prompt, textbox-prompt-colon, entry ];
+    padding: 5px;
+}
+
+textbox-prompt-colon {
+    text-color: inherit;
+    expand: false;
+    margin: 0 0.3em 0em 0em;
+    str: "$>";
+}
+
+listview { 
+    spacing: 1em;
+    dynamic: false;
+    cycle: true;
+}
+
+element {
+    padding: 5px;
+    border: 0 0 0 5px solid;
+}
+
+element-icon {
+    size: 1.5em;
+}
+
+entry {
+   expand: true;
+   text-color: @normal-foreground;
+   background-color: #111111;
+   vertical-align: 1;
+   padding: 5px;
+   font: "Iosevka Term Curly Slab medium 13";
+}
+
+element normal.normal {
+    background-color: @normal-background;
+    text-color: @normal-foreground;
+}
+
+element alternate.normal {
+    background-color: @normal-background;
+    text-color: @normal-foreground;
+}
+
+element selected.normal {
+    background-color: @selected-normal-background;
+    text-color: @selected-normal-foreground;
+}
+
+element normal.urgent {
+    background-color: @urgent-background;
+    text-color: @urgent-foreground;
+}
+
+element alternate.urgent {
+    background-color: @urgent-background;
+    text-color: @urgent-foreground;
+}
+
+element selected.urgent {
+    background-color: @selected-urgent-background;
+    text-color: @selected-urgent-foreground;
+}
+
+element normal.active {
+    background-color: @active-background;
+    text-color: @active-foreground;
+}
+
+element alternate.active {
+    background-color: @active-background;
+    text-color: @active-foreground;
+}
+
+element selected.active {
+    background-color: @selected-active-background;
+    text-color: @selected-active-foreground;
+}
+
+/* >>>EOF<<< */

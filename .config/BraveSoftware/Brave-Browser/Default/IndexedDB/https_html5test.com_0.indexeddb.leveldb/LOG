@@ -1,0 +1,17 @@
+2020/12/09-10:03:43.082 44ca Reusing MANIFEST /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_html5test.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/09-10:03:43.288 4df3 Level-0 table #5: started
+2020/12/09-10:03:43.307 4df3 Level-0 table #5: 1650 bytes OK
+2020/12/09-10:03:43.327 4df3 Delete type=0 #3
+2020/12/09-10:03:43.327 4df3 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/12/09-10:03:45.288 4df3 Level-0 table #7: started
+2020/12/09-10:03:45.299 4df3 Level-0 table #7: 218 bytes OK
+2020/12/09-10:03:45.316 4df3 Delete type=0 #4
+2020/12/09-10:03:45.316 4df3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/09-10:03:45.317 4df3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 116 : 0
+2020/12/09-10:03:45.317 4df3 Compacting 1@1 + 1@2 files
+2020/12/09-10:03:45.335 4df3 Generated table #8@1: 5 keys, 230 bytes
+2020/12/09-10:03:45.336 4df3 Compacted 1@1 + 1@2 files => 230 bytes
+2020/12/09-10:03:45.350 4df3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/09-10:03:45.351 4df3 Delete type=2 #5
+2020/12/09-10:03:45.352 4df3 Delete type=2 #7
+2020/12/09-10:03:45.353 4df3 Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 116 : 0 .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+game:
+  exe: /home/neo64yt/Games/Undertale_Yellow/runner
+  working_dir: ~/Games/Undertale_Yellow
+linux: {}
+system: {}

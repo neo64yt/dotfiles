@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=A Wine application
+MimeType=text/vbscript;
+Exec=env WINEPREFIX="/home/neo64yt/.wine" /usr/bin/wine start /ProgIDOpen VBSFile %f
+NoDisplay=true
+StartupNotify=true

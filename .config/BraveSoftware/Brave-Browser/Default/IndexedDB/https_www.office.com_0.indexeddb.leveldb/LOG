@@ -1,0 +1,15 @@
+2020/12/08-10:58:15.268 17d8f Reusing MANIFEST /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/08-10:58:15.269 17d8f Recovering log #4
+2020/12/08-10:58:15.270 17d8f Reusing old log /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/000004.log 
+2020/12/08-11:00:51.813 17ea6 Level-0 table #8: started
+2020/12/08-11:00:51.837 17ea6 Level-0 table #8: 12358 bytes OK
+2020/12/08-11:00:51.850 17ea6 Delete type=0 #4
+2020/12/08-11:00:51.851 17ea6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/08-11:00:51.852 17ea6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x06\x01\x1f\x03\x00\x80P\x96\x04dwB\x00\x01I\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00m\x00y\x00a\x00p\x00p\x00l\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00s\x00.\x00m\x00i\x00c\x00r\x00o\x00s\x00o\x00f\x00t\x00.\x00c\x00o\x00m\x00/\x00a\x00p\x00i\x00/\x00m\x00e\x00/\x00g\x00e\x00t\x00E\x00x\x00p\x00a\x00n\x00d\x00e\x00d\x00A\x00s\x00s\x00i\x00g\x00n\x00e\x00d\x00W\x00o\x00r\x00k\x00s\x00p\x00a\x00c\x00e\x00s' @ 415 : 1
+2020/12/08-11:00:51.852 17ea6 Compacting 1@1 + 1@2 files
+2020/12/08-11:00:51.874 17ea6 Generated table #9@1: 124 keys, 6464 bytes
+2020/12/08-11:00:51.874 17ea6 Compacted 1@1 + 1@2 files => 6464 bytes
+2020/12/08-11:00:51.892 17ea6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/08-11:00:51.893 17ea6 Delete type=2 #8
+2020/12/08-11:00:51.893 17ea6 Delete type=2 #5
+2020/12/08-11:00:51.895 17ea6 Manual compaction at level-1 from '\x00\x06\x01\x1f\x03\x00\x80P\x96\x04dwB\x00\x01I\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00m\x00y\x00a\x00p\x00p\x00l\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00s\x00.\x00m\x00i\x00c\x00r\x00o\x00s\x00o\x00f\x00t\x00.\x00c\x00o\x00m\x00/\x00a\x00p\x00i\x00/\x00m\x00e\x00/\x00g\x00e\x00t\x00E\x00x\x00p\x00a\x00n\x00d\x00e\x00d\x00A\x00s\x00s\x00i\x00g\x00n\x00e\x00d\x00W\x00o\x00r\x00k\x00s\x00p\x00a\x00c\x00e\x00s' @ 415 : 1 .. (end); will stop at (end)

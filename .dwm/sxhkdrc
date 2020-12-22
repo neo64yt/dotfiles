@@ -1,0 +1,19 @@
+#
+# wm independent hotkeys
+#
+
+# terminal emulator
+super + shift + Return
+	termite
+
+# program launcher
+super + r
+	rofi -show drun
+
+# screenshooter
+super + s
+	/home/neo64yt/bin/screenshot
+
+# make sxhkd reload its configuration files:
+super + Escape
+	pkill -USR1 -x sxhkd

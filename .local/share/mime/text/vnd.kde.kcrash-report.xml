@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="text/vnd.kde.kcrash-report">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <comment>KCrash Report</comment>
+  <comment xml:lang="az">KCrash Hesabat</comment>
+  <comment xml:lang="ca">Informe del KCrash</comment>
+  <comment xml:lang="cs">Report KCrash</comment>
+  <comment xml:lang="da">KCrash-rapport</comment>
+  <comment xml:lang="en_GB">KCrash Report</comment>
+  <comment xml:lang="es">Informe de KCrash</comment>
+  <comment xml:lang="et">KCrashi aruanne</comment>
+  <comment xml:lang="eu">KCrash txostena</comment>
+  <comment xml:lang="fr">Rapport de KCrash</comment>
+  <comment xml:lang="ia">KCrash Reporto</comment>
+  <comment xml:lang="id">Laporan KCrash</comment>
+  <comment xml:lang="it">Rapporto di KCrash</comment>
+  <comment xml:lang="ko">KCrash 보고서</comment>
+  <comment xml:lang="lt">KCrash pranešimas</comment>
+  <comment xml:lang="nl">Rapport van KCrash</comment>
+  <comment xml:lang="nn">KCrash-rapport</comment>
+  <comment xml:lang="pl">Zgłoszenie KCrash</comment>
+  <comment xml:lang="pt">Relatório do KCrash</comment>
+  <comment xml:lang="pt_BR">Relatório do KCrash</comment>
+  <comment xml:lang="ru">Отчёт об ошибке KCrash</comment>
+  <comment xml:lang="sk">Hlásenie KCrash</comment>
+  <comment xml:lang="sl">Poročilo KCrash</comment>
+  <comment xml:lang="sv">KCrash-rapport</comment>
+  <comment xml:lang="uk">звіт KCrash</comment>
+  <comment xml:lang="zh_CN">KCrash 报告</comment>
+  <comment xml:lang="zh_TW">KCrash 報告</comment>
+  <generic-icon name="text-plain"/>
+  <sub-class-of type="text/plain"/>
+  <glob pattern="*.kcrash"/>
+  <glob pattern="*.kcrash.txt"/>
+</mime-type>

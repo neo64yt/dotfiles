@@ -1,0 +1,405 @@
+
+
+
+ <!-- Images -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <!-- content snippet -->
+
+
+
+ <!-- Signals -->
+
+<!doctype html>
+<html ⚡4email lang=en>
+<head>
+<title>Your 2020 YouTube Year In Review</title>
+<meta charset=utf-8>
+<script async src=https://cdn.ampproject.org/v0.js></script>
+<script async custom-element=amp-carousel src=https://cdn.ampproject.org/v0/amp-carousel-0.1.js></script>
+<script async custom-element=amp-bind src=https://cdn.ampproject.org/v0/amp-bind-0.1.js></script>
+<style amp4email-boilerplate>body{visibility:hidden}</style>
+<style amp-custom>
+* {
+outline: none;
+}
+div {
+display: flex;
+flex-direction: column;
+}
+p, a {
+margin: 0;
+padding: 0;
+}
+.show {
+display: flex;
+}
+.hide {
+display: none;
+}
+.current {
+background-color: #DC00DD;
+}
+.old {
+background-color: transparent;
+}
+@media (min-width: 481px) {
+#carousel-with-preview .amp-carousel-button-next {
+background-image: url('https://services.google.com/fh/files/emails/yt_yir_arrow_right_magenta.png');
+background-size: 44px 44px;
+right: 0px;
+outline: none;
+}
+#carousel-with-preview .amp-carousel-button-prev {
+background-image: url('https://services.google.com/fh/files/emails/yt_yir_arrow_left_magenta.png');
+background-size: 44px 44px;
+left: 0px;
+outline: none;
+}
+#carousel-with-preview .amp-carousel-button {
+background-color: transparent;
+top: 53%;
+height: 44px;
+width: 44px;
+}
+.amp-carousel-button:focus {
+outline: none;
+border: none;
+}
+.bg-width {
+width: 480px;
+}
+.avatar-pad {
+padding: 120px 0 70px 115px;
+}
+.hero-body {
+padding: 0 52px 15px 120px;
+}
+.car-body-height {
+height: 171px;
+}
+.sec1-pad {
+padding: 30px 68px 28px 130px;
+max-width: 282px;
+width: 100%;
+}
+.sec2-pad {
+padding: 0 64px;
+}
+.sec2-mar {
+margin: 0 15px 69px;
+}
+}
+@media (max-width: 480px) {
+#carousel-with-preview .amp-carousel-button-next {
+background-image: url('https://services.google.com/fh/files/emails/yt_yir_arrow_right_magenta.png');
+background-size: 44px 44px;
+right: 0px;
+outline: none;
+}
+#carousel-with-preview .amp-carousel-button-prev {
+background-image: url('https://services.google.com/fh/files/emails/yt_yir_arrow_left_magenta.png');
+background-size: 44px 44px;
+left: 0px;
+outline: none;
+}
+#carousel-with-preview .amp-carousel-button {
+background-color: transparent;
+top: 53%;
+height: 44px;
+width: 44px;
+}
+.amp-carousel-button:focus {
+outline: none;
+border: none;
+}
+.bg-width {
+width: 100%;
+}
+.avatar-pad {
+padding: 96px 0 48px 78px;
+}
+.hero-body {
+padding: 0 52px 15px 76px;
+}
+.car-dimensions {
+min-height: 300px;
+}
+.car-body-height {
+height: 290px;
+}
+.sec1-pad {
+padding: 30px 68px 28px 103px;
+max-width: 240px;
+width: 100%;
+}
+.sec2-pad {
+padding: 0;
+}
+.sec2-mar {
+margin: 0 0 69px;
+}
+}
+</style>
+</head>
+<body style="background-color: #ffffff; margin: 0 auto;">
+<amp-state id=selected>
+<script type=application/json> {"slide": 0} </script>
+</amp-state>
+<!-- 480 main table starts -->
+<div style="max-width: 480px; margin: 0 auto;">
+<!-- Header Module starts -->
+<div class=bg-width style="background-image: url(&#39;https://services.google.com/fh/files/emails/gaming_header_2x_1571.png&#39;); background-repeat:no-repeat; background-position: top center; height: auto; background-size: 100%; background-color: #00E5BD; display: block;">
+<!-- Avatar image starts -->
+<div class=avatar-pad>
+<amp-img src=https://lh6.googleusercontent.com/-WjIBatAXVHA/AAAAAAAAAAI/AAAAAAAAAAA/1VeuOoTvNHA/s176-mo/photo.jpg width=146 height=146 style="border-radius: 73px; max-width: 146px; max-height: 146px;"></amp-img>
+</div>
+<!-- Avatar image ends -->
+<!-- body content starts -->
+<div class=hero-body>
+<!-- channel name starts -->
+<p style="font-family: Roboto, Arial, sans-serif; font-size:20px; color: #000D0B; line-height: 38px; font-weight:700; letter-spacing: 0.71px;">Neo64YT</p>
+<!-- channel name ends -->
+<!-- para starts -->
+<p style="font-family: Roboto, Arial, sans-serif; font-size: 14px; color: #000D0B; line-height: 22px; font-weight: 400; letter-spacing: 0.71px; padding: 14px 0 0;">2020 went off-script, but that didn’t stop the YouTube Gaming community from hitting 100 billion watch hours 🤯. It couldn’t have happened without the <span style="font-weight: 700;">15 minutes</span> of content you uploaded this year. Your hard work’s worth celebrating—let’s take a moment to reflect! #MyYearInReview</p>
+<!-- para ends -->
+</div>
+<!-- body content ends -->
+</div>
+<!-- Header Module ends -->
+<!-- All time highlights module starts-->
+<div class=bg-width style="background-image: url(&#39;https://services.google.com/fh/files/emails/yir_gaming_highlights_trans_2x.png&#39;); background-repeat:no-repeat; background-position: top center; height: auto; background-size: 100%; background-color: #212121; display: block;">
+<div style="position: absolute;">
+<div style="transform: rotate(270deg); position: relative; top: 116px; display: flex; flex-direction: row;">
+<amp-img src=https://services.google.com/fh/files/emails/yt_yir_plus_shape_green.png width=18 height=18 style="max-width: 18px; max-height: 18px; margin: 5px 8px 0px 0px;"></amp-img><p style="font-family: Roboto, Arial, sans-serif; font-size:20px; color: #00E5BD; line-height: 24px; font-weight:700; letter-spacing: 0.71px;">All-Time<br>Highlights</p>
+</div>
+</div>
+<div style="padding: 27px 3px 0 85px;">
+<amp-carousel class=car-dimensions width=392 height=182 layout=responsive type=slides autoplay delay=5000 controls loop data-next-button-aria-label=Next data-prev-button-aria-label=Previous data-button-count-format=" " id=carousel-with-preview on="slideChange:AMP.setState({selected: {slide: event.index}})">
+<div>
+<!-- Slide 2 starts -->
+<div style="padding: 7px 24px;">
+<div class=car-body-height style="border-top: 2px solid #DC00DD; border-right: 2px solid #DC00DD; border-bottom: 2px solid #DC00DD; border-left: 2px solid #DC00DD; box-shadow: 6px -6px 0px #DC00DD; background-color: #212121; align-items: center; justify-content: center;">
+<div style="align-items: center; justify-content: center;">
+<div>
+<p style="font-family: Roboto, Arial, sans-serif; font-size:20px; color: #FFFFFF; line-height: 38px; font-weight:700; text-align: center; padding: 0 18px;">From your first video upload until now, your fans have smashed that like button <span style="color: #DC00DD; font-weight: 700;">14 times!</span></p>
+</div>
+<div style="border-top: 1px solid #FFFFFF; width: 46px; margin: 20px 0 0;"></div>
+</div>
+</div>
+</div>
+<!-- Slide 2 ends -->
+</div>
+<div>
+<!-- Slide 3 starts -->
+<div style="padding: 7px 24px;">
+<div class=car-body-height style="border-top: 2px solid #DC00DD; border-right: 2px solid #DC00DD; border-bottom: 2px solid #DC00DD; border-left: 2px solid #DC00DD; box-shadow: 6px -6px 0px #DC00DD; background-color: #212121; align-items: center; justify-content: center;">
+<div style="align-items: center; justify-content: center;">
+<div>
+<p style="font-family: Roboto, Arial, sans-serif; font-size:20px; color: #FFFFFF; line-height: 38px; font-weight:700; text-align: center; padding: 0 18px;">Your community’s growing–they&#39;ve left <span style="color: #DC00DD; font-weight: 700;">18 comments</span> and shared your videos <span style="color: #DC00DD; font-weight: 700;">9 times</span>.</p>
+</div>
+<div style="border-top: 1px solid #FFFFFF; width: 46px; margin: 20px 0 0;"></div>
+</div>
+</div>
+</div>
+<!-- Slide 3 ends -->
+</div>
+<div>
+<!-- Slide 1 starts -->
+<div style="padding: 7px 24px;">
+<div class=car-body-height style="border-top: 2px solid #DC00DD; border-right: 2px solid #DC00DD; border-bottom: 2px solid #DC00DD; border-left: 2px solid #DC00DD; box-shadow: 6px -6px 0px #DC00DD; background-color: #212121; align-items: center; justify-content: center;">
+<div style="align-items: center; justify-content: center;">
+<div>
+<p style="font-family: Roboto, Arial, sans-serif; font-size:20px; color: #FFFFFF; line-height: 38px; font-weight:700; text-align: center; padding: 0 20px;">You joined YouTube <span style="color: #DC00DD; font-weight: 700;">467 days</span> ago.</p>
+</div>
+<div style="border-top: 1px solid #FFFFFF; width: 46px; margin: 20px 0 0;"></div>
+</div>
+</div>
+</div>
+<!-- Slide 1 ends -->
+</div>
+</amp-carousel>
+</div>
+<div style="padding: 16px 10px 47px 85px;">
+<div style="flex-direction: row; justify-content: center;">
+<div role="" tabindex=0 on=tap:carousel-with-preview.goToSlide(index=0) style="border: 2px solid #DC00DD; border-radius: 10px;">
+<div [class]="selected.slide == 0 ? &#39;current&#39; : &#39;old&#39;" class=current style="width: 8px; height: 8px; border-radius: 10px;"></div>
+</div>
+<div role="" tabindex=0 on=tap:carousel-with-preview.goToSlide(index=1) style="border: 2px solid #DC00DD; border-radius: 10px; margin: 0 24px;">
+<div [class]="selected.slide == 1 ? &#39;current&#39; : &#39;old&#39;" class=old style="width: 8px; height: 8px; border-radius: 10px;"></div>
+</div>
+<div role="" tabindex=0 on=tap:carousel-with-preview.goToSlide(index=2) style="border: 2px solid #DC00DD; border-radius: 10px;">
+<div [class]="selected.slide == 2 ? &#39;current&#39; : &#39;old&#39;" class=old style="width: 8px; height: 8px; border-radius: 10px;"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- All time highlights module ends-->
+<!-- 2020 number starts -->
+<div class=bg-width style="background-image: url(&#39;https://services.google.com/fh/files/emails/all_time_highlights_frame_1_2x_11.png&#39;); background-repeat:no-repeat; background-position: top center; height: auto; background-size: 100%; background-color: #212121; display: block;">
+<div style="padding: 20px 0 40px 60px;">
+<p style="font-family: Roboto, Arial, sans-serif; font-size:20px; color: #00E5BD; line-height: 40px; font-weight:700;">2020 by the Numbers</p>
+</div>
+</div>
+<!-- 2020 number ends -->
+<!-- frame 1 starts -->
+<div style="background-color: #212121; display: block;">
+<div style="padding: 20px 70px 20px 60px;">
+<p style="font-family: Roboto, Arial, sans-serif; font-size: 26px; line-height: 39px; font-weight: 500; color: #FFFFFF;">You made 2020 your own. This past year, you gained <span style="color: #DC00DD; font-weight: 700;">15 subscribers</span> and <span style="color: #DC00DD; font-weight: 700;">250 new views</span>.</p>
+</div>
+</div>
+<!-- frame 1 ends -->
+<!-- frame 2 starts -->
+<div class=bg-width style="background-image: url(&#39;https://services.google.com/fh/files/emails/all_time_highlights_frame_1_2x_21.png&#39;); background-repeat:no-repeat; background-position: top center; height: auto; background-size: 100%; background-color: #212121; display: block;">
+<div style="padding: 70px 70px 0px 89px;">
+<div>
+<p style="font-family: Roboto, Arial, sans-serif; font-size: 26px; line-height: 39px; font-weight: 500; color: #FFFFFF; text-align: right;">Viewers spent <span style="color: #DC00DD; font-weight: 700;">155 minutes</span> watching your videos in 2020!</p>
+</div>
+</div>
+</div>
+<!-- frame 2 ends -->
+<!-- Vertical Specific starts -->
+<div style="background-color: #212121;">
+<amp-img src=https://services.google.com/fh/files/emails/2020_in_number_black_and_white_frame_2x_trans_11.png width=480 height=128 style="max-width: 480px; max-height: 128px;"></amp-img>
+</div>
+<!-- Vertical Specific ends -->
+<!--body section starts -->
+<div class=bg-width style="background-image: url(&#39;https://services.google.com/fh/files/emails/vertical_specific_gaming_2x_876.png&#39;); background-repeat:no-repeat; background-position: top center; height: auto; background-size: 100%; background-color: #ffffff; display: block;">
+<div class=sec1-pad>
+<p style="font-family: Roboto, Arial, sans-serif; font-size: 26px; line-height: 39px; font-weight: 500; color: #595959; text-align: right;"><span style="color: #009E83; font-weight: 700;">3 live stream minutes</span> in 2020? That’s next level 👾.</p>
+</div>
+</div>
+<!--body section ends -->
+<!-- Good vibes section starts -->
+<div style="background-color: #00E5BD;">
+<amp-img src=https://services.google.com/fh/files/emails/2020_in_number_white_and_green_frame_2x.png width=480 height=27 style="max-width: 480px; max-height: 27px;"></amp-img>
+</div>
+<!-- channel good body section starts -->
+<div class=bg-width style="background-image: url(&#39;https://services.google.com/fh/files/emails/channel_the_good_gaming_green_2x.png&#39;); background-repeat:no-repeat; background-position: top center; height: auto; background-size: 100%; background-color: #00E5BD; display: block;">
+<div style="padding: 50px 62px 40px 61px;">
+<p style="font-family: Roboto, Arial, sans-serif; font-size: 26px; line-height: 40px; font-weight: 700; color: #000D0B;">#MyYearInReview</p>
+<p style="font-family: Roboto, Arial, sans-serif; font-size: 14px; line-height: 21px; font-weight: 400; color: #000D0B; padding-top: 33px;">You’ve taken the challenge of 2020 head-on, and kept our spirits high. Thanks for being a constant inspiration. Take a screenshot and use #MyYearInReview to share with your fans.</p>
+</div>
+</div>
+<!-- channel good body section ends -->
+<!-- channel good white and yellow frame starts -->
+<div style="background-color: #ffffff;">
+<amp-img src=https://services.google.com/fh/files/emails/yir-gaming-channelgood-bottom-slice.png width=480 height=45 style="max-width: 480px; max-height: 45px;"></amp-img>
+</div>
+<!-- channel good white and yellow frame ends -->
+<!-- Footer starts -->
+<div style="background-color: #ffffff;">
+<div style="padding: 28px 0 10px;">
+<p style="color:#282828; font-family: Roboto, Arial, sans-serif; font-size:18px; line-height:27px; text-align:center; font-weight: 500;">Was this email helpful?</p>
+</div>
+<div style="padding: 0 0 26px; flex-direction: row; align-items: center; justify-content: center;">
+<div style="margin: 0 2px;">
+<a href=https://www.google.com/appserve/mkt/p/AD-FnEy9goBaCB9TvU0Oc5sakhAgS_9P-BrAvgmXlhQH61VvKsObGsrpnW6orNAtIDJDmy0Ol83TxNzfXW4nxcbBjM-gJclXKuFUbedCQ_T3iZNFn7XYtHPb4uD6PtHhOGlS4wiejAc29MYJ_8aQJ61NyWyf314DNuVdZ_BpYJ-NYECN2iv4qLcrSmzGiGxAOKn03t2UpIFxzaK7WvQQFvB0RHO9wuKno4OpFZ5ii_I6y5kHM9MgrblZUpfR-seO8kwMWRb22YNS-q5ki2nTYZ5g9KPupZj1IxthU1SJO0GMAa-ldt1I-uEO8OM target=_blank style=text-decoration:none;>
+<amp-img src=https://services.google.com/fh/files/emails/satisfaction_module_face_5_2x.png width=36 height=36 alt="Very dissatisfied" title="Very dissatisfied" style="max-width: 36px; max-height: 36px; margin: 6px; display: block;
+"></amp-img>
+</a>
+</div>
+<div style="margin: 0 2px;">
+<a href=https://www.google.com/appserve/mkt/p/AD-FnEwlEUIbjSF4oeFZqcQn1O4t8W3W9aioynKRIEwBEWaEB-xhv_-Rpd18jXad3tqLa31yFWO5BNJwkTAQxUkiKqTiz06q9_ql5dtxCikJ2LXXEhrbeI94hjia0Q11K0ZDTAAU8r1Riaz0GuGbq_vRs7W6ue7xqsorQnzOrLbBEKtAffJwu9S9nU6o8_tBRaAEsoJOtt7HHyG3UbAe2DFOSWndzD6uqa8UtGMx-qZeRVCh1S7GXy8qgnBQdywphJD-pYbIaKNoLZ59Uh6qGYrrHbxGQrCD7aP2cBHngIh0IOvIcqNl target=_blank style=text-decoration:none;>
+<amp-img src=https://services.google.com/fh/files/emails/satisfaction_module_face_4_2x.png width=36 height=36 alt=Dissatisfied title=Dissatisfied style="max-width: 36px; max-height: 36px; margin: 6px; display: block;
+"></amp-img>
+</a>
+</div>
+<div style="margin: 0 2px;">
+<a href=https://www.google.com/appserve/mkt/p/AD-FnEzlPteEGlzhvOPaobCi0HuuW3YPovi1EJtWMcBaAHcaqQO0FaR7byYej1JMYUTOMbjVxRNQze0azbSz9h5mw6LC_aThpPOE97b5VMiQuwJSFYpRuaScw7FwYlC7zPT1HVSl9TjWraT2zRli1u4okZZvAOGqZH1U6E2JDx0SjTzJbGmh3-NQ0zdOBmGNZsXT2Bqjc9QL4gUoobVqqOfRoKU6_oRw2dqJPtQdU662DbCJXSskofOX5KCn8HbuVHBNcNCdPPLBs51ooF51j0UmvixG1Q1EalQRoG5aEM1JGA target=_blank style=text-decoration:none;>
+<amp-img src=https://services.google.com/fh/files/emails/satisfaction_module_face_3_2x.png width=36 height=36 alt=Neutral title=Neutral style="max-width: 36px; max-height: 36px; margin: 6px; display: block;
+"></amp-img>
+</a>
+</div>
+<div style="margin: 0 2px;">
+<a href=https://www.google.com/appserve/mkt/p/AD-FnExjlJbIWKpl8OoCy6cE6fr3WC9NxSyRyhu1zVh_QXkMnCNIOyXrSnf7IvZo1xIWuY1yBV0H-jRxQwQI3XYXQqPYVwcoxYZkxV9hrBdpae0Tdoz1Sz_ezHzxNBPGMtQZojnIXg-cAYfjXy7AyiQxgJhc4ukebLnRYBVsxPL-_LHyUaXQqoj_FmIG-f5RkiNdRJcbzXsWipygbE6AMtGiBvR2D3DYKYSh_kl93_HwVnEL9xsKYfBIn3lULLRrDgl61JEYDgd5-3GjCK5cCFJghy6CLDxgdVD742ewPd6P4VWI target=_blank style=text-decoration:none;>
+<amp-img src=https://services.google.com/fh/files/emails/satisfaction_module_face_2_2x.png width=36 height=36 alt=Satisfied title=Satisfied style="max-width: 36px; max-height: 36px; margin: 6px; display: block;
+"></amp-img>
+</a>
+</div>
+<div style="margin: 0 2px;">
+<a href=https://www.google.com/appserve/mkt/p/AD-FnEzH5tkcc-TDR4D9qZaFvYuWnbZMNwvpwNmh30Veg9vIvjsxP_YfVYAtr7Jn8CcCsMlQA1x7f_aFn7XMjUbaGSk7bydxZaGLeiBPkL39CA4_ml5WIgCLfg7TAXDMNWkCwiu17Fcnf1Dm6WnuWmhsbDHgn_AZk7YbM17W76GdFrWhUBl_HJjkr7CRT-cPYUXvt5w9melo2FEx796KF7AqtEz8QTHCVyj29osRhVw_DvmZSb_9RixH3fd86-acN0bpW7qo6OB66tZCEtzgDClmiifcTihBxsVAmA-kqYorBMvvhDN6lRw target=_blank style=text-decoration:none;>
+<amp-img src=https://services.google.com/fh/files/emails/new_satisfaction_module_face_1_2x.png width=36 height=36 alt="Very satisfied" title="Very satisfied" style="max-width: 36px; max-height: 36px; margin: 6px; display: block;
+"></amp-img>
+</a>
+</div>
+</div>
+</div>
+<div style="background-color: #F5F5F5; padding: 0 30px;">
+<div style="padding: 45px 0 17px; flex-direction: row; align-items: center; justify-content: center;">
+<div style="margin: 0 2px;">
+<a href=https://www.google.com/appserve/mkt/p/AD-FnEzquML8o-vkExZlRB5EC07a077akMf8Y43vQ4dS03OnMpbKG2PT8je4LMqAALSSjiiUk0CTYEQyHeGgOQr6mFYvvC4tg31S0lgbng3gdH0Bs3syF1Zr1vGSHXOEXFvX8f0m6bvNlG3_fqvjG_6YCbODxg target=_blank style=text-decoration:none;>
+<amp-img src=https://services.google.com/fh/files/emails/youtube_logo_7_febu.png width=31 height=22 alt="Subscribe to the YouTube Creator Channel" title="Subscribe to the YouTube Creator Channel" style="max-width: 31px; max-height: 22px; margin: 13px 8px; display: block;
+"></amp-img>
+</a>
+</div>
+<div style="margin: 0 2px; align-items: center;">
+<a href=https://www.google.com/appserve/mkt/p/AD-FnEyuzwDOvFkMjcVRCEE9Tk4AnBbHYbt3v2LzGCSntSFwSbflyUiH4h5J9hLCWf2jG6QzUF3q56GWouzqiaBb_AOKRWLpTICuE8_Zl4eL9Le8En4UbnzDfR0rAYArgA target=_blank style=text-decoration:none;>
+<amp-img src=https://services.google.com/fh/files/emails/twitter_logo_7_febu.png width=31 height=26 alt="Follow YouTube Creators on Twitter" title="Follow YouTube Creators on Twitter" style="max-width: 31px; max-height: 26px; margin: 11px 8px; display: block;
+"></amp-img>
+</a>
+</div>
+</div>
+<div style="padding: 0 0 33px; align-items: center;">
+<p style="font-family: Roboto,Arial, sans-serif; font-size: 12px; color: #5D5D5D; line-height: 18px; font-weight: 400; text-align: center;">© 2020 Google LLC d/b/a YouTube, 901 Cherry Ave, San Bruno, CA 94066</p>
+</div>
+<div style="padding: 0 0 64px; align-items: center;">
+<p style="font-family: Roboto,Arial, sans-serif; font-size: 12px; color: #5D5D5D; line-height: 18px; font-weight: 400; text-align: center;">You received this message because you signed up to receive emails about your YouTube channel: updates, announcements, and personalized tips. If you do not want to receive these emails in the future, please unsubscribe <a href=http://www.google.com/appserve/mkt/p/AD-FnEwZVsvnPkZ0vd6KCQ0DNBqim7PZOX8IdXJSSUlto66pPZWoCmn6N2Gf0SNAFthW4XfyQ1ev-NprXzLwQmON-Zua3bDeSHZA_POqHdYGeSkM4T3ComKaTcRJw06x3KroqrjfM756Rm-yo9BgHnjtyi3eU5Ux5NWYl2ItlcoOf9KK_VbHLa9Bk4dOqqc5-5Xxq0QNKEHhD_S4UVXDlft-zupE-x-C0L2yHgw24R9TiEyquZl0GqgHM9-bF9OKRTfKsb2eyl7w74uL2wDlUax1CA target=_blank style="color: #065FD4; text-decoration: none;">here</a>.</p>
+</div>
+<div style="padding: 0 0 64px; align-items: center;">
+<amp-img src=https://services.google.com/fh/files/emails/yt_grey_logo_27.png width=90 height=20 style="max-width: 90px; max-height: 20px;"></amp-img>
+</div>
+</div> <!-- Footer ends -->
+</div>
+<!-- 480 main table ends -->
+<amp-img height=1 width=3 src=https://www.google.com/appserve/mkt/img/AD-FnEyNmgms_8Akx2Jyc9-SfMbp7zL4q4OAp2FZU-baTiFaCIo.gif></body>
+</html> <!-- Structure -->

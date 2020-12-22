@@ -1,0 +1,7 @@
+game:
+  exe: /home/neo64yt/Games/UT_DEMO/UndertaleDemo.exe
+  prefix: ~/.wine
+  working_dir: ~/Games/UT_DEMO
+system:
+  xephyr_fullscreen: false
+wine: {}

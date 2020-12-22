@@ -1,0 +1,19 @@
+#!/bin/sh
+
+# Directory of status
+dir="$HOME/.dwm/scriptbar"
+
+# Directory of components
+comps="$dir/comps"
+
+# Components names
+host=$(echo "󰌢 $(hostname)")
+packages=$(sh $comps/packs)
+battery=$(sh $comps/battery)
+time=$(sh $comps/time)
+mykernel=$(sh $comps/kernel)
+
+# NOTE: "|" is the default seperator used 
+
+echo " | $host | ALERT: COMPONENT NEEDED FOR THIS STATUS BAR | $mykernel | $packages | $battery | $time | "
+

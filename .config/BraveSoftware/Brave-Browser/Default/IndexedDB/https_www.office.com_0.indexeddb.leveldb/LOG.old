@@ -1,0 +1,5 @@
+2020/12/08-10:57:49.915 17b2e Reusing MANIFEST /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/08-10:57:51.930 17ea6 Level-0 table #5: started
+2020/12/08-10:57:51.949 17ea6 Level-0 table #5: 217 bytes OK
+2020/12/08-10:57:51.969 17ea6 Delete type=0 #3
+2020/12/08-10:57:51.969 17ea6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

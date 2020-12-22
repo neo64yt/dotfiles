@@ -1,0 +1,80 @@
+[   710.391] (WW) Failed to open protocol names file lib/xorg/protocol.txt
+[   710.393] 
+X.Org X Server 1.20.10
+X Protocol Version 11, Revision 0
+[   710.398] Build Operating System: Linux Arch Linux
+[   710.400] Current Operating System: Linux neo-arch-pc 5.9.12-zen1-1-zen #1 ZEN SMP PREEMPT Wed, 02 Dec 2020 16:15:06 +0000 x86_64
+[   710.400] Kernel command line: ro root=/dev/sda5 rw loglevel=3 rd.udev.log_priority=3 vt.global_cursor_default=0 initrd=boot\initramfs-linux-zen.img
+[   710.404] Build Date: 01 December 2020  07:51:57PM
+[   710.405]  
+[   710.407] Current version of pixman: 0.40.0
+[   710.411] 	Before reporting problems, check http://wiki.x.org
+	to make sure that you have the latest version.
+[   710.411] Markers: (--) probed, (**) from config file, (==) default setting,
+	(++) from command line, (!!) notice, (II) informational,
+	(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+[   710.422] (==) Log file: "/home/neo64yt/.local/share/xorg/Xorg.0.log", Time: Tue Dec  8 20:47:55 2020
+[   710.424] (==) Using config file: "/etc/X11/xorg.conf"
+[   710.427] (==) Using system config directory "/usr/share/X11/xorg.conf.d"
+[   710.428] (==) No Layout section.  Using the first Screen section.
+[   710.428] (==) No screen section available. Using defaults.
+[   710.428] (**) |-->Screen "Default Screen Section" (0)
+[   710.428] (**) |   |-->Monitor "<default monitor>"
+[   710.428] (==) No device specified for screen "Default Screen Section".
+	Using the first device section listed.
+[   710.428] (**) |   |-->Device "Radeon"
+[   710.428] (==) No monitor specified for screen "Default Screen Section".
+	Using a default monitor configuration.
+[   710.428] (==) Automatically adding devices
+[   710.428] (==) Automatically enabling devices
+[   710.428] (==) Automatically adding GPU devices
+[   710.428] (==) Automatically binding GPU devices
+[   710.428] (==) Max clients allowed: 256, resource mask: 0x1fffff
+[   710.428] (WW) The directory "/usr/share/fonts/misc" does not exist.
+[   710.428] 	Entry deleted from font path.
+[   710.429] (WW) The directory "/usr/share/fonts/Type1" does not exist.
+[   710.429] 	Entry deleted from font path.
+[   710.429] (==) FontPath set to:
+	/usr/share/fonts/TTF,
+	/usr/share/fonts/OTF,
+	/usr/share/fonts/100dpi,
+	/usr/share/fonts/75dpi
+[   710.429] (==) ModulePath set to "/usr/lib/xorg/modules"
+[   710.429] (II) The server relies on udev to provide the list of input devices.
+	If no devices become available, reconfigure udev or disable AutoAddDevices.
+[   710.429] (II) Module ABI versions:
+[   710.429] 	X.Org ANSI C Emulation: 0.4
+[   710.429] 	X.Org Video Driver: 24.1
+[   710.429] 	X.Org XInput driver : 24.1
+[   710.429] 	X.Org Server Extension : 10.0
+[   710.435] (II) systemd-logind: took control of session /org/freedesktop/login1/session/_33
+[   710.439] (II) xfree86: Adding drm device (/dev/dri/card0)
+[   710.442] (II) systemd-logind: got fd for /dev/dri/card0 226:0 fd 10 paused 0
+[   710.460] (--) PCI:*(0@0:1:0) 1002:983d:144d:c730 rev 0, Mem @ 0xc0000000/268435456, 0xd0000000/8388608, 0xfeb00000/262144, I/O @ 0x0000f000/256, BIOS @ 0x????????/131072
+[   710.460] (II) Open ACPI successful (/var/run/acpid.socket)
+[   710.460] (II) LoadModule: "glx"
+[   710.461] (II) Loading /usr/lib/xorg/modules/extensions/libglx.so
+[   710.467] (II) Module glx: vendor="X.Org Foundation"
+[   710.467] 	compiled for 1.20.10, module version = 1.0.0
+[   710.467] 	ABI class: X.Org Server Extension, version 10.0
+[   710.467] (II) LoadModule: "amdgpu"
+[   710.468] (II) Loading /usr/lib/xorg/modules/drivers/amdgpu_drv.so
+[   710.472] (II) Module amdgpu: vendor="X.Org Foundation"
+[   710.473] 	compiled for 1.20.8, module version = 19.1.0
+[   710.473] 	Module class: X.Org Video Driver
+[   710.473] 	ABI class: X.Org Video Driver, version 24.1
+[   710.473] (II) AMDGPU: Driver for AMD Radeon:
+	All GPUs supported by the amdgpu kernel driver
+[   710.473] (EE) 
+Fatal server error:
+[   710.473] (EE) parse_vt_settings: Cannot open /dev/tty0 (Permission denied)
+[   710.473] (EE) 
+[   710.473] (EE) 
+Please consult the The X.Org Foundation support 
+	 at http://wiki.x.org
+ for help. 
+[   710.473] (EE) Please also check the log file at "/home/neo64yt/.local/share/xorg/Xorg.0.log" for additional information.
+[   710.474] (EE) 
+[   710.474] (WW) xf86CloseConsole: KDSETMODE failed: Bad file descriptor
+[   710.474] (WW) xf86CloseConsole: VT_GETMODE failed: Bad file descriptor
+[   710.490] (EE) Server terminated with error (1). Closing log file.

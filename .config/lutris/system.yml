@@ -1,0 +1,10 @@
+system:
+  aco: true
+  env:
+    DXVK_HUD: ''
+  pulse_latency: true
+  reset_desktop: true
+  restore_gamma: true
+  sdl_video_fullscreen: '0'
+  use_us_layout: true
+  vk_icd: /usr/share/vulkan/icd.d/radeon_icd.x86_64.json

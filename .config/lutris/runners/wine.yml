@@ -1,0 +1,21 @@
+system:
+  env: {}
+  pulse_latency: true
+  reset_desktop: true
+  restore_gamma: true
+  sdl_video_fullscreen: '0'
+  vk_icd: /usr/share/vulkan/icd.d/radeon_icd.x86_64.json
+  xephyr: 24bpp
+  xephyr_fullscreen: false
+wine:
+  Audio: pulse
+  Desktop: false
+  UseXVidMode: true
+  WineDesktop: 1366x768
+  dxvk_version: 1.7.1L
+  esync: false
+  fsync: false
+  gallium_nine: true
+  overrides: {}
+  x360ce-dinput: true
+  x360ce-xinput9: true

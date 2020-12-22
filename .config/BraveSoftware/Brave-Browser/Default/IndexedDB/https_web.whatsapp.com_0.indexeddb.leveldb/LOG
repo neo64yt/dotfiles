@@ -1,0 +1,17 @@
+2020/12/21-15:20:08.395 8c47 Reusing MANIFEST /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/21-15:20:08.396 8c47 Recovering log #38
+2020/12/21-15:20:08.396 8c47 Reusing old log /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000038.log 
+2020/12/21-15:41:42.537 b0b9 Level-0 table #44: started
+2020/12/21-15:41:42.595 b0b9 Level-0 table #44: 457020 bytes OK
+2020/12/21-15:41:42.614 b0b9 Delete type=0 #38
+2020/12/21-15:41:42.615 b0b9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/21-15:41:42.616 b0b9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x02\x1f\x03\x000>\xe8ChwB\x00\x01,\x00/\x00h\x006\x006\x00x\x00v\x00o\x00z\x007\x00g\x00t\x00i\x00d\x004\x006\x00N\x00L\x00k\x00p\x00w\x00p\x00x\x00E\x00E\x00l\x005\x00h\x00s\x00j\x006\x00o\x00n\x001\x00b\x00i\x004\x00N\x00Q\x00p\x004\x00e\x00+\x00M\x00=' @ 260534 : 1
+2020/12/21-15:41:42.616 b0b9 Compacting 1@1 + 2@2 files
+2020/12/21-15:41:42.928 b0b9 Generated table #45@1: 47177 keys, 2240365 bytes
+2020/12/21-15:41:43.004 b0b9 Generated table #46@1: 10405 keys, 521098 bytes
+2020/12/21-15:41:43.004 b0b9 Compacted 1@1 + 2@2 files => 2761463 bytes
+2020/12/21-15:41:43.027 b0b9 compacted to: files[ 0 0 2 0 0 0 0 ]
+2020/12/21-15:41:43.029 b0b9 Delete type=2 #41
+2020/12/21-15:41:43.029 b0b9 Delete type=2 #44
+2020/12/21-15:41:43.030 b0b9 Delete type=2 #40
+2020/12/21-15:41:43.033 b0b9 Manual compaction at level-1 from '\x00\x05\x02\x1f\x03\x000>\xe8ChwB\x00\x01,\x00/\x00h\x006\x006\x00x\x00v\x00o\x00z\x007\x00g\x00t\x00i\x00d\x004\x006\x00N\x00L\x00k\x00p\x00w\x00p\x00x\x00E\x00E\x00l\x005\x00h\x00s\x00j\x006\x00o\x00n\x001\x00b\x00i\x004\x00N\x00Q\x00p\x004\x00e\x00+\x00M\x00=' @ 260534 : 1 .. (end); will stop at (end)

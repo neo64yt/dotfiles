@@ -1,0 +1,5 @@
+text/vnd.kde.kcrash-report:text-plain
+application/vnd.kde.kcfgc:text-plain
+application/vnd.kde.knotificationrc:text-plain
+application/vnd.kde.kxmlguirc:application-xml
+application/vnd.kde.kcfg:application-xml

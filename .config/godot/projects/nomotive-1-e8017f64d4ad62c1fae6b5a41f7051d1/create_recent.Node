@@ -1,0 +1,4 @@
+CollisionShape2D
+Sprite
+Area2D
+KinematicBody2D

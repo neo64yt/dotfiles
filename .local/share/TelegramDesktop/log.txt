@@ -1,0 +1,122 @@
+[2020.12.13 08:58:38] Launched version: 2004007, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2020.12.13 08:58:38] Executable dir: /usr/bin/, name: telegram-desktop
+[2020.12.13 08:58:38] Initial working dir: /home/neo64yt/.local/share/TelegramDesktop/
+[2020.12.13 08:58:38] Working dir: /home/neo64yt/.local/share/TelegramDesktop/
+[2020.12.13 08:58:38] Command line: /usr/bin/telegram-desktop -noupdate -tosettings
+[2020.12.13 08:58:38] Executable path before check: /usr/bin/telegram-desktop
+[2020.12.13 08:58:38] Logs started
+[2020.12.13 08:58:38] Launcher filename: telegramdesktop.desktop
+[2020.12.13 08:58:38] Getting DE, XDG_CURRENT_DESKTOP: ''
+[2020.12.13 08:58:38] Getting DE, DESKTOP_SESSION: 'dwm'
+[2020.12.13 08:58:38] Getting DE, KDE_SESSION_VERSION: ''
+[2020.12.13 08:58:38] Getting DE, GNOME_DESKTOP_SESSION_ID: ''
+[2020.12.13 08:58:38] Getting DE, KDE_FULL_SESSION: ''
+[2020.12.13 08:58:38] DE: Other
+[2020.12.13 08:58:38] Connecting local socket to /run/user/1000/81d9fcaa1d9082ef389a452730884268-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2020.12.13 08:58:38] This is the only instance of Telegram, starting server and app...
+[2020.12.13 08:58:38] Moved logging from '/home/neo64yt/.local/share/TelegramDesktop/log_start1.txt' to '/home/neo64yt/.local/share/TelegramDesktop/log.txt'!
+[2020.12.13 08:58:38] Old start log 'log_start0.txt' found, deleted: [TRUE]
+[2020.12.13 08:58:38] Primary screen DPI: 96.1032
+[2020.12.13 08:58:38] App Info: reading settings...
+[2020.12.13 08:58:38] App Info: reading encrypted settings...
+[2020.12.13 08:58:38] Lang Info: Loaded cached, keys: 2802
+[2020.12.13 08:58:41] OpenAL Logging Level: (not set)
+[2020.12.13 08:58:41] Audio Playback Devices: Built-in Audio Analog Stereo;Simultaneous output to Built-in Audio Analog Stereo
+[2020.12.13 08:58:41] Audio Playback Default Device: Built-in Audio Analog Stereo
+[2020.12.13 08:58:41] Audio Capture Devices: Built-in Audio Analog Stereo;Monitor of Built-in Audio Analog Stereo;Monitor Source of Simultaneous output to Built-in Audio Analog Stereo
+[2020.12.13 08:58:41] Audio Capture Default Device: Built-in Audio Analog Stereo
+[2020.12.13 08:58:41] System tray available: [TRUE]
+[2020.12.13 08:58:41] Not using D-Bus global menu.
+[2020.12.13 08:58:41] Not using Unity launcher counter.
+[2020.12.13 08:58:41] App Info: reading accounts info...
+[2020.12.13 08:58:41] App Info: reading encrypted info...
+[2020.12.13 08:58:41] App Info: reading map...
+[2020.12.13 08:58:41] App Info: reading encrypted map...
+[2020.12.13 08:58:41] App Info: reading encrypted user settings...
+[2020.12.13 08:58:41] App Info: encrypted user settings read.
+[2020.12.13 08:58:41] App Info: reading encrypted mtp data...
+[2020.12.13 08:58:41] MTP Info: read keys, current: 4, to destroy: 0
+[2020.12.13 08:58:41] Map read time: 2
+[2020.12.13 08:58:41] App Info: reading encrypted mtp config...
+[2020.12.13 08:58:41] TCP Error: network - Network unreachable
+[2020.12.13 08:58:41] HTTP Error: network error 99 - Network unreachable
+[2020.12.13 08:58:42] Export Info: Destroy top bar by controller removal.
+[2020.12.13 08:58:42] Using Qt tray icon.
+[2020.12.13 08:58:54] Audio Info: recreating audio device and reattaching the tracks
+[2020.12.13 08:58:56] Audio Info: Closing audio playback device.
+[2020.12.13 08:59:02] Audio Info: recreating audio device and reattaching the tracks
+[2020.12.13 08:59:04] Audio Info: Closing audio playback device.
+[2020.12.13 08:59:19] TCP Error: network - Network unreachable
+[2020.12.13 08:59:19] HTTP Error: network error 99 - Network unreachable
+[2020.12.13 08:59:19] TCP Error: network - Network unreachable
+[2020.12.13 08:59:19] HTTP Error: network error 99 - Network unreachable
+[2020.12.13 08:59:19] TCP Error: network - Network unreachable
+[2020.12.13 08:59:19] HTTP Error: network error 99 - Network unreachable
+[2020.12.13 09:01:19] Audio Info: recreating audio device and reattaching the tracks
+[2020.12.13 09:01:21] Audio Info: Closing audio playback device.
+[2020.12.13 09:01:49] Audio Info: recreating audio device and reattaching the tracks
+[2020.12.13 09:01:51] Audio Info: Closing audio playback device.
+[2020.12.13 09:07:38] Audio Info: recreating audio device and reattaching the tracks
+[2020.12.13 09:07:40] Audio Info: Closing audio playback device.
+[2020.12.13 09:18:57] Audio Info: recreating audio device and reattaching the tracks
+[2020.12.13 09:18:59] Audio Info: Closing audio playback device.
+[2020.12.13 09:19:19] Audio Info: recreating audio device and reattaching the tracks
+[2020.12.13 09:19:21] Audio Info: Closing audio playback device.
+[2020.12.13 09:20:59] Audio Info: recreating audio device and reattaching the tracks
+[2020.12.13 09:21:01] Audio Info: Closing audio playback device.
+[2020.12.13 09:21:51] Audio Info: recreating audio device and reattaching the tracks
+[2020.12.13 09:21:53] Audio Info: Closing audio playback device.
+[2020.12.13 09:27:20] Audio Info: recreating audio device and reattaching the tracks
+[2020.12.13 09:27:22] Audio Info: Closing audio playback device.
+[2020.12.13 09:28:25] Audio Info: recreating audio device and reattaching the tracks
+[2020.12.13 09:28:27] Audio Info: Closing audio playback device.
+[2020.12.13 09:29:35] API Warning: emoji 🇹🇦 is not supported, word: flag.
+[2020.12.13 09:29:35] API Warning: emoji 🇩🇬 is not supported, word: flag.
+[2020.12.13 09:29:35] API Warning: emoji 🇦🇨 is not supported, word: flag.
+[2020.12.13 09:29:35] API Warning: emoji 🇪🇦 is not supported, word: flag.
+[2020.12.13 09:29:35] API Warning: emoji 🇲🇫 is not supported, word: flag.
+[2020.12.13 09:29:35] API Warning: emoji 🇹🇦 is not supported, word: flag.
+[2020.12.13 09:29:35] API Warning: emoji 🇩🇬 is not supported, word: flag.
+[2020.12.13 09:29:35] API Warning: emoji 🇦🇨 is not supported, word: flag.
+[2020.12.13 09:29:35] API Warning: emoji 🇪🇦 is not supported, word: flag.
+[2020.12.13 09:29:35] API Warning: emoji 🇲🇫 is not supported, word: flag.
+[2020.12.13 09:29:35] API Warning: emoji 🇩🇬 is not supported, word: diego garcia.
+[2020.12.13 09:29:35] API Warning: emoji 🧑‍🤝‍🧑 is not supported, word: bf.
+[2020.12.13 09:29:35] API Warning: emoji 🇹🇦 is not supported, word: ta.
+[2020.12.13 09:29:35] API Warning: emoji 🇦🇨 is not supported, word: ascension island.
+[2020.12.13 09:29:35] API Warning: emoji 🇦🇨 is not supported, word: ac.
+[2020.12.13 09:29:35] API Warning: emoji 🇦🇨 is not supported, word: flag_ac.
+[2020.12.13 09:29:35] API Warning: emoji 🇹🇦 is not supported, word: tristan da cunha.
+[2020.12.13 09:29:35] API Warning: emoji 🇩🇬 is not supported, word: british indian ocean territory.
+[2020.12.13 09:29:35] API Warning: emoji 🇹🇦 is not supported, word: flag_ta.
+[2020.12.13 09:29:35] API Warning: emoji 🇲🇫 is not supported, word: st. martin.
+[2020.12.13 09:29:35] API Warning: emoji 🇪🇦 is not supported, word: ceuta & melilla.
+[2020.12.13 09:29:35] API Warning: emoji 🇹🇦 is not supported, word: bendera.
+[2020.12.13 09:29:35] API Warning: emoji 🇲🇫 is not supported, word: bendera.
+[2020.12.13 09:29:35] API Warning: emoji 🇩🇬 is not supported, word: bendera.
+[2020.12.13 09:29:35] API Warning: emoji 🇪🇦 is not supported, word: bendera.
+[2020.12.13 09:29:35] API Warning: emoji 🇦🇨 is not supported, word: bendera.
+[2020.12.13 09:29:35] API Warning: emoji 🇹🇦 is not supported, word: bendera.
+[2020.12.13 09:29:35] API Warning: emoji 🇲🇫 is not supported, word: bendera.
+[2020.12.13 09:29:35] API Warning: emoji 🇩🇬 is not supported, word: bendera.
+[2020.12.13 09:29:35] API Warning: emoji 🇪🇦 is not supported, word: bendera.
+[2020.12.13 09:29:35] API Warning: emoji 🇦🇨 is not supported, word: bendera.
+[2020.12.13 09:29:35] API Warning: emoji 🇩🇬 is not supported, word: diego garcia.
+[2020.12.13 09:29:36] API Warning: emoji 🇹🇦 is not supported, word: bendera_ta.
+[2020.12.13 09:29:36] API Warning: emoji 🇹🇦 is not supported, word: ta.
+[2020.12.13 09:29:36] API Warning: emoji 🇹🇦 is not supported, word: tristan da cunha.
+[2020.12.13 09:29:36] API Warning: emoji 🇲🇫 is not supported, word: st. martin.
+[2020.12.13 09:29:36] API Warning: emoji 🇦🇨 is not supported, word: pulau ascension.
+[2020.12.13 09:29:36] API Warning: emoji 🇪🇦 is not supported, word: ceuta & melilla.
+[2020.12.13 09:29:36] API Warning: emoji 🇦🇨 is not supported, word: bendera: pulau ascension.
+[2020.12.13 09:29:51] Skipping message, because it is already in blocks!
+[2020.12.13 09:30:37] Audio Info: recreating audio device and reattaching the tracks
+[2020.12.13 09:30:38] Audio Info: Closing audio playback device.
+[2020.12.13 09:31:25] Audio Info: recreating audio device and reattaching the tracks
+[2020.12.13 09:31:27] Audio Info: Closing audio playback device.
+[2020.12.13 09:32:10] TCP Error: network - Network unreachable
+[2020.12.13 09:32:10] HTTP Error: network error 99 - Network unreachable
+[2020.12.13 09:32:10] Audio Info: recreating audio device and reattaching the tracks
+[2020.12.13 09:32:12] Audio Info: Closing audio playback device.
+[2020.12.13 09:35:52] Audio Info: recreating audio device and reattaching the tracks
+[2020.12.13 09:35:54] Audio Info: Closing audio playback device.

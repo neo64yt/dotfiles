@@ -1,0 +1,4 @@
+linux: {}
+system:
+  aco: true
+  reset_desktop: true

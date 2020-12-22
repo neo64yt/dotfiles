@@ -1,0 +1,12 @@
+#!/bin/sh
+
+# Directory of status
+statusbar="$HOME/.dwm/scriptbar/status"
+
+killall $HOME/.dwm/scriptbar/start-status
+
+while true; do
+	xsetroot -name "$(echo 󰀓 $(whoami));$(sh $statusbar)"
+	sleep 5
+done
+

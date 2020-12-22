@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/neo64yt/Pictures/neo.jpeg" added="2020-11-16T08:25:02.438079Z" modified="2020-12-03T06:34:26.918819Z" visited="2020-11-16T08:25:02.438082Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-11-16T08:25:02.438087Z" count="1"/>
+          <bookmark:application name="mugshot" exec="&apos;mugshot %u&apos;" modified="2020-11-16T08:25:28.022853Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-22T01:01:17.934916Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-03T06:34:26.918801Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/.wine/drive_c/Program%20Files%20(x86)/SURVEY_PROGRAM" added="2020-11-16T13:08:42.101319Z" modified="2020-11-23T23:50:06.064175Z" visited="2020-11-16T13:08:42.101323Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2020-11-16T13:08:42.101333Z" count="1"/>
+          <bookmark:application name="deadbeef" exec="&apos;deadbeef %u&apos;" modified="2020-11-23T23:50:06.064166Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Impactor64_0.9.52.tgz" added="2020-11-16T14:00:57.142822Z" modified="2020-12-11T05:45:05.226279Z" visited="2020-11-16T14:00:57.142825Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-11T05:44:46.293244Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-11T05:45:05.226270Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/UTM.ipa" added="2020-11-16T14:12:16.027492Z" modified="2020-12-12T14:53:06.558481Z" visited="2020-11-16T14:12:16.027496Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-12T14:53:06.558469Z" count="5"/>
+          <bookmark:application name="Impactor" exec="&apos;Impactor %u&apos;" modified="2020-11-16T22:44:52.625371Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/bin" added="2020-11-16T22:53:37.559459Z" modified="2020-12-15T02:15:12.058011Z" visited="2020-11-16T22:53:37.559463Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2020-12-15T02:15:12.058004Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/HBCD_PE_x64.iso" added="2020-11-20T02:34:21.779447Z" modified="2020-11-29T03:45:23.624994Z" visited="2020-11-20T02:34:21.779451Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-multi-writer" exec="&apos;gnome-multi-writer %u&apos;" modified="2020-11-20T02:34:21.779459Z" count="1"/>
+          <bookmark:application name="imagewriter" exec="&apos;imagewriter %u&apos;" modified="2020-11-29T03:42:21.359332Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-11-29T03:45:23.624983Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/eclipse.tar.gz" added="2020-11-21T12:10:39.657491Z" modified="2020-11-21T12:10:39.657521Z" visited="2020-11-21T12:10:39.657496Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-11-21T12:10:39.657505Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dwm-ewmhtags-6.2.diff" added="2020-11-22T00:38:15.111642Z" modified="2020-11-22T00:38:15.111675Z" visited="2020-11-22T00:38:15.111646Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-11-22T00:38:15.111657Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/naufalramlisembok@gmail.com%20Firefox%20Recovery%20Key.txt" added="2020-11-22T01:02:02.619903Z" modified="2020-11-22T01:02:02.619935Z" visited="2020-11-22T01:02:02.619908Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-22T01:02:02.619919Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/naufalramlisembok@gmail.com%20Firefox%20Recovery%20Codes.txt" added="2020-11-22T01:03:02.385676Z" modified="2020-11-22T01:03:02.385747Z" visited="2020-11-22T01:03:02.385680Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-22T01:03:02.385697Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dwm-extrabar-6.2.diff" added="2020-11-22T01:38:56.740514Z" modified="2020-11-22T01:38:57.272988Z" visited="2020-11-22T01:38:56.740521Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-22T01:38:57.272974Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/.wine/drive_c/Program%20Files%20(x86)/SURVEY_PROGRAM/AUDIO_INTRONOISE.ogg" added="2020-11-23T23:49:52.192251Z" modified="2020-11-23T23:49:52.192276Z" visited="2020-11-23T23:49:52.192255Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/ogg"/>
+        <bookmark:applications>
+          <bookmark:application name="deadbeef" exec="&apos;deadbeef %u&apos;" modified="2020-11-23T23:49:52.192262Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/plata-theme-colors-0.9.1.tar.xz" added="2020-11-24T03:14:29.812570Z" modified="2020-11-24T03:30:12.653346Z" visited="2020-11-24T03:14:29.812575Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-24T03:29:55.198505Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-11-24T03:30:12.653340Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Ultimate-Plata-Dark_1.9.5.zip" added="2020-11-24T03:15:57.708587Z" modified="2020-11-24T03:16:04.036887Z" visited="2020-11-24T03:15:57.708596Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-24T03:15:57.708611Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-11-24T03:16:04.036878Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Ult-%20Plata-Dk-More-Indigo_1.9.5.zip" added="2020-11-24T03:18:11.699889Z" modified="2020-11-24T03:18:19.961950Z" visited="2020-11-24T03:18:11.699894Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-24T03:18:11.699911Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-11-24T03:18:19.961941Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Plata-Dark-Arc_1.3.zip" added="2020-11-24T03:25:35.496774Z" modified="2020-11-24T03:26:08.948926Z" visited="2020-11-24T03:25:35.496780Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-24T03:25:35.496787Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-11-24T03:26:08.948917Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/st-universcroll-0.8.4.diff" added="2020-11-25T01:28:42.102340Z" modified="2020-11-25T01:28:42.638518Z" visited="2020-11-25T01:28:42.102345Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-25T01:28:42.638502Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/st-scroll.diff" added="2020-11-25T01:31:39.677454Z" modified="2020-11-25T01:31:40.167745Z" visited="2020-11-25T01:31:39.677459Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-25T01:31:40.167730Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/git-src/dwm-neo64/dwm.png" added="2020-11-25T07:43:44.669651Z" modified="2020-11-25T12:25:29.016146Z" visited="2020-11-25T07:43:44.669655Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-11-25T12:25:29.016139Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/dwm-darkside.png" added="2020-11-25T07:50:07.370188Z" modified="2020-12-02T07:42:08.040003Z" visited="2020-11-25T07:50:07.370192Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-02T07:42:08.039985Z" count="26"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/dwm-ruby.png" added="2020-11-25T12:30:43.951542Z" modified="2020-11-29T14:06:48.602606Z" visited="2020-11-25T12:30:43.951545Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-11-29T14:06:48.602595Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/neo64yt.png" added="2020-11-25T13:16:35.354421Z" modified="2020-12-03T06:44:09.343216Z" visited="2020-11-25T13:16:35.354425Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-25T13:16:36.005957Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-03T06:44:09.343202Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/archlinux.png" added="2020-11-26T01:27:49.121070Z" modified="2020-12-10T03:53:41.689401Z" visited="2020-11-26T01:27:49.121076Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-26T01:27:49.689725Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-10T03:53:41.689390Z" count="13"/>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2020-12-08T03:42:34.421416Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Documents/neo.xcf" added="2020-11-27T03:11:36.840716Z" modified="2020-11-27T03:11:37.371649Z" visited="2020-11-27T03:11:36.840719Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/x-xcf"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-11-27T03:11:37.371642Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/archdark.png" added="2020-11-27T13:35:15.554992Z" modified="2020-12-08T03:42:48.071669Z" visited="2020-11-27T13:35:15.554996Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-01T04:13:09.498952Z" count="6"/>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2020-12-08T03:42:48.071647Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/cm-x86_64-14.1-r4(1).iso" added="2020-11-28T22:23:40.344315Z" modified="2020-11-28T22:23:40.344351Z" visited="2020-11-28T22:23:40.344322Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-28T22:23:40.344331Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/zen_installer-2020.05.27-x86_64.iso" added="2020-11-28T23:31:58.790749Z" modified="2020-11-29T09:55:17.861087Z" visited="2020-11-28T23:31:58.790754Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="imagewriter" exec="&apos;imagewriter %u&apos;" modified="2020-11-29T09:55:17.861074Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/lineageos-14.1-x86_64.iso" added="2020-11-28T23:41:41.193121Z" modified="2020-11-28T23:47:30.575671Z" visited="2020-11-28T23:41:41.193125Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="imagewriter" exec="&apos;imagewriter %u&apos;" modified="2020-11-28T23:47:30.575650Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Blender-v2.90.0-x86_64.AppImage" added="2020-11-29T02:49:17.542897Z" modified="2020-11-29T02:49:17.542928Z" visited="2020-11-29T02:49:17.542903Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-29T02:49:17.542913Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/neo64yt/9415-907C" added="2020-11-29T03:45:33.757452Z" modified="2020-11-29T03:45:33.757478Z" visited="2020-11-29T03:45:33.757456Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2020-11-29T03:45:33.757464Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/slock-image.patch" added="2020-11-29T09:48:23.275809Z" modified="2020-11-29T09:48:23.818410Z" visited="2020-11-29T09:48:23.275815Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-29T09:48:23.818397Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/slock-blur-1.4.diff" added="2020-11-29T12:07:26.683270Z" modified="2020-11-29T12:07:27.203808Z" visited="2020-11-29T12:07:26.683274Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-29T12:07:27.203796Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/slock-capscolor.diff" added="2020-11-29T12:07:46.834007Z" modified="2020-11-29T12:07:47.329226Z" visited="2020-11-29T12:07:46.834015Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-29T12:07:47.329209Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/slock-quickcancel-1.4.diff" added="2020-11-29T12:10:52.654108Z" modified="2020-11-29T12:10:53.190330Z" visited="2020-11-29T12:10:52.654115Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-29T12:10:53.190315Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/slock-message.diff" added="2020-11-29T12:11:37.532942Z" modified="2020-12-20T06:42:26.042927Z" visited="2020-11-29T12:11:37.532948Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-29T12:11:38.050105Z" count="2"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-20T06:42:26.042912Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/slock-pam.diff" added="2020-11-29T12:12:07.124212Z" modified="2020-11-29T12:12:07.586765Z" visited="2020-11-29T12:12:07.124219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-29T12:12:07.586751Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/dwm-lock.png" added="2020-11-29T14:08:46.870594Z" modified="2020-11-30T01:54:21.691595Z" visited="2020-11-29T14:08:46.870598Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-11-30T01:54:21.691580Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Numix-FLAT-Plata_1.9.5.zip" added="2020-11-30T08:09:47.752889Z" modified="2020-11-30T08:14:03.447187Z" visited="2020-11-30T08:09:47.752892Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-30T08:09:47.752900Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-11-30T08:14:03.447180Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Vimix.tar.xz" added="2020-11-30T08:21:04.201176Z" modified="2020-11-30T08:21:07.744098Z" visited="2020-11-30T08:21:04.201182Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-30T08:21:04.201195Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-11-30T08:21:07.744091Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Music/playlists/deltarune.dbpl" added="2020-12-02T06:19:18.309695Z" modified="2020-12-02T06:19:37.670184Z" visited="2020-12-02T06:19:18.309700Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="deadbeef" exec="&apos;deadbeef %u&apos;" modified="2020-12-02T06:19:37.670169Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Tela-circle-black.tar.xz" added="2020-12-02T07:10:20.996702Z" modified="2020-12-02T07:29:54.040212Z" visited="2020-12-02T07:10:20.996708Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-02T07:10:20.996722Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-02T07:29:54.040205Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Sta_sh_Uploads_53.zip" added="2020-12-03T06:19:56.663929Z" modified="2020-12-03T06:20:00.852979Z" visited="2020-12-03T06:19:56.663936Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-03T06:19:56.663945Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-03T06:20:00.852893Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/de9qdea-92a845c9-3264-4ba9-bad6-6cb6eaca69be.xz" added="2020-12-03T06:20:25.958316Z" modified="2020-12-03T06:20:25.958340Z" visited="2020-12-03T06:20:25.958319Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-03T06:20:25.958327Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/batik.tar.xz" added="2020-12-03T06:22:40.748859Z" modified="2020-12-03T06:31:28.130857Z" visited="2020-12-03T06:22:40.748863Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-03T06:22:40.748872Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-03T06:31:28.130846Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/batik/panel.png" added="2020-12-03T06:32:00.773181Z" modified="2020-12-03T06:32:00.773203Z" visited="2020-12-03T06:32:00.773184Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-03T06:32:00.773194Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/neo64.jpg" added="2020-12-03T13:32:12.870105Z" modified="2020-12-21T06:17:59.048891Z" visited="2020-12-03T13:32:12.870113Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-03T13:32:13.504647Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-21T06:17:59.048877Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Lightcord-linux-x86_64.AppImage" added="2020-12-05T14:49:10.382760Z" modified="2020-12-05T14:49:10.382800Z" visited="2020-12-05T14:49:10.382765Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-05T14:49:10.382775Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/ad73f9087f39d7cadd8e-3fb4d9590275789060dec545b1e661286752e5e6.zip" added="2020-12-06T02:13:05.619466Z" modified="2020-12-06T02:13:08.937567Z" visited="2020-12-06T02:13:05.619471Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-06T02:13:05.619480Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-06T02:13:08.937553Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/.cache/yay/elogind/elogind-243.7-1-x86_64.pkg.tar.zst" added="2020-12-06T03:16:49.619403Z" modified="2020-12-06T03:23:13.300032Z" visited="2020-12-06T03:16:49.619407Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zstd"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-06T03:23:13.300022Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/.cache/yay/elogind" added="2020-12-06T03:23:23.660289Z" modified="2020-12-06T03:23:23.660302Z" visited="2020-12-06T03:23:23.660291Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2020-12-06T03:23:23.660295Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/.cache/yay/elogind/elogind-243.7-1-x86_64.pkg.tar" added="2020-12-06T03:23:35.518719Z" modified="2020-12-06T03:42:58.408896Z" visited="2020-12-06T03:23:35.518723Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-06T03:42:58.408884Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/.cache/yay/elogind/elogind-243.7-1-x86_64.pkg/elogind-243.7-1-x86_64.pkg.tar" added="2020-12-06T03:44:16.048324Z" modified="2020-12-06T03:45:09.030685Z" visited="2020-12-06T03:44:16.048328Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-06T03:45:09.030678Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/night-nature.jpg" added="2020-12-07T23:50:05.788539Z" modified="2020-12-07T23:50:06.367021Z" visited="2020-12-07T23:50:05.788548Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-07T23:50:06.366999Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/papers.co-nj73-aurora-night-sky-awesome-beautiful-color-1366x768.jpg" added="2020-12-07T23:52:06.873575Z" modified="2020-12-07T23:52:06.873623Z" visited="2020-12-07T23:52:06.873582Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-07T23:52:06.873606Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/papers.co-my95-aurora-blue-night-sky-beautiful-1366x768.jpg" added="2020-12-08T00:46:16.269544Z" modified="2020-12-08T00:46:16.269566Z" visited="2020-12-08T00:46:16.269548Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-08T00:46:16.269553Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/papers.co-ml94-aurora-night-sky-red-bokeh-instagram-art-nature-1366x768.jpg" added="2020-12-08T00:48:19.438853Z" modified="2020-12-08T00:48:19.438887Z" visited="2020-12-08T00:48:19.438857Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-08T00:48:19.438868Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/ungoogled-chromium-87.0.4280.88-1-x86_64.pkg.tar.zst" added="2020-12-08T00:52:35.702974Z" modified="2020-12-08T00:52:35.702995Z" visited="2020-12-08T00:52:35.702978Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-alpm-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-08T00:52:35.702984Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Chromium.Web.Store.crx" added="2020-12-08T02:11:09.886979Z" modified="2020-12-08T02:11:09.886996Z" visited="2020-12-08T02:11:09.886982Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-chrome-extension"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-08T02:11:09.886988Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/web-store" added="2020-12-08T02:11:24.659788Z" modified="2020-12-08T02:11:45.144243Z" visited="2020-12-08T02:11:24.659791Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2020-12-08T02:11:24.659796Z" count="1"/>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-12-08T02:11:45.144232Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Suru-4All.tar.gz" added="2020-12-08T03:38:55.525811Z" modified="2020-12-08T03:43:23.937297Z" visited="2020-12-08T03:38:55.525817Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-08T03:38:55.525828Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-08T03:43:23.937287Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/ChromeOS-dark.tar.xz" added="2020-12-08T04:36:30.998929Z" modified="2020-12-08T04:36:47.683788Z" visited="2020-12-08T04:36:30.998933Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-08T04:36:30.998947Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-08T04:36:47.683773Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Yaru-Aqua-v20.10.1.tar.xz" added="2020-12-08T06:32:37.900677Z" modified="2020-12-08T06:35:03.983796Z" visited="2020-12-08T06:32:37.900681Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-08T06:32:37.900688Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-08T06:35:03.983788Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/ubuntu-20.04.1-desktop-amd64.iso" added="2020-12-08T06:55:58.877103Z" modified="2020-12-11T04:59:29.886972Z" visited="2020-12-08T06:55:58.877106Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-11T04:59:29.886959Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Reversal-black.tar.xz" added="2020-12-08T23:28:35.415860Z" modified="2020-12-08T23:29:19.141787Z" visited="2020-12-08T23:28:35.415866Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-08T23:28:35.415878Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-08T23:29:19.141777Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Material-Black-Mango-Numix-FLAT_1.9.1.zip" added="2020-12-09T00:06:18.762359Z" modified="2020-12-09T00:06:52.498605Z" visited="2020-12-09T00:06:18.762362Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-09T00:06:18.762368Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-09T00:06:52.498594Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads" added="2020-12-09T00:07:05.368615Z" modified="2020-12-19T03:16:28.924138Z" visited="2020-12-09T00:07:05.368620Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2020-12-19T03:16:28.924127Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/11-Flat-Remix-Yellow-Dark_20201112.tar.xz" added="2020-12-09T00:10:28.453466Z" modified="2020-12-09T00:10:57.063672Z" visited="2020-12-09T00:10:28.453471Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-09T00:10:28.453481Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-09T00:10:57.063661Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/aurora-2.jpg" added="2020-12-09T00:45:33.821587Z" modified="2020-12-09T00:45:33.821608Z" visited="2020-12-09T00:45:33.821590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-09T00:45:33.821597Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/2020-12-09-08.48.33.png" added="2020-12-09T00:49:21.706719Z" modified="2020-12-09T00:49:21.706748Z" visited="2020-12-09T00:49:21.706723Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-09T00:49:21.706733Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/2020-12-09-08.49.37.png" added="2020-12-09T00:49:56.368210Z" modified="2020-12-17T13:44:44.340949Z" visited="2020-12-09T00:49:56.368214Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-17T13:44:44.340930Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/ARChon-v1.2-x86_64.zip" added="2020-12-09T02:31:35.645676Z" modified="2020-12-09T02:31:35.645709Z" visited="2020-12-09T02:31:35.645682Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-09T02:31:35.645692Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/03-Flat-Remix-GTK-Green-Darker_20201129.tar.xz" added="2020-12-09T14:04:05.210617Z" modified="2020-12-09T14:04:14.167484Z" visited="2020-12-09T14:04:05.210623Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-09T14:04:05.210632Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-09T14:04:14.167474Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/05-Flat-Remix-GTK-Green-Dark_20201129.tar.xz" added="2020-12-09T14:06:47.075891Z" modified="2020-12-09T14:06:55.530232Z" visited="2020-12-09T14:06:47.075896Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-09T14:06:47.075904Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-09T14:06:55.530221Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/05-Flat-Remix-Green-Dark_20201112.tar.xz" added="2020-12-09T14:12:19.218022Z" modified="2020-12-09T14:15:30.923395Z" visited="2020-12-09T14:12:19.218027Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-09T14:12:19.218038Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-09T14:15:30.923384Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="afc://6c12ea93f14c3b23ba2e80d2f38a46fede43c377:3/org.mozilla.ios.Firefox/Downloads/Sejarah_Tingkatan_2.pdf" added="2020-12-09T14:26:51.483258Z" modified="2020-12-09T14:26:51.483293Z" visited="2020-12-09T14:26:51.483262Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;env WINEPREFIX=&quot;/home/neo64yt/.wine&quot; wine start /ProgIDOpen pdffile %f&apos;" modified="2020-12-09T14:26:51.483273Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/trash-0.4.0.tar.gz" added="2020-12-10T02:49:01.954164Z" modified="2020-12-11T12:58:03.248467Z" visited="2020-12-10T02:49:01.954168Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-11T12:54:14.515242Z" count="2"/>
+          <bookmark:application name="spacefm" exec="&apos;spacefm %u&apos;" modified="2020-12-11T12:58:03.248446Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dmenu-center.diff" added="2020-12-10T05:57:35.750079Z" modified="2020-12-10T05:57:35.750111Z" visited="2020-12-10T05:57:35.750084Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-10T05:57:35.750094Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dmenu-border-4.9.diff" added="2020-12-10T05:59:05.183854Z" modified="2020-12-10T05:59:05.183883Z" visited="2020-12-10T05:59:05.183859Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-10T05:59:05.183870Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dmenu-case.diff" added="2020-12-10T06:05:26.881110Z" modified="2020-12-10T06:05:26.881144Z" visited="2020-12-10T06:05:26.881116Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-10T06:05:26.881127Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dmenu-numbers-4.9.diff" added="2020-12-10T06:48:43.347193Z" modified="2020-12-10T06:48:43.347232Z" visited="2020-12-10T06:48:43.347198Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-10T06:48:43.347209Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dmenu-grid-4.9.diff" added="2020-12-10T08:43:58.411482Z" modified="2020-12-10T08:43:58.411511Z" visited="2020-12-10T08:43:58.411486Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-10T08:43:58.411496Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dmenu-gridnav-5.0.diff" added="2020-12-10T08:45:53.146875Z" modified="2020-12-10T08:45:53.146912Z" visited="2020-12-10T08:45:53.146882Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-10T08:45:53.146894Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dmenu-mouse-5.0.diff" added="2020-12-10T08:47:39.974910Z" modified="2020-12-10T08:47:39.974924Z" visited="2020-12-10T08:47:39.974912Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-10T08:47:39.974917Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dmenu-lineheight-5.0.diff" added="2020-12-10T14:14:55.112806Z" modified="2020-12-10T14:14:55.112841Z" visited="2020-12-10T14:14:55.112811Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-10T14:14:55.112822Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dmenu-fullwidth.diff" added="2020-12-10T15:35:56.740181Z" modified="2020-12-10T15:35:56.740208Z" visited="2020-12-10T15:35:56.740184Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-10T15:35:56.740194Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/UTM.dmg" added="2020-12-11T07:38:57.535511Z" modified="2020-12-11T07:38:57.535545Z" visited="2020-12-11T07:38:57.535517Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-apple-diskimage"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-11T07:38:57.535527Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/checkra1n" added="2020-12-11T07:47:41.247468Z" modified="2020-12-11T07:47:41.247502Z" visited="2020-12-11T07:47:41.247473Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-11T07:47:41.247483Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Minecraft-1.16.40.ipa" added="2020-12-11T12:05:22.510589Z" modified="2020-12-12T13:33:07.606720Z" visited="2020-12-11T12:05:22.510592Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-12T13:33:07.606703Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Trash_v0.6.3.spacefm-plugin.tar.gz" added="2020-12-11T13:01:07.218485Z" modified="2020-12-11T13:01:15.959552Z" visited="2020-12-11T13:01:07.218489Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-11T13:01:07.218497Z" count="1"/>
+          <bookmark:application name="spacefm" exec="&apos;spacefm %u&apos;" modified="2020-12-11T13:01:15.959533Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/bin/Stacer-1.1.0-x64.AppImage" added="2020-12-11T13:31:54.204124Z" modified="2020-12-11T13:31:54.204153Z" visited="2020-12-11T13:31:54.204129Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-11T13:31:54.204139Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dmenu_patches/dmenu-grid-4.9.diff" added="2020-12-12T05:11:49.304000Z" modified="2020-12-12T05:11:49.304032Z" visited="2020-12-12T05:11:49.304005Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-12T05:11:49.304017Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dmenu_patches/dmenu-vertfull-4.6.diff" added="2020-12-12T06:16:30.810945Z" modified="2020-12-12T06:16:30.810971Z" visited="2020-12-12T06:16:30.810948Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-12T06:16:30.810957Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/ubuntu-20.10-preinstalled-desktop-arm64+raspi.img.xz" added="2020-12-12T14:35:03.756340Z" modified="2020-12-12T14:35:03.756376Z" visited="2020-12-12T14:35:03.756345Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image-xz-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-12T14:35:03.756356Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/bin/kdenlive-20.08.3b-x86_64.appimage" added="2020-12-13T03:17:48.536567Z" modified="2020-12-13T03:17:48.536598Z" visited="2020-12-13T03:17:48.536572Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-13T03:17:48.536582Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/bin/appimagelauncher-lite-2.2.0-travis25-718cff4-x86_64.AppImage" added="2020-12-13T04:38:34.329351Z" modified="2020-12-13T04:38:34.329398Z" visited="2020-12-13T04:38:34.329357Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-13T04:38:34.329374Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/bin/LibreOffice-still.basic-x86_64.AppImage" added="2020-12-13T07:04:30.990623Z" modified="2020-12-13T07:04:30.990653Z" visited="2020-12-13T07:04:30.990627Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-13T07:04:30.990636Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/bin/LibreOffice-7.0.3-x86_64.AppImage" added="2020-12-13T08:44:19.787933Z" modified="2020-12-13T08:44:19.787985Z" visited="2020-12-13T08:44:19.787938Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-13T08:44:19.787967Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/2020-12-15-09.22.23.png" added="2020-12-15T01:22:45.754807Z" modified="2020-12-15T01:22:45.754825Z" visited="2020-12-15T01:22:45.754810Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-15T01:22:45.754816Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/bin/balena-etcher-electron-1.5.112-linux-x64.zip" added="2020-12-15T02:11:00.307292Z" modified="2020-12-15T02:15:04.489788Z" visited="2020-12-15T02:11:00.307295Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-15T02:11:00.307305Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-15T02:15:04.489775Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/bin/krita-4.4.1-x86_64.appimage" added="2020-12-15T04:23:16.778179Z" modified="2020-12-15T04:23:16.778222Z" visited="2020-12-15T04:23:16.778184Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-15T04:23:16.778202Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dmenu_patches/dmenu-gridnav-5.0.diff" added="2020-12-15T04:23:54.186178Z" modified="2020-12-15T04:23:54.186209Z" visited="2020-12-15T04:23:54.186183Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-15T04:23:54.186194Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dmenu_patches/dmenu-border.diff" added="2020-12-15T04:30:03.187829Z" modified="2020-12-15T04:30:03.187851Z" visited="2020-12-15T04:30:03.187832Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-15T04:30:03.187839Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dmenu_patches/dmenu-fuzzymatch-4.9.diff" added="2020-12-15T04:37:59.438015Z" modified="2020-12-15T04:37:59.438052Z" visited="2020-12-15T04:37:59.438021Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-15T04:37:59.438033Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dmenu_patches/dmenu-fuzzyhighlight-4.9.diff" added="2020-12-15T04:42:21.909324Z" modified="2020-12-15T04:42:21.909367Z" visited="2020-12-15T04:42:21.909330Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-15T04:42:21.909344Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dmenu_patches/dmenu-morecolor.diff" added="2020-12-15T05:12:05.249318Z" modified="2020-12-15T05:12:46.563702Z" visited="2020-12-15T05:12:05.249325Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-15T05:12:46.563687Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dmenu_patches/dmenu-instant-4.7.diff" added="2020-12-15T07:44:01.588593Z" modified="2020-12-15T07:44:01.588632Z" visited="2020-12-15T07:44:01.588598Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-15T07:44:01.588611Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/clipmenu.html" added="2020-12-15T07:47:48.878352Z" modified="2020-12-15T07:49:20.425846Z" visited="2020-12-15T07:47:48.878356Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-15T07:49:20.425829Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/download.png" added="2020-12-17T14:19:45.807585Z" modified="2020-12-17T14:19:45.807610Z" visited="2020-12-17T14:19:45.807590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-17T14:19:45.807597Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Maktab_Rendah_Sains_Mara-vector-logo-1E2857D3C5-seeklogo.com.zip" added="2020-12-19T03:14:58.145107Z" modified="2020-12-19T03:15:03.608464Z" visited="2020-12-19T03:14:58.145111Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-19T03:14:58.145118Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-19T03:15:03.608455Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Maktab_Rendah_Sains_Mara.ai" added="2020-12-19T03:26:14.326305Z" modified="2020-12-19T03:40:30.765992Z" visited="2020-12-19T03:26:14.326308Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/illustrator"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2020-12-19T03:40:30.765983Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Documents/folio_pjk" added="2020-12-19T03:58:44.580288Z" modified="2020-12-19T03:58:58.715434Z" visited="2020-12-19T03:58:44.580292Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2020-12-19T03:58:58.715416Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Documents/folio_pjk.odp" added="2020-12-19T03:59:00.336162Z" modified="2020-12-19T03:59:00.336233Z" visited="2020-12-19T03:59:00.336164Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2020-12-19T03:59:00.336229Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Documents/folio_pjpk.odp" added="2020-12-19T04:10:26.223269Z" modified="2020-12-20T00:32:29.331792Z" visited="2020-12-19T04:10:26.223276Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2020-12-20T00:32:29.331779Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/volantes_cursors.tar.gz" added="2020-12-20T01:47:35.589744Z" modified="2020-12-20T01:48:14.707366Z" visited="2020-12-20T01:47:35.589751Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-20T01:47:35.589764Z" count="1"/>
+          <bookmark:application name="lxappearance" exec="&apos;lxappearance %u&apos;" modified="2020-12-20T01:48:14.707348Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/green-sea.jpg" added="2020-12-21T03:26:36.950503Z" modified="2020-12-21T03:26:36.950522Z" visited="2020-12-21T03:26:36.950506Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-21T03:26:36.950511Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/neo64-new.jpg" added="2020-12-21T06:36:32.116429Z" modified="2020-12-21T13:33:51.418390Z" visited="2020-12-21T06:36:32.116433Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-21T13:33:51.418378Z" count="17"/>
+          <bookmark:application name="mugshot" exec="&apos;mugshot %u&apos;" modified="2020-12-21T06:43:32.202862Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-21T07:40:24.621852Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/neo64-new.png" added="2020-12-21T06:46:06.698604Z" modified="2020-12-22T02:59:56.994419Z" visited="2020-12-21T06:46:06.698608Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-22T02:59:56.994408Z" count="36"/>
+          <bookmark:application name="mugshot" exec="&apos;mugshot %u&apos;" modified="2020-12-21T07:41:21.559229Z" count="4"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-21T07:43:54.274850Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/neo64-new-small.png" added="2020-12-21T08:27:47.119053Z" modified="2020-12-21T08:36:19.244395Z" visited="2020-12-21T08:27:47.119057Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-21T08:36:19.244387Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/banner.png" added="2020-12-21T08:32:29.449033Z" modified="2020-12-21T08:39:11.093059Z" visited="2020-12-21T08:32:29.449036Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-21T08:39:11.093049Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/lockscreen.jpg" added="2020-12-21T14:11:23.475322Z" modified="2020-12-22T03:14:41.573938Z" visited="2020-12-21T14:11:23.475326Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-22T03:14:41.573920Z" count="18"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/yt-banner-proto.jpg" added="2020-12-22T03:05:23.537867Z" modified="2020-12-22T03:07:46.934666Z" visited="2020-12-22T03:05:23.537870Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-22T03:07:46.934655Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/yt-banner.jpg" added="2020-12-22T03:09:17.546966Z" modified="2020-12-22T03:09:37.984201Z" visited="2020-12-22T03:09:17.546972Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-22T03:09:21.696766Z" count="2"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-22T03:09:37.984191Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/extundelete-0.2.4.tar.bz2" added="2020-12-22T05:01:16.870925Z" modified="2020-12-22T05:01:16.870955Z" visited="2020-12-22T05:01:16.870930Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bzip-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-22T05:01:16.870939Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/extundelete-0.2.0.tar.bz2" added="2020-12-22T05:11:13.932037Z" modified="2020-12-22T05:11:13.932066Z" visited="2020-12-22T05:11:13.932042Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bzip-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-22T05:11:13.932051Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
