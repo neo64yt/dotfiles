@@ -31,7 +31,7 @@
     selected-active-background: @cyan;
     active-background: @aquablue;
 
-    font: "Input Mono 10";
+    font: "Fira Code 10";
     hide-scrollbar: "false";
 }
 
