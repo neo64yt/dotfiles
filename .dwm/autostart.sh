@@ -3,7 +3,7 @@
 # Directory of dwm autostart configuration
 dir="$HOME/.dwm"
 homebin="$HOME/bin"
-stats="$HOME/git-src/dwm-scriptbar"
+stats="$HOME/git-src/dwm-scriptbar/start-status"
 
 # Session killer
 export SESSION_KILLER="$dir/session-killer"
@@ -13,7 +13,7 @@ export SESSION_KILLER="$dir/session-killer"
 sudo ntpdate ntp.ubuntu.com &
 nm-applet &
 pamac-tray &
-picom &
+picom --experimental-backend &
 sxhkd -c $dir/sxhkdrc &
 nitrogen --restore &
 /usr/bin/dunst &

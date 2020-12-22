@@ -31,7 +31,7 @@
     selected-active-background: @cyan;
     active-background: @aquablue;
 
-    font: "Iosevka Term Curly Slab medium 11";
+    font: "Input Mono 10";
     hide-scrollbar: "false";
 }
 
