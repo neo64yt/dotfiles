@@ -3,6 +3,7 @@
 # Directory of dwm autostart configuration
 dir="$HOME/.dwm"
 homebin="$HOME/bin"
+stats="$HOME/git-src/dwm-scriptbar"
 
 # Session killer
 export SESSION_KILLER="$dir/session-killer"
@@ -17,7 +18,7 @@ sxhkd -c $dir/sxhkdrc &
 nitrogen --restore &
 /usr/bin/dunst &
 xfce4-power-manager &
-$dir/scriptbar/start-status &
+sh $stats &
 volumeicon &
 blueman-tray &
 spacefm -d &
