@@ -3,7 +3,7 @@
 # Directory of dwm autostart configuration
 dir="$HOME/.dwm"
 homebin="$HOME/bin"
-stats="$HOME/git-src/dwm-scriptbar/start-status"
+stats="$dir/scriptbar/start-status"
 
 # Session killer
 export SESSION_KILLER="$dir/session-killer"
