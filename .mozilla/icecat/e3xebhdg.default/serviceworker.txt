@@ -1,0 +1,11 @@
+8
+^firstPartyDomain=youtube.com
+https://www.youtube.com/
+https://www.youtube.com/sw.js
+false
+{0e6c5ab5-1445-442b-9a9a-c6561b3883f6}
+0
+1608707933717944
+1608707933737385
+1608707933405574
+#

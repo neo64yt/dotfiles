@@ -1,0 +1,1 @@
+{"defaultHandlersVersion":{"en-US":4},"mimeTypes":{"application/pdf":{"action":3,"extensions":["pdf"]}},"schemes":{"mailto":{"stubEntry":true,"handlers":[null,{"uriTemplate":"https://mail.google.com/mail/?extsrc=mailto&url=%s"}]}}}
