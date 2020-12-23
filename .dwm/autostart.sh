@@ -23,4 +23,4 @@ volumeicon &
 blueman-tray &
 spacefm -d &
 devmon &
-xautolock -time 10 -locker "$utils/lock" &
+xautolock -time 10 -locker $utils/lock &
