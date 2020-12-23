@@ -1,5 +1,0 @@
-2020/12/11-21:47:36.386 114f Reusing MANIFEST /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/11-21:48:08.500 11b1 Level-0 table #5: started
-2020/12/11-21:48:08.514 11b1 Level-0 table #5: 4496 bytes OK
-2020/12/11-21:48:08.543 11b1 Delete type=0 #3
-2020/12/11-21:48:08.544 11b1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

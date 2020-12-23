@@ -1,5 +1,0 @@
-2020/12/08-09:55:15.836 10f61 Reusing MANIFEST /home/neo64yt/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/08-09:59:49.696 10f6f Level-0 table #5: started
-2020/12/08-09:59:49.717 10f6f Level-0 table #5: 3400 bytes OK
-2020/12/08-09:59:49.730 10f6f Delete type=0 #3
-2020/12/08-09:59:49.731 10f6f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

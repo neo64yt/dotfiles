@@ -20,7 +20,6 @@ image/x-kde-raw image/x-dcraw
 application/x-quanta text/plain
 application/x-kgetlist application/xml
 application/x-kns application/zip
-video/mlt-playlist application/xml
 application/x-superkaramba application/zip
 text/x-hex text/plain
 application/x-smb-server inode/directory

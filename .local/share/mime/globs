@@ -7,6 +7,7 @@ application/x-kommander:*.kmdr
 application/x-kwordquiz:*.wql
 application/x-plasma:*.plasmoid
 application/x-vnd.kde.plan:*.plan
+video/mpeg:[0-9][0-9][0-9].vdr
 application/x-vnd.kde.plan.work:*.planwork
 application/x-kmplot:*.fkt
 application/x-kdenlivetitle:*.kdenlivetitle
@@ -19,8 +20,8 @@ application/x-vnd.kde.kugar.mixed:*.kug
 application/vnd.kde.kcfgc:*.kcfgc
 image/x-kde-raw:*.cs1
 application/x-kns:*.kns
-video/mlt-playlist:*.mlt
 video/mpeg:*.mpeg
+application/x-extension-xhtml:*.xhtml
 image/x-kde-raw:*.pnx
 application/x-cabri:*.fig
 image/x-kde-raw:*.bmq
@@ -32,6 +33,7 @@ application/x-kgetlist:*.kgt
 application/x-kwallet:*.kwl
 text/x-qml:*.qmltypes
 text/x-qml:*.qmlproject
+application/x-extension-xht:*.xht
 video/mpeg:*.mpe
 application/vnd.kde.kxmlguirc:*.rc
 image/x-kde-raw:*.hrd
@@ -42,7 +44,7 @@ application/x-ktheme:*.kth
 text/plain:*.doc
 application/relaxng:*.rng
 application/x-drgeo:*.fgeo
-application/x-wine-extension-inf:*.inf
+application/x-extension-shtml:*.shtml
 application/x-kolf:*.kolfgame
 video/mpeg:*.ts
 text/x-katefilelist:*.katefl
@@ -53,6 +55,7 @@ image/x-kde-raw:*.rdc
 application/x-kourse:*.kolf
 video/mpeg:*.mpg
 application/x-kopete-emoticons:*.kopete-emoticons
+application/x-extension-html:*.html
 application/x-font-snf:*.snf.gz
 image/x-hdr:*.hdr
 image/x-kde-raw:*.erf
@@ -60,7 +63,7 @@ application/vnd.kde.kcfg:*.kcfg
 application/x-uml:*.xmi.tar.bz2
 image/x-kde-raw:*.fff
 application/x-msdownload:*.dll
-video/mlt-playlist:*.westley
+application/x-wine-extension-inf:*.inf
 application/x-font-snf:*.snf
 image/x-kde-raw:*.bay
 application/x-uml:*.xmi
@@ -84,7 +87,7 @@ video/mpeg:*.vob
 text/vnd.kde.kcrash-report:*.kcrash
 application/x-kig:*.kig
 image/x-kde-raw:*.mdc
-video/mpeg:[0-9][0-9][0-9].vdr
+application/x-extension-htm:*.htm
 application/x-wine-extension-msp:*.msp
 application/vnd.kde.knotificationrc:*.notifyrc
 application/x-kcachegrind:cachegrind.out*

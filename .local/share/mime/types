@@ -9,6 +9,11 @@ application/vnd.kde.okular-archive
 application/x-cabri
 application/x-cda
 application/x-drgeo
+application/x-extension-htm
+application/x-extension-html
+application/x-extension-shtml
+application/x-extension-xht
+application/x-extension-xhtml
 application/x-font-snf
 application/x-icq
 application/x-java-applet
@@ -67,6 +72,5 @@ text/x-component
 text/x-hex
 text/x-katefilelist
 text/x-qml
-video/mlt-playlist
 video/mpeg
 video/x-ms-wmp

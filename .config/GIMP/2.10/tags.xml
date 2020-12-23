@@ -1525,16 +1525,22 @@
   <resource identifier="DejaVu Serif Semi-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Fantasque Sans Mono" checksum="(null)">
+  <resource identifier="Fira Code" checksum="(null)">
   </resource>
 
-  <resource identifier="Fantasque Sans Mono Bold" checksum="(null)">
+  <resource identifier="Fira Code Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Fantasque Sans Mono Bold Italic" checksum="(null)">
+  <resource identifier="Fira Code Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Fantasque Sans Mono Italic" checksum="(null)">
+  <resource identifier="Fira Code Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Fira Code Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Fira Code weight=450" checksum="(null)">
   </resource>
 
   <resource identifier="Iosevka Term Curly Slab" checksum="(null)">

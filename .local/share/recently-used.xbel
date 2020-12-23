@@ -74,56 +74,6 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/eclipse.tar.gz" added="2020-11-21T12:10:39.657491Z" modified="2020-11-21T12:10:39.657521Z" visited="2020-11-21T12:10:39.657496Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-11-21T12:10:39.657505Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/dwm-ewmhtags-6.2.diff" added="2020-11-22T00:38:15.111642Z" modified="2020-11-22T00:38:15.111675Z" visited="2020-11-22T00:38:15.111646Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/x-patch"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-11-22T00:38:15.111657Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/naufalramlisembok@gmail.com%20Firefox%20Recovery%20Key.txt" added="2020-11-22T01:02:02.619903Z" modified="2020-11-22T01:02:02.619935Z" visited="2020-11-22T01:02:02.619908Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-22T01:02:02.619919Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/naufalramlisembok@gmail.com%20Firefox%20Recovery%20Codes.txt" added="2020-11-22T01:03:02.385676Z" modified="2020-11-22T01:03:02.385747Z" visited="2020-11-22T01:03:02.385680Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-22T01:03:02.385697Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/dwm-extrabar-6.2.diff" added="2020-11-22T01:38:56.740514Z" modified="2020-11-22T01:38:57.272988Z" visited="2020-11-22T01:38:56.740521Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/x-patch"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-22T01:38:57.272974Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///home/neo64yt/.wine/drive_c/Program%20Files%20(x86)/SURVEY_PROGRAM/AUDIO_INTRONOISE.ogg" added="2020-11-23T23:49:52.192251Z" modified="2020-11-23T23:49:52.192276Z" visited="2020-11-23T23:49:52.192255Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -1194,12 +1144,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Documents/folio_pjpk.odp" added="2020-12-19T04:10:26.223269Z" modified="2020-12-20T00:32:29.331792Z" visited="2020-12-19T04:10:26.223276Z">
+  <bookmark href="file:///home/neo64yt/Documents/folio_pjpk.odp" added="2020-12-19T04:10:26.223269Z" modified="2020-12-23T06:36:57.429215Z" visited="2020-12-19T04:10:26.223276Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/vnd.oasis.opendocument.presentation"/>
         <bookmark:applications>
-          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2020-12-20T00:32:29.331779Z" count="8"/>
+          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2020-12-23T06:36:57.429211Z" count="42"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1337,6 +1287,17 @@
         <mime:mime-type type="application/x-bzip-compressed-tar"/>
         <bookmark:applications>
           <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-22T05:11:13.932051Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Documents/konflik1.jpeg" added="2020-12-22T13:30:18.629027Z" modified="2020-12-23T06:16:36.652151Z" visited="2020-12-22T13:30:18.629030Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-22T13:30:18.629038Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2020-12-23T06:16:36.652139Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

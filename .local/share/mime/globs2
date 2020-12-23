@@ -7,6 +7,7 @@
 50:application/x-kwordquiz:*.wql
 50:application/x-plasma:*.plasmoid
 50:application/x-vnd.kde.plan:*.plan
+50:video/mpeg:[0-9][0-9][0-9].vdr
 50:application/x-vnd.kde.plan.work:*.planwork
 50:application/x-kmplot:*.fkt
 50:application/x-kdenlivetitle:*.kdenlivetitle
@@ -19,8 +20,8 @@
 50:application/vnd.kde.kcfgc:*.kcfgc
 50:image/x-kde-raw:*.cs1
 50:application/x-kns:*.kns
-50:video/mlt-playlist:*.mlt
 50:video/mpeg:*.mpeg
+50:application/x-extension-xhtml:*.xhtml
 50:image/x-kde-raw:*.pnx
 50:application/x-cabri:*.fig
 50:image/x-kde-raw:*.bmq
@@ -32,6 +33,7 @@
 50:application/x-kwallet:*.kwl
 50:text/x-qml:*.qmltypes
 50:text/x-qml:*.qmlproject
+50:application/x-extension-xht:*.xht
 50:video/mpeg:*.mpe
 50:application/vnd.kde.kxmlguirc:*.rc
 50:image/x-kde-raw:*.hrd
@@ -42,7 +44,7 @@
 50:text/plain:*.doc
 50:application/relaxng:*.rng
 50:application/x-drgeo:*.fgeo
-50:application/x-wine-extension-inf:*.inf
+50:application/x-extension-shtml:*.shtml
 50:application/x-kolf:*.kolfgame
 50:video/mpeg:*.ts
 50:text/x-katefilelist:*.katefl
@@ -53,6 +55,7 @@
 50:application/x-kourse:*.kolf
 50:video/mpeg:*.mpg
 50:application/x-kopete-emoticons:*.kopete-emoticons
+50:application/x-extension-html:*.html
 50:application/x-font-snf:*.snf.gz
 50:image/x-hdr:*.hdr
 50:image/x-kde-raw:*.erf
@@ -60,7 +63,7 @@
 50:application/x-uml:*.xmi.tar.bz2
 50:image/x-kde-raw:*.fff
 50:application/x-msdownload:*.dll
-50:video/mlt-playlist:*.westley
+50:application/x-wine-extension-inf:*.inf
 50:application/x-font-snf:*.snf
 50:image/x-kde-raw:*.bay
 50:application/x-uml:*.xmi
@@ -84,7 +87,7 @@
 50:text/vnd.kde.kcrash-report:*.kcrash
 50:application/x-kig:*.kig
 50:image/x-kde-raw:*.mdc
-50:video/mpeg:[0-9][0-9][0-9].vdr
+50:application/x-extension-htm:*.htm
 50:application/x-wine-extension-msp:*.msp
 50:application/vnd.kde.knotificationrc:*.notifyrc
 50:application/x-kcachegrind:cachegrind.out*
