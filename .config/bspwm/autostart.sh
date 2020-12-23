@@ -2,7 +2,7 @@
 
 # Directory of dwm autostart configuration
 dir="$HOME/.config/bspwm"
-homebin="$HOME/bin"
+utils="$HOME/.utils"
 
 # Session killer
 export SESSION_KILLER="$dir/session-killer"
@@ -21,4 +21,4 @@ volumeicon &
 blueman-tray &
 spacefm -d &
 devmon &
-xautolock -time 10 -locker "$homebin/lock" &
+xautolock -time 10 -locker "$utils/lock" &

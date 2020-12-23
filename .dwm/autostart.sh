@@ -2,7 +2,7 @@
 
 # Directory of dwm autostart configuration
 dir="$HOME/.dwm"
-homebin="$HOME/bin"
+utils="$HOME/.utils"
 stats="$dir/scriptbar/start-status"
 
 # Session killer
@@ -23,4 +23,4 @@ volumeicon &
 blueman-tray &
 spacefm -d &
 devmon &
-xautolock -time 10 -locker "$homebin/lock" &
+xautolock -time 10 -locker "$utils/lock" &

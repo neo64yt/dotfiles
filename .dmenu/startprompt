@@ -1,0 +1,18 @@
+#!/bin/sh
+
+# Defaults
+lines=12
+columns=2
+border=3
+height=35
+prompt="Select a prompt to run:"
+
+choice=$(echo -e "logout\nshutdown\nreboot\nsuspend\nhibernate" | dmenu -l $lines -g $columns -bw $border -h $height -p "$prompt" -c )
+
+case "$choice" in
+  logout) i3-msg exit & ;;
+  shutdown) sudo shutdown -h now & ;;
+  reboot) sudo shutdown -r now & ;;
+  suspend) sudo pm-suspend & ;;
+  hibernate) sudo pm-hibernate & ;;
+esac
