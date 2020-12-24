@@ -2,4 +2,4 @@
 Type=Application
 Name=Screensaver
 Comment=Set screensaver timeouts
-Exec=xset s 0 dpms 600 600 600
+Exec=xset s 600 dpms 600 600 600
