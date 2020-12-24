@@ -1,18 +1,27 @@
 #!/bin/sh
 
+# Scripts directory
+dir="$HOME/.dmenu"
+
 # Defaults
-lines=12
+lines=3
 columns=2
 border=3
 height=35
-prompt="Select a prompt to run:"
+prompt="󱍕 Select a prompt to run:"
 
-choice=$(echo -e "logout\nshutdown\nreboot\nsuspend\nhibernate" | dmenu -l $lines -g $columns -bw $border -h $height -p "$prompt" -c )
+# Scripts
+appmenu="$dir/apps"
+run="$dir/runner"
+session="$dir/power"
+settings="$dir/set"
+
+choice=$(echo -e "󰀻 Applications\n󰆍 Run\n󰐦 Session manager\n󰱨 Emojis\n󰢻 Settings" | dmenu -l $lines -g $columns -bw $border -h $height -p "$prompt" -c )
 
 case "$choice" in
-  logout) i3-msg exit & ;;
-  shutdown) sudo shutdown -h now & ;;
-  reboot) sudo shutdown -r now & ;;
-  suspend) sudo pm-suspend & ;;
-  hibernate) sudo pm-hibernate & ;;
+  "󰀻 Applications") sh $appmenu ;;
+  "󰆍 Run") sh $run ;;
+  "󰐦 Session manager") sh $session ;;
+  "󰱨 Emojis") sudo pm-suspend & ;;
+  "󰢻 Settings") sh $settings ;;
 esac

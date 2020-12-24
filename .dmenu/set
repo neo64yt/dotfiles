@@ -1,0 +1,31 @@
+#!/bin/sh
+
+# Settings manager
+
+# Defaults
+lines=5
+columns=2
+border=3
+height=35
+prompt="󰢻 Settings:"
+edit="nvim-qt"
+
+# Command
+choice=$(echo -e "󰸌 Appearance\n󰿻 Account\n󰍁 Lock screen\n󰍂 Login screen\n󰂳 Bluetooth\n󰍹 Display\n󰲝 Network\n󰧺 Input devices\n󰐦 Power\n󰕾 Audio\n󰏗 Package manager\n󰘔 Default applications\n󰜇 Printer\n󰌧 Autostart" | dmenu -l $lines -g $columns -bw $border -h $height -p "$prompt" -c )
+
+case "$choice" in
+  "󰸌 Appearance") lxappearance ;;
+  "󰿻 Account") mugshot ;;
+  "󰍁 Lock screen") light-locker-settings ;;
+  "󰍂 Login screen") pkexec lightdm-gtk-greeter-settings ;;
+  "󰂳 Bluetooth") blueman-manager ;;
+  "󰍹 Display") lxrandr ;;
+  "󰲝 Network") nm-connection-editor ;;
+  "󰧺 Input devices") lxinput ;;
+  "󰐦 Power") xfce4-power-manager-settings ;;
+  "󰕾 Audio") pavucontrol ;;
+  "󰏗 Package manager") pamac-manager ;;
+  "󰘔 Default applications") exo-preferred-applications ;;
+  "󰜇 Printer") system-config-printer ;;
+  "󰌧 Autostart") $edit $AUTOSTART ;;
+esac

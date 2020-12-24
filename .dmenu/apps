@@ -1,0 +1,14 @@
+#!/bin/sh
+
+# This script is used for showing programs with desktop entries
+
+# Defaults
+lines=12
+columns=2
+border=3
+height=35
+prompt="󰀻 Applications:"
+term="termite"
+
+# Command
+j4-dmenu-desktop --dmenu="dmenu -l $lines -g $columns -bw $border -h $height -p '$prompt' -c" --term="$term"

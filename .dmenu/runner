@@ -1,0 +1,14 @@
+#!/bin/sh
+
+# This script is used for executing a command
+
+# Defaults
+lines=12
+columns=2
+border=3
+height=35
+prompt="󰆍 Run:"
+term="termite"
+
+# Command
+dmenu_run -l $lines -g $columns -bw $border -h $height -p "$prompt" -c
