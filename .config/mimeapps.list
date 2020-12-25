@@ -29,6 +29,8 @@ text/plain=nvim-qt.desktop;
 inode/directory=spacefm-folder-handler.desktop
 inode/symlink=spacefm-folder-handler.desktop
 application/vnd.oasis.opendocument.presentation=libreoffice.desktop;
+application/zip=org.gnome.FileRoller.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-ZFLZV0.desktop
 
 [Added Associations]
 x-scheme-handler/http=exo-web-browser.desktop;userapp-IceCat-27VHW0.desktop;firefox.desktop;
@@ -69,4 +71,5 @@ x-scheme-handler/trash=exo-file-manager.desktop;
 x-scheme-handler/mailto=exo-mail-reader.desktop;
 inode/symlink=spacefm-folder-handler.desktop;
 application/vnd.oasis.opendocument.presentation=libreoffice.desktop;
-
+application/zip=org.gnome.FileRoller.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-ZFLZV0.desktop;

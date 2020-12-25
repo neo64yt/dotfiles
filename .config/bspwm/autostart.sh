@@ -23,4 +23,3 @@ volumeicon &
 blueman-tray &
 spacefm -d &
 devmon &
-light-locker &

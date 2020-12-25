@@ -16,7 +16,7 @@ choice=$(echo -e "󰸌 Appearance\n󰿻 Account\n󰍁 Lock screen\n󰍂 Login sc
 case "$choice" in
   "󰸌 Appearance") lxappearance ;;
   "󰿻 Account") mugshot ;;
-  "󰍁 Lock screen") light-locker-settings ;;
+  "󰍁 Lock screen") xfce4-screensaver-preferences ;;
   "󰍂 Login screen") pkexec lightdm-gtk-greeter-settings ;;
   "󰂳 Bluetooth") blueman-manager ;;
   "󰍹 Display") lxrandr ;;
