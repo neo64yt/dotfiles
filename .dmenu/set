@@ -14,18 +14,18 @@ edit="nvim-qt"
 choice=$(echo -e "󰸌 Appearance\n󰿻 Account\n󰍁 Lock screen\n󰍂 Login screen\n󰂳 Bluetooth\n󰍹 Display\n󰲝 Network\n󰧺 Input devices\n󰐦 Power\n󰕾 Audio\n󰏗 Package manager\n󰘔 Default applications\n󰜇 Printer\n󰌧 Autostart" | dmenu -l $lines -g $columns -bw $border -h $height -p "$prompt" -c )
 
 case "$choice" in
-  "󰸌 Appearance") lxappearance ;;
-  "󰿻 Account") mugshot ;;
-  "󰍁 Lock screen") xfce4-screensaver-preferences ;;
-  "󰍂 Login screen") pkexec lightdm-gtk-greeter-settings ;;
-  "󰂳 Bluetooth") blueman-manager ;;
-  "󰍹 Display") lxrandr ;;
-  "󰲝 Network") nm-connection-editor ;;
-  "󰧺 Input devices") lxinput ;;
-  "󰐦 Power") xfce4-power-manager-settings ;;
-  "󰕾 Audio") pavucontrol ;;
-  "󰏗 Package manager") pamac-manager ;;
-  "󰘔 Default applications") exo-preferred-applications ;;
-  "󰜇 Printer") system-config-printer ;;
+  "󰸌 Appearance") $STYLE ;;
+  "󰿻 Account") $USER_INFO ;;
+  "󰍁 Lock screen") $LOCK ;;
+  "󰍂 Login screen") pkexec $LOGIN ;;
+  "󰂳 Bluetooth") $BT ;;
+  "󰍹 Display") $RANDR ;;
+  "󰲝 Network") $NM ;;
+  "󰧺 Input devices") $INPUT ;;
+  "󰐦 Power") $POWER ;;
+  "󰕾 Audio") $AUDIO ;;
+  "󰏗 Package manager") $PACK ;;
+  "󰘔 Default applications") $DEF_APPS ;;
+  "󰜇 Printer") $PRINT ;;
   "󰌧 Autostart") $edit $AUTOSTART ;;
 esac
