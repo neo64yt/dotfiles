@@ -9,7 +9,7 @@ show_thumbnail=1
 use_si_prefix=1
 
 [Window]
-width=613
+width=1364
 height=710
 maximized=0
 
@@ -71,7 +71,7 @@ main_terminal-b=2
 main_save_tabs-b=1
 main_exit-key=113
 main_exit-keymod=4
-panel1_show-s=////home/neo64yt/Documents
+panel1_show-s=////home/neo64yt/Pictures
 panel1_show-x=0
 panel1_show-key=49
 panel1_show-keymod=4
