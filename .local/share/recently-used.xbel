@@ -132,42 +132,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/cm-x86_64-14.1-r4(1).iso" added="2020-11-28T22:23:40.344315Z" modified="2020-11-28T22:23:40.344351Z" visited="2020-11-28T22:23:40.344322Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-cd-image"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-28T22:23:40.344331Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///home/neo64yt/Downloads/zen_installer-2020.05.27-x86_64.iso" added="2020-11-28T23:31:58.790749Z" modified="2020-11-29T09:55:17.861087Z" visited="2020-11-28T23:31:58.790754Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-cd-image"/>
         <bookmark:applications>
           <bookmark:application name="imagewriter" exec="&apos;imagewriter %u&apos;" modified="2020-11-29T09:55:17.861074Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/lineageos-14.1-x86_64.iso" added="2020-11-28T23:41:41.193121Z" modified="2020-11-28T23:47:30.575671Z" visited="2020-11-28T23:41:41.193125Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-cd-image"/>
-        <bookmark:applications>
-          <bookmark:application name="imagewriter" exec="&apos;imagewriter %u&apos;" modified="2020-11-28T23:47:30.575650Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/Blender-v2.90.0-x86_64.AppImage" added="2020-11-29T02:49:17.542897Z" modified="2020-11-29T02:49:17.542928Z" visited="2020-11-29T02:49:17.542903Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.appimage"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-11-29T02:49:17.542913Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1439,6 +1409,29 @@
         <mime:mime-type type="application/x-cd-image"/>
         <bookmark:applications>
           <bookmark:application name="balena-etcher-electron.bin" exec="&apos;balena-etcher-electron.bin %u&apos;" modified="2020-12-28T03:17:21.368518Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt" added="2020-12-28T14:37:08.370631Z" modified="2020-12-28T14:37:08.370662Z" visited="2020-12-28T14:37:08.370634Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:groups>
+          <bookmark:group>baobab</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="baobab" exec="&apos;baobab %u&apos;" modified="2020-12-28T14:37:08.370647Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/librewolf-84.0-1-x86_64.pkg.tar.zst" added="2020-12-29T00:44:20.420867Z" modified="2020-12-29T00:44:20.420895Z" visited="2020-12-29T00:44:20.420870Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-alpm-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-29T00:44:20.420880Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
