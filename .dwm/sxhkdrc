@@ -12,7 +12,7 @@ super + r
 
 # screenshooter
 super + s
-	/home/neo64yt/.utils/screenshot
+	$HOME/.utils/screenshot
 
 # make sxhkd reload its configuration files:
 super + Escape

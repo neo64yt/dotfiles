@@ -21,7 +21,7 @@ terminal: "termite";
 /*	window-command: "wmctrl -i -R {window}";*/
 /*	window-match-fields: "all";*/
 show-icons: true;
-icon-theme: "Flat-Remix-Green-Dark";
+icon-theme: "Papirus-Dark";
 drun-match-fields: "name,generic,exec,categories,keywords";
 /*	drun-categories: ;*/
 /*	drun-show-actions: false;*/

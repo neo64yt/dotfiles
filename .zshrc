@@ -39,8 +39,12 @@ alias desktop="desktop-file-validate"
 alias config="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME"
 
 # Environment variables
+
+## GENERIC STUFFS ##
 export EDITOR="nvim"
 export HOMEBIN="$HOME/bin"
+export TERMINAL="termite"
+
 ## DMENU SETTINGS MANAGER ##
 export STYLE="lxappearance" # Appearance
 export USER_INFO="mugshot" # Account
@@ -48,13 +52,13 @@ export LOCK="xfce4-screensaver-preferences" # Lock screen
 export LOGIN="lightdm-gtk-greeter-settings" # Login screen
 export BT="blueman-manager" # Bluetooth
 export RANDR="lxrandr" # Display
-export NM="nm-connection-editor" # Network
+export NM_EDITOR="nm-connection-editor" # Network
 export INPUT="lxinput" # Input devices
 export POWER="xfce4-power-manager-settings" # Power
 export AUDIO="pavucontrol" # Audio
 export PACK="pamac-manager" # Package manager
 export DEF_APPS="exo-preferred-applications" # Default applications
 export PRINT="system-config-printer" # Printer
-## DMENU SETTINGS MANAGER ##
+export AUTOSTART="$HOME/.autostart/autostart.sh" # WM-independent autostart file
 
-#EOF
+## EOF ##

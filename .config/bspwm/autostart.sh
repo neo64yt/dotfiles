@@ -7,19 +7,16 @@ dir="$HOME/.config/bspwm"
 export SESSION_KILLER="$dir/session-killer"
 
 # Autostart file
-export AUTOSTART="$dir/autostart.sh"
+autostart="$HOME/.autostart/autostart.sh"
+export WM_AUTOSTART="$dir/autostart.sh"
 
 # Autostart applications
-/usr/lib/mate-polkit/polkit-mate-authentication-agent-1 &
-sudo ntpdate ntp.ubuntu.com &
-nm-applet &
-pamac-tray &
-picom &
+
+# This file contains WM-independent autostart applications
+sh $autostart &
+
+# WM-specific autostart applications
 sxhkd -c $dir/sxhkdrc &
 nitrogen --restore &
-/usr/bin/dunst &
-xfce4-power-manager &
-volumeicon &
-blueman-tray &
-spacefm -d &
-devmon &
+
+## EOF ##

@@ -10,11 +10,11 @@ height=35
 prompt="󰐦 Session manager:"
 
 # Command
-choice=$(echo -e "󰐥 Shutdown\n󰜉 Restart\n󰍁 Lock\n󰍃 Log out" | dmenu -l $lines -g $columns -bw $border -h $height -p "$prompt" -c )
+choice=$(echo "󰐥 Shutdown\n󰜉 Restart\n󰍁 Lock\n󰍃 Log out" | dmenu -l $lines -g $columns -bw $border -h $height -p "$prompt" -c )
 
 case "$choice" in
-  "󰐥 Shutdown") poweroff ;;
-  "󰜉 Restart") reboot ;;
+  "󰐥 Shutdown") sudo poweroff ;;
+  "󰜉 Restart") sudo reboot ;;
   "󰍁 Lock") light-locker-command -l ;;
   "󰍃 Log out") sh $SESSION_KILLER ;;
 esac

@@ -16,12 +16,12 @@ run="$dir/runner"
 session="$dir/power"
 settings="$dir/set"
 
-choice=$(echo -e "󰀻 Applications\n󰆍 Run\n󰐦 Session manager\n󰱨 Emojis\n󰢻 Settings" | dmenu -l $lines -g $columns -bw $border -h $height -p "$prompt" -c )
+choice=$(echo "󰀻 Applications\n󰆍 Run\n󰐦 Session manager\n󰱨 Emojis\n󰢻 Settings" | dmenu -l $lines -g $columns -bw $border -h $height -p "$prompt" -c )
 
 case "$choice" in
   "󰀻 Applications") sh $appmenu ;;
   "󰆍 Run") sh $run ;;
   "󰐦 Session manager") sh $session ;;
-  "󰱨 Emojis") sudo pm-suspend & ;;
+  "󰱨 Emojis") $TERMINAL & ;;
   "󰢻 Settings") sh $settings ;;
 esac

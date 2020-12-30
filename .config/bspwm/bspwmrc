@@ -9,7 +9,7 @@ export SESSION_KILLER="$dir/session-killer"
 # Autostart file
 $dir/autostart.sh &
 
-bspc monitor -d I II III IV V VI VII VIII IX X
+bspc monitor -d I II III IV V VI
 
 bspc config border_width         2
 bspc config window_gap          12

@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <gconf>
+	<entry name="sudo-mode" mtime="1609147511" type="bool" value="true"/>
 	<entry name="display-no-pass-info" mtime="1607908624" type="bool" value="false"/>
 	<entry name="save-keyring" mtime="1607844259" type="string">
 		<stringvalue>default</stringvalue>
