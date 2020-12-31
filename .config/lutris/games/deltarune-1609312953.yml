@@ -1,0 +1,18 @@
+game:
+  exe: /home/neo64yt/.wine/drive_c/Program Files (x86)/SURVEY_PROGRAM/DELTARUNE.exe
+  prefix: ~/.wine
+  working_dir: ~/.wine/drive_c/Program Files (x86)/SURVEY_PROGRAM
+system:
+  disable_compositor: false
+  disable_screen_saver: false
+  reset_pulse: false
+  xephyr: 'off'
+wine:
+  UseXVidMode: true
+  dumbxinputemu: false
+  dxvk: false
+  dxvk_version: 1.7.3L-03f11ba
+  fsync: true
+  gallium_nine: false
+  x360ce-dinput: false
+  x360ce-xinput9: false

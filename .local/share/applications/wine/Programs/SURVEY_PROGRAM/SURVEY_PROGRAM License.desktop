@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=SURVEY_PROGRAM License
-Exec=env WINEPREFIX="/home/neo64yt/.wine" /usr/bin/wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/neo64yt/.wine/dosdevices/c:/users/neo64yt/Start\\ Menu/Programs/SURVEY_PROGRAM/SURVEY_PROGRAM\\ License.lnk
+Exec=env WINEPREFIX="/home/neo64yt/.wine" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/neo64yt/.wine/dosdevices/c:/users/neo64yt/Start\\ Menu/Programs/SURVEY_PROGRAM/SURVEY_PROGRAM\\ License.lnk
 Type=Application
 StartupNotify=true
 Path=/home/neo64yt/.wine/dosdevices/c:/Program Files (x86)/SURVEY_PROGRAM

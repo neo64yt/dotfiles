@@ -5,7 +5,7 @@ close_send_to_tray 1
 deadbeef_version 1.8.4
 ffmpeg.enable_all_exts 1
 ffmpeg.extensions aa3;oma;ac3;vqf;amr;tak;dsf;dff;wma;3gp;mp4;m4a
-filechooser.lastdir file:///home/neo64yt/.wine/drive_c/Program%20Files%20(x86)/SURVEY_PROGRAM
+filechooser.lastdir file:///home/neo64yt
 filechooser.playlist.lastdir file:///home/neo64yt/Music/playlists
 gtkui.action_separators 0
 gtkui.color.bar_background 0 0 0
@@ -62,6 +62,10 @@ hotkey.key30 b 0 0 next
 hotkey.key31 n 0 0 playback_random
 hotkey.key32 "Ctrl k" 0 0 toggle_stop_after_album
 hotkeys_created 1
+logwindow.geometry.h 200
+logwindow.geometry.w 400
+logwindow.geometry.x 40
+logwindow.geometry.y 40
 mainwin.geometry.h 710
 mainwin.geometry.w 1364
 mainwin.geometry.x 0
@@ -71,8 +75,8 @@ output_plugin pulseaudio
 playback.loop 1
 playback.volume 0.0000000
 playlist.current 0
-playlist.cursor.0 29
-playlist.scroll.0 693
+playlist.cursor.0 39
+playlist.scroll.0 -39
 playlist.scroll.cursorfollowplayback 1
 playlist.tab.00000 Default
 prefwin.geometry.h 619
@@ -80,9 +84,9 @@ prefwin.geometry.w 792
 prefwin.geometry.x 301
 prefwin.geometry.y 121
 resume.paused 0
-resume.playlist 0
-resume.position 22.059017
-resume.track 29
+resume.playlist -1
+resume.position -1.000000
+resume.track -1
 streamer.16_to_24 1
 streamer.samplerate 44100
 streamer.samplerate_mult_44 44100

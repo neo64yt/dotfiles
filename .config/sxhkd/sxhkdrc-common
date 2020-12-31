@@ -1,0 +1,33 @@
+#
+# wm independent hotkeys
+#
+
+# terminal emulator
+super + shift + Return
+	$TERMINAL
+
+# program launcher
+super + r
+	$DMENU_CONFIG/apps
+
+# start prompt
+super + s
+	$STARTPROMPT
+
+# run prompt
+super + p
+	$DMENU_CONFIG/runner
+
+# screenshooter
+shift + Print
+	$HOME/.utils/screenshot
+
+# power menu
+XF86PowerOff
+	$DMENU_CONFIG/power
+
+# make sxhkd reload its configuration files:
+super + Escape
+	pkill -USR1 -x sxhkd
+
+

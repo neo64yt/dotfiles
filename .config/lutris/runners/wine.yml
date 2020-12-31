@@ -1,4 +1,5 @@
 system:
+  disable_compositor: false
   env: {}
   pulse_latency: true
   reset_desktop: true
@@ -12,10 +13,11 @@ wine:
   Desktop: false
   UseXVidMode: true
   WineDesktop: 1366x768
-  dxvk_version: 1.7.1L
+  dxvk_version: 1.7.3L-03f11ba
   esync: false
-  fsync: false
+  fsync: true
   gallium_nine: true
   overrides: {}
+  version: system
   x360ce-dinput: true
   x360ce-xinput9: true

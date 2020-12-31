@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=winebrowser
-MimeType=text/html;
+MimeType=application/x-extension-htm;
 Exec=env WINEPREFIX="/home/neo64yt/.wine" wine start /ProgIDOpen htmlfile %f
 NoDisplay=true
 StartupNotify=true

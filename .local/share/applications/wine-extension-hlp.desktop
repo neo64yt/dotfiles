@@ -2,7 +2,7 @@
 Type=Application
 Name=winhlp32
 MimeType=application/winhlp;
-Exec=env WINEPREFIX="/home/neo64yt/.wine" /usr/bin/wine start /ProgIDOpen hlpfile %f
+Exec=env WINEPREFIX="/home/neo64yt/.wine" wine start /ProgIDOpen hlpfile %f
 NoDisplay=true
 StartupNotify=true
 Icon=4137_winhlp32.0

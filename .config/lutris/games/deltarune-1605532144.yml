@@ -1,9 +1,0 @@
-game:
-  exe: /home/neo64yt/.wine/drive_c/Program Files (x86)/SURVEY_PROGRAM/DELTARUNE.exe
-  prefix: ~/.wine
-  working_dir: ~/.wine/drive_c/Program Files (x86)/SURVEY_PROGRAM
-system:
-  xephyr: 'off'
-  xephyr_fullscreen: true
-wine:
-  dxvk: false

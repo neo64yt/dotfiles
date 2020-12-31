@@ -15,13 +15,16 @@ appmenu="$dir/apps"
 run="$dir/runner"
 session="$dir/power"
 settings="$dir/set"
+emoji="$dir/dmenuunicode"
+password="$dir/passprompt"
 
-choice=$(echo "󰀻 Applications\n󰆍 Run\n󰐦 Session manager\n󰱨 Emojis\n󰢻 Settings" | dmenu -l $lines -g $columns -bw $border -h $height -p "$prompt" -c )
+choice=$(echo "󰀻 Applications\n󰆍 Run\n󰐦 Session manager\n󰱨 Emojis\n󰢻 Settings\n󰷖 Passwords" | dmenu -l $lines -g $columns -bw $border -h $height -p "$prompt" -c )
 
 case "$choice" in
   "󰀻 Applications") sh $appmenu ;;
   "󰆍 Run") sh $run ;;
   "󰐦 Session manager") sh $session ;;
-  "󰱨 Emojis") $TERMINAL & ;;
+  "󰱨 Emojis") sh $emoji & ;;
   "󰢻 Settings") sh $settings ;;
+  "󰷖 Passwords") sh $password ;;
 esac

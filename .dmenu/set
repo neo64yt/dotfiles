@@ -11,7 +11,7 @@ prompt="󰢻 Settings:"
 edit="nvim-qt"
 
 # Command
-choice=$(echo "󰸌 Appearance\n󰿻 Account\n󰍁 Lock screen\n󰍂 Login screen\n󰂳 Bluetooth\n󰍹 Display\n󰲝 Network\n󰧺 Input devices\n󰐦 Power\n󰕾 Audio\n󰏗 Package manager\n󰘔 Default applications\n󰜇 Printer\n󰌧 Autostart\n󰌧 WM Autostart" | dmenu -l $lines -g $columns -bw $border -h $height -p "$prompt" -c )
+choice=$(echo "󰸌 Appearance\n󰿻 Account\n󰍁 Lock screen\n󰍂 Login screen\n󰂳 Bluetooth\n󰍹 Display\n󰲝 Network\n󰧺 Input devices\n󰐦 Power\n󰕾 Audio\n󰏗 Package manager\n󰜇 Printer\n󰌧 Autostart\n󰌧 WM Autostart" | dmenu -l $lines -g $columns -bw $border -h $height -p "$prompt" -c )
 
 case "$choice" in
   "󰸌 Appearance") $STYLE ;;
@@ -25,7 +25,6 @@ case "$choice" in
   "󰐦 Power") $POWER ;;
   "󰕾 Audio") $AUDIO ;;
   "󰏗 Package manager") $PACK ;;
-  "󰘔 Default applications") $DEF_APPS ;;
   "󰜇 Printer") $PRINT ;;
   "󰌧 Autostart") $edit $AUTOSTART ;;
   "󰌧 WM Autostart") $edit $WM_AUTOSTART ;;

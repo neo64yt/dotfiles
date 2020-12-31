@@ -8,16 +8,15 @@ stats="$dir/scriptbar/start-status"
 export SESSION_KILLER="$dir/session-killer"
 
 # Autostart file
-autostart="$HOME/.autostart/autostart.sh"
 export WM_AUTOSTART="$dir/autostart.sh"
 
 # Autostart applications
 
 # This file contains the WM-independent autostart applications
-sh $autostart &
+sh $AUTOSTART &
 
 # WM-specific autostart applications
-sxhkd -c $dir/sxhkdrc &
+sxhkd -c $KEYBIND &
 nitrogen --restore &
 sh $stats &
 
