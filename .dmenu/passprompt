@@ -4,10 +4,9 @@
 
 # Defaults
 lines=2
-columns=1
 border=3
 height=35
 prompt="󰷖 Passwords:"
 
 # Command
-passmenu -l $lines -g $columns -bw $border -h $height -p "$prompt" -c 
+passmenu -l $lines -bw $border -h $height -p "$prompt" -c 

@@ -3,14 +3,13 @@
 # Scripts directory
 
 # Defaults
-lines=2
-columns=2
+lines=5
 border=3
 height=35
 prompt="󰐦 Session manager:"
 
 # Command
-choice=$(echo "󰐥 Shutdown\n󰜉 Restart\n󰍁 Lock\n󰍃 Log out" | dmenu -l $lines -g $columns -bw $border -h $height -p "$prompt" -c )
+choice=$(echo "󰐥 Shutdown\n󰜉 Restart\n󰍁 Lock\n󰍃 Log out" | dmenu -l $lines -bw $border -h $height -p "$prompt" -c )
 
 case "$choice" in
   "󰐥 Shutdown") poweroff ;;

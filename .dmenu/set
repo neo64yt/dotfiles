@@ -3,15 +3,14 @@
 # Settings manager
 
 # Defaults
-lines=5
-columns=2
+lines=10
 border=3
 height=35
 prompt="󰢻 Settings:"
 edit="nvim-qt"
 
 # Command
-choice=$(echo "󰸌 Appearance\n󰿻 Account\n󰍁 Lock screen\n󰍂 Login screen\n󰂳 Bluetooth\n󰍹 Display\n󰲝 Network\n󰧺 Input devices\n󰐦 Power\n󰕾 Audio\n󰏗 Package manager\n󰜇 Printer\n󰌧 Autostart\n󰌧 WM Autostart" | dmenu -l $lines -g $columns -bw $border -h $height -p "$prompt" -c )
+choice=$(echo "󰸌 Appearance\n󰿻 Account\n󰍁 Lock screen\n󰍂 Login screen\n󰂳 Bluetooth\n󰍹 Display\n󰲝 Network\n󰧺 Input devices\n󰐦 Power\n󰕾 Audio\n󰏗 Package manager\n󰜇 Printer\n󰌧 Autostart\n󰌧 WM Autostart" | dmenu -l $lines -bw $border -h $height -p "$prompt" -c )
 
 case "$choice" in
   "󰸌 Appearance") $STYLE ;;
