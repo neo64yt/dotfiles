@@ -2,7 +2,7 @@
 
 # Directory of dwm autostart configuration
 dir="$HOME/.dwm"
-stats="$dir/scriptbar/start-status"
+stats="slstatus"
 
 # Session killer
 export SESSION_KILLER="$dir/session-killer"
@@ -18,6 +18,6 @@ sh $AUTOSTART &
 # WM-specific autostart applications
 sxhkd -c $KEYBIND &
 nitrogen --restore &
-sh $stats &
+$stats &
 
 ## EOF ##

@@ -152,8 +152,7 @@ icon_position = left
 max_icon_size = 48
 
 # Paths to default icons.
-icon_path = /usr/share/icons/Papirus-Dark/48x48@2x/actions/:/usr/share/icons/Papirus-Dark/48x48@2x/apps/:/usr/share/icons/Papirus-Dark/48x48@2x/categories/:/usr/share/icons/Papirus-Dark/48x48@2x/devices/:/usr/share/icons/Papirus-Dark/48x48@2x/emblems/:/usr/share/icons/Papirus-Dark/48x48@2x/emotes/:/usr/share/icons/Papirus-Dark/48x48@2x/mimetypes/:/usr/share/icons/Papirus-Dark/48x48@2x/places/:/usr/share/icons/Papirus-Dark/48x48@2x/status/:/usr/share/icons/Papirus-Dark/24x24@2x/animations/:/usr/share/icons/Papirus-Dark/24x24@2x/panel/
-
+icon_path = /usr/share/icons/Flat-Remix-Green-Dark/actions/scalable/:/usr/share/icons/Flat-Remix-Green-Dark/animations/:/usr/share/icons/Flat-Remix-Green-Dark/apps/scalable/:/usr/share/icons/Flat-Remix-Green-Dark/categories/scalable/:/usr/share/icons/Flat-Remix-Green-Dark/devices/scalable/:/usr/share/icons/Flat-Remix-Green-Dark/emblems/scalable/:/usr/share/icons/Flat-Remix-Green-Dark/emotes/:/usr/share/icons/Flat-Remix-Green-Dark/mimetypes/scalable/:/usr/share/icons/Flat-Remix-Green-Dark/panel/:/usr/share/icons/Flat-Remix-Green-Dark/places/scalable/:/usr/share/icons/Flat-Remix-Green-Dark/status/scalable/
 frame_width = 8
 frame_color = "#8EC07C"
 

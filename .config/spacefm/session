@@ -10,7 +10,7 @@ use_si_prefix=1
 
 [Window]
 width=1364
-height=710
+height=716
 maximized=0
 
 [Desktop]
@@ -43,7 +43,7 @@ dev_change-s=cifs curlftpfs ftpfs fuse.sshfs nfs smbfs
 dev_change-z=cifs curlftpfs ftpfs fuse.sshfs nfs smbfs
 dev_fs_cnf-s=hand_fs_+udiso hand_fs_+fuseiso hand_fs_+def
 dev_net_cnf-s=hand_net_+ifuse hand_net_+http hand_net_+fuse hand_net_+ftp hand_net_+ssh hand_net_+mtp hand_net_+gphoto hand_net_+udevil hand_net_+udevilsmb hand_net_+fusesmb
-book_icon-icn=session-properties
+book_icon-icn=phone
 book_show-b=1
 book_add-key=100
 book_add-keymod=4
@@ -141,7 +141,7 @@ task_pop_all-b=2
 task_pop_top-s=613
 task_pop_top-x=613
 task_pop_top-y=354
-task_pop_top-z=710
+task_pop_top-z=716
 task_pop_top-b=2
 task_pop_above-b=2
 task_pop_stick-b=2

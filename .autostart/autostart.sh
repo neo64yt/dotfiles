@@ -20,5 +20,4 @@ xfce4-power-manager &
 (sleep 1s && nm-applet) &
 (sleep 1s && pamac-tray) &
 (sleep 3s && mictray) &
-(sleep 3s && pnmixer) &
-(sleep 1s && blueman-tray) &
+(sleep 3s && volumeicon) &
