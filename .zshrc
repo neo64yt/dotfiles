@@ -26,13 +26,13 @@ tput setaf 71
 cat ~/.my_term
 
 # Alises
-alias rm="rm -r"
-alias visudo="sudo nvim /etc/doas.conf"
+alias rm="rm -ri"
 alias windows="sudo mount /dev/sda3 /mnt"
 alias ls="ls --color=auto"
+alias grep="grep --color=auto"
 alias clean-cache="rm -rf ~/.cache/*"
 alias cp="cp -r"
-alias ../..="cd ~/"
+alias ..="cd .."
 alias desktop="desktop-file-validate"
 
 # Alias for updating dotfiles

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+dir="$HOME/.dwm"
+
+notify-send -u low NOTE: "$(cat $dir/keybinds)"

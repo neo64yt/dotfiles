@@ -15,6 +15,7 @@ picom --experimental-backend &
 spacefm -d &
 devmon &
 xfce4-power-manager &
+$LOCK &
 
 # Systray
 (sleep 1s && nm-applet) &

@@ -10,6 +10,9 @@ export SESSION_KILLER="$dir/session-killer"
 # Autostart file
 export WM_AUTOSTART="$dir/autostart.sh"
 
+# Keybindings configuration
+export WM_KEYBIND="$dir/NOTE"
+
 # Autostart applications
 
 # This file contains the WM-independent autostart applications

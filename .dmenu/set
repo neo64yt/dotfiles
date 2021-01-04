@@ -7,15 +7,14 @@ lines=10
 border=3
 height=35
 prompt="󰢻 Settings:"
-edit="nvim-qt"
 
 # Command
-choice=$(echo "󰸌 Appearance\n󰿻 Account\n󰍁 Lock screen\n󰍂 Login screen\n󰍹 Display\n󰲝 Network\n󰧺 Input devices\n󰐦 Power\n󰕾 Audio\n󰏗 Package manager\n󰜇 Printer\n󰌧 Autostart\n󰌧 WM Autostart" | dmenu -l $lines -bw $border -h $height -p "$prompt" -c )
+choice=$(echo "󰸌 Appearance\n󰿻 Account\n󰍁 Lock screen\n󰍂 Login screen\n󰍹 Display\n󰲝 Network\n󰧺 Input devices\n󰐦 Power\n󰕾 Audio\n󰏗 Package manager\n󰜇 Printer\n󰌧 Autostart\n󰌧 WM Autostart\n󰧺 Keybindings\n󰧺 WM keybindings" | dmenu -l $lines -bw $border -h $height -p "$prompt" -c )
 
 case "$choice" in
   "󰸌 Appearance") $STYLE ;;
   "󰿻 Account") $USER_INFO ;;
-  "󰍁 Lock screen") $LOCK ;;
+  "󰍁 Lock screen") $GUI_EDITOR $LOCK ;;
   "󰍂 Login screen") pkexec $LOGIN ;;
   "󰍹 Display") $RANDR ;;
   "󰲝 Network") $NM_EDITOR ;;
@@ -24,6 +23,8 @@ case "$choice" in
   "󰕾 Audio") $AUDIO ;;
   "󰏗 Package manager") $PACK ;;
   "󰜇 Printer") $PRINT ;;
-  "󰌧 Autostart") $edit $AUTOSTART ;;
-  "󰌧 WM Autostart") $edit $WM_AUTOSTART ;;
+  "󰌧 Autostart") $GUI_EDITOR $AUTOSTART ;;
+  "󰌧 WM Autostart") $GUI_EDITOR $WM_AUTOSTART ;;
+  "󰧺 Keybindings") $GUI_EDITOR $KEYBIND ;;
+  "󰧺 WM keybindings") $WM_KEYBIND ;;
 esac

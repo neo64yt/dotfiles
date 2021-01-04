@@ -18,9 +18,13 @@ super + s
 super + p
 	$DMENU_CONFIG/runner
 
+# settings
+super + shift + s
+	$SETTINGS_MGR
+
 # screenshooter
 shift + Print
-	$HOME/.utils/screenshot
+	$UTILS_DIR/screenshot
 
 # power menu
 XF86PowerOff
