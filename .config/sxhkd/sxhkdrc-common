@@ -11,7 +11,7 @@ super + r
 	$DMENU_CONFIG/apps
 
 # start prompt
-super + s
+super + space
 	$STARTPROMPT
 
 # run prompt

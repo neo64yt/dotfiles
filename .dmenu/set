@@ -21,7 +21,7 @@ case "$choice" in
   "󰧺 Input devices") $INPUT ;;
   "󰐦 Power") $POWER ;;
   "󰕾 Audio") $AUDIO ;;
-  "󰏗 Package manager") $PACK ;;
+  "󰏗 Package manager") $GUI_PACK ;;
   "󰜇 Printer") $PRINT ;;
   "󰌧 Autostart") $GUI_EDITOR $AUTOSTART ;;
   "󰌧 WM Autostart") $GUI_EDITOR $WM_AUTOSTART ;;
