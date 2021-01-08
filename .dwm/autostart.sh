@@ -1,17 +1,17 @@
 # !/bin/sh
 
 # Directory of dwm autostart configuration
-dir="$HOME/.dwm"
+export WM_CONFIG_DIR="$HOME/.dwm"
 stats="slstatus"
 
 # Session killer
-export SESSION_KILLER="$dir/session-killer"
+export SESSION_KILLER="$WM_CONFIG_DIR/session-killer"
 
 # Autostart file
-export WM_AUTOSTART="$dir/autostart.sh"
+export WM_AUTOSTART="$WM_CONFIG_DIR/autostart.sh"
 
 # Keybindings configuration
-export WM_KEYBIND="$dir/NOTE"
+export WM_KEYBIND="$WM_CONFIG_DIR/NOTE"
 
 # Autostart applications
 

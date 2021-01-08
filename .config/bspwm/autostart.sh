@@ -1,13 +1,13 @@
 # !/bin/sh
 
 # Directory of dwm autostart configuration
-dir="$HOME/.config/bspwm"
+export WM_CONFIG_DIR="$HOME/.config/bspwm"
 
 # Session killer
-export SESSION_KILLER="$dir/session-killer"
+export SESSION_KILLER="$WM_CONFIG_DIR/session-killer"
 
 # Autostart file
-export WM_AUTOSTART="$dir/autostart.sh"
+export WM_AUTOSTART="$WM_CONFIG_DIR/autostart.sh"
 
 # Autostart applications
 
@@ -15,7 +15,7 @@ export WM_AUTOSTART="$dir/autostart.sh"
 sh $AUTOSTART &
 
 # WM-specific autostart applications
-sxhkd -c $dir/sxhkdrc $KEYBIND &
+sxhkd -c $WM_CONFIG_DIR/sxhkdrc $KEYBIND &
 nitrogen --restore &
 
 ## EOF ##

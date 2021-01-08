@@ -21,13 +21,8 @@ source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
 # show sysinfo
 pfetch
 
-# text file
-tput setaf 71
-cat ~/.my_term
-
 # Alises
 alias rm="rm -ri"
-alias windows="sudo mount /dev/sda3 /mnt"
 alias ls="ls --color=auto"
 alias grep="grep --color=auto"
 alias clean-cache="rm -rf ~/.cache/*"

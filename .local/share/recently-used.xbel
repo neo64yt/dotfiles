@@ -89,67 +89,6 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/Lightcord-linux-x86_64.AppImage" added="2020-12-05T14:49:10.382760Z" modified="2020-12-05T14:49:10.382800Z" visited="2020-12-05T14:49:10.382765Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.appimage"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-05T14:49:10.382775Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/ad73f9087f39d7cadd8e-3fb4d9590275789060dec545b1e661286752e5e6.zip" added="2020-12-06T02:13:05.619466Z" modified="2020-12-06T02:13:08.937567Z" visited="2020-12-06T02:13:05.619471Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-06T02:13:05.619480Z" count="1"/>
-          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-06T02:13:08.937553Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/.cache/yay/elogind/elogind-243.7-1-x86_64.pkg.tar.zst" added="2020-12-06T03:16:49.619403Z" modified="2020-12-06T03:23:13.300032Z" visited="2020-12-06T03:16:49.619407Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zstd"/>
-        <bookmark:applications>
-          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-06T03:23:13.300022Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/.cache/yay/elogind" added="2020-12-06T03:23:23.660289Z" modified="2020-12-06T03:23:23.660302Z" visited="2020-12-06T03:23:23.660291Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2020-12-06T03:23:23.660295Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/.cache/yay/elogind/elogind-243.7-1-x86_64.pkg.tar" added="2020-12-06T03:23:35.518719Z" modified="2020-12-06T03:42:58.408896Z" visited="2020-12-06T03:23:35.518723Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-06T03:42:58.408884Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/.cache/yay/elogind/elogind-243.7-1-x86_64.pkg/elogind-243.7-1-x86_64.pkg.tar" added="2020-12-06T03:44:16.048324Z" modified="2020-12-06T03:45:09.030685Z" visited="2020-12-06T03:44:16.048328Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-06T03:45:09.030678Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///home/neo64yt/Pictures/night-nature.jpg" added="2020-12-07T23:50:05.788539Z" modified="2020-12-07T23:50:06.367021Z" visited="2020-12-07T23:50:05.788548Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -1453,7 +1392,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Documents/PEAH.xcf" added="2021-01-04T01:38:31.749774Z" modified="2021-01-04T01:38:32.190829Z" visited="2021-01-04T01:38:31.749778Z">
+  <bookmark href="file:///home/neo64yt/Documents/PEAH.xcf" added="2021-01-04T01:38:31.749774Z" modified="2021-01-06T13:39:09.712329Z" visited="2021-01-04T01:38:31.749778Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/x-xcf"/>
@@ -1461,7 +1400,7 @@
           <bookmark:group>Graphics</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-01-04T01:38:32.190816Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-01-06T13:39:09.712317Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
