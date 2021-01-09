@@ -9,6 +9,9 @@ export SESSION_KILLER="$WM_CONFIG_DIR/session-killer"
 # Autostart file
 export WM_AUTOSTART="$WM_CONFIG_DIR/autostart.sh"
 
+# Keybindings
+export WM_KEYBIND="$WM_CONFIG_DIR/edit-keybinds"
+
 # Autostart applications
 
 # This file contains WM-independent autostart applications

@@ -1,0 +1,3 @@
+#!/bin/sh
+
+$GUI_EDITOR $WM_CONFIG_DIR/sxhkdrc
