@@ -22,19 +22,20 @@ source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
 neofetch
 
 # Alises
-alias rm="rm -ri"
-alias ls="ls --color=auto"
-alias grep="grep --color=auto"
-alias clean-cache="rm -rf ~/.cache/*"
-alias cp="cp -r"
-alias ..="cd .."
-alias desktop="desktop-file-validate"
-alias patch-del="patch -R"
+alias rm="rm -ri" # Delete files
+alias ls="ls --color=auto" # List files
+alias grep="grep --color=auto" # Grep
+alias clean-cache="rm -rf ~/.cache/*" # Clean home directory cache
+alias cp="cp -r" # Copy files
+alias ..="cd .." # Go up 
+alias desktop="desktop-file-validate" # Validating .desktop files
+alias patch-del="patch -R" # Reversing patches
 
 # Alias for updating dotfiles
-alias config="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME"
-alias config-reset="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME reset --hard"
-alias config-update="$HOME/.updatedots"
+alias config="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME" # Git command for my dotfiles repo
+alias config-reset="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME reset --hard" # Reset dotfiles to the last commit
+alias config-update="$HOME/.updatedots" # Update all tracked files in the repository
+alias config-sync="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME pull" # Syncing dotfiles with upstream repository
 
 # Environment variables
 # All environment variables are stored in this file:
