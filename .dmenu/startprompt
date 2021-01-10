@@ -1,8 +1,5 @@
 #!/bin/sh
 
-# Scripts directory
-dir="$HOME/.dmenu"
-
 # Defaults
 lines=10
 border=3
@@ -10,17 +7,19 @@ height=35
 prompt="󱍕 Select a prompt to run:"
 
 # Scripts
-appmenu="$dir/apps"
-run="$dir/runner"
-session="$dir/power"
-settings="$dir/set"
-emoji="$dir/dmenuunicode"
-password="$dir/passprompt"
+appmenu="$DMENU_CONFIG/apps"
+run="$DMENU_CONFIG/runner"
+session="$DMENU_CONFIG/power"
+settings="$DMENU_CONFIG/set"
+emoji="$DMENU_CONFIG/dmenuunicode"
+password="$DMENU_CONFIG/passprompt"
+apps="$DMENU_CONFIG/prefapps"
 
-choice=$(echo "󰀻 Applications\n󰆍 Run\n󰐦 Session manager\n󰱨 Emojis\n󰢻 Settings\n󰷖 Passwords" | dmenu -l $lines -bw $border -h $height -p "$prompt" -c )
+choice=$(echo "󰀻 Applications\n󰩴 Preferred applications\n󰆍 Run\n󰐦 Session manager\n󰱨 Emojis\n󰢻 Settings\n󰷖 Passwords" | dmenu -l $lines -bw $border -h $height -p "$prompt" -c )
 
 case "$choice" in
   "󰀻 Applications") sh $appmenu ;;
+  "󰩴 Preferred applications") sh $apps ;;
   "󰆍 Run") sh $run ;;
   "󰐦 Session manager") sh $session ;;
   "󰱨 Emojis") sh $emoji & ;;
