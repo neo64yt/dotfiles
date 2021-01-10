@@ -30,6 +30,11 @@ alias cp="cp -r" # Copy files
 alias ..="cd .." # Go up 
 alias desktop="desktop-file-validate" # Validating .desktop files
 alias patch-del="patch -R" # Reversing patches
+alias vim="nvim" # Assume Neovim as Vim
+alias commit="git commit" # Commiting Git changes
+alias p="sudo pacman" # Package management
+alias push="git push" # Push Git commits to upstream repository
+alias pull="git pull" # Sync local Git repository with upstream
 
 # Alias for updating dotfiles
 alias config="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME" # Git command for my dotfiles repo

@@ -10,3 +10,12 @@ As this is a bare Git repository, first create a new directory called git-src (r
 /usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME clone https://github.com/neo64yt/dotfiles.git
 ```
 
+## Included configurations
+* [dwm](https://github.com/neo64yt/dwm-neo64/)
+* [dmenu](https://github.com/neo64yt/dwm-neo64/) scripts
+* zsh
+* bspwm
+* Autostart applications
+* GTK theme
+* **Too much that you should see it yourself in the repository, badly :P**
+
