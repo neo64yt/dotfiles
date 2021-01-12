@@ -1,7 +1,7 @@
 # !/bin/sh
 
 # Directory of dwm autostart configuration
-export WM_CONFIG_DIR="$HOME/.dwm"
+export WM_CONFIG_DIR="$XDG_CONFIG_HOME/dwm"
 stats="slstatus"
 
 # Session killer

@@ -15,6 +15,7 @@ picom --experimental-backend &
 spacefm -d &
 devmon &
 $LOCK &
+usbmuxd --udev &
 
 # Systray
 (sleep 1s && xfce4-power-manager) &

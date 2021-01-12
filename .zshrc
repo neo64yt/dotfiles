@@ -39,12 +39,12 @@ alias pull="git pull" # Sync local Git repository with upstream
 # Alias for updating dotfiles
 alias config="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME" # Git command for my dotfiles repo
 alias config-reset="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME reset --hard" # Reset dotfiles to the last commit
-alias config-update="$HOME/.updatedots" # Update all tracked files in the repository
+alias config-update="$UTILS_DIR/updatedots" # Update all tracked files in the repository
 alias config-sync="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME pull" # Syncing dotfiles with upstream repository
 
 # Environment variables
 # All environment variables are stored in this file:
-source $HOME/.env_vars
+source $HOME/.config/env_vars
 
 # Syntax highlighting 
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh

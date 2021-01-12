@@ -1,7 +1,7 @@
 # !/bin/sh
 
 # Directory of dwm autostart configuration
-export WM_CONFIG_DIR="$HOME/.config/bspwm"
+export WM_CONFIG_DIR="$XDG_CONFIG_HOME/bspwm"
 
 # Session killer
 export SESSION_KILLER="$WM_CONFIG_DIR/session-killer"
