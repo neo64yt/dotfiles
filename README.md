@@ -19,3 +19,10 @@ As this is a bare Git repository, first create a new directory called git-src (r
 * GTK theme
 * **Too much that you should see it yourself in the repository, badly :P**
 
+## NOTICE
+To ensure compatibility of my .dmenu/power script with Artix Linux, I used _sudo poweroff_ and _sudo reboot_ instead. Please add these lines to the sudoers file:
+```
+%wheel arch-neo64=(root) NOPASSWD: /sbin/poweroff
+%wheel arch-neo64=(root) NOPASSWD: /sbin/reboot
+```
+

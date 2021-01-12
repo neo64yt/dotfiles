@@ -1,5 +1,7 @@
-2021/01/12-09:22:46.533 112b Recovering log #3
-2021/01/12-09:22:47.088 112b Level-0 table #5: started
-2021/01/12-09:22:47.358 112b Level-0 table #5: 2785958 bytes OK
-2021/01/12-09:22:47.407 112b Delete type=0 #3
-2021/01/12-09:22:47.408 112b Delete type=3 #2
+2021/01/12-09:45:41.692 e91 Recovering log #3
+2021/01/12-09:45:42.592 e91 Level-0 table #5: started
+2021/01/12-09:45:42.979 e91 Level-0 table #5: 2785958 bytes OK
+2021/01/12-09:45:42.991 e91 Recovering log #6
+2021/01/12-09:45:43.054 e91 Delete type=0 #3
+2021/01/12-09:45:43.054 e91 Delete type=0 #6
+2021/01/12-09:45:43.054 e91 Delete type=3 #2
