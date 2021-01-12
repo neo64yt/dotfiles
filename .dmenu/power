@@ -12,8 +12,8 @@ prompt="󰐦 Session manager:"
 choice=$(echo "󰐥 Shutdown\n󰜉 Restart\n󰍁 Lock\n󰍃 Log out" | dmenu -l $lines -bw $border -h $height -p "$prompt" -c )
 
 case "$choice" in
-  "󰐥 Shutdown") poweroff ;;
-  "󰜉 Restart") reboot ;;
+  "󰐥 Shutdown") sudo poweroff ;;
+  "󰜉 Restart") sudo reboot ;;
   "󰍁 Lock") $LOCKER ;;
   "󰍃 Log out") sh $SESSION_KILLER ;;
 esac

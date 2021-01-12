@@ -3,17 +3,6 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/neo64yt/Downloads/Impactor64_0.9.52.tgz" added="2020-11-16T14:00:57.142822Z" modified="2020-12-11T05:45:05.226279Z" visited="2020-11-16T14:00:57.142825Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-11T05:44:46.293244Z" count="2"/>
-          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-11T05:45:05.226270Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///home/neo64yt/Downloads/UTM.ipa" added="2020-11-16T14:12:16.027492Z" modified="2020-12-12T14:53:06.558481Z" visited="2020-11-16T14:12:16.027496Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -82,16 +71,6 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/ubuntu-20.04.1-desktop-amd64.iso" added="2020-12-08T06:55:58.877103Z" modified="2020-12-11T04:59:29.886972Z" visited="2020-12-08T06:55:58.877106Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-cd-image"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-11T04:59:29.886959Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///home/neo64yt/Downloads" added="2020-12-09T00:07:05.368615Z" modified="2021-01-03T00:44:29.674024Z" visited="2020-12-09T00:07:05.368620Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -112,64 +91,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/trash-0.4.0.tar.gz" added="2020-12-10T02:49:01.954164Z" modified="2020-12-11T12:58:03.248467Z" visited="2020-12-10T02:49:01.954168Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-11T12:54:14.515242Z" count="2"/>
-          <bookmark:application name="spacefm" exec="&apos;spacefm %u&apos;" modified="2020-12-11T12:58:03.248446Z" count="4"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/UTM.dmg" added="2020-12-11T07:38:57.535511Z" modified="2020-12-11T07:38:57.535545Z" visited="2020-12-11T07:38:57.535517Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-apple-diskimage"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-11T07:38:57.535527Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/checkra1n" added="2020-12-11T07:47:41.247468Z" modified="2020-12-11T07:47:41.247502Z" visited="2020-12-11T07:47:41.247473Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-11T07:47:41.247483Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///home/neo64yt/Downloads/Minecraft-1.16.40.ipa" added="2020-12-11T12:05:22.510589Z" modified="2020-12-12T13:33:07.606720Z" visited="2020-12-11T12:05:22.510592Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
           <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-12T13:33:07.606703Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/Trash_v0.6.3.spacefm-plugin.tar.gz" added="2020-12-11T13:01:07.218485Z" modified="2020-12-11T13:01:15.959552Z" visited="2020-12-11T13:01:07.218489Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-11T13:01:07.218497Z" count="1"/>
-          <bookmark:application name="spacefm" exec="&apos;spacefm %u&apos;" modified="2020-12-11T13:01:15.959533Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/bin/Stacer-1.1.0-x64.AppImage" added="2020-12-11T13:31:54.204124Z" modified="2020-12-11T13:31:54.204153Z" visited="2020-12-11T13:31:54.204129Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.appimage"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-11T13:31:54.204139Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -427,7 +354,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Pictures/neo64-new.jpg" added="2020-12-21T06:36:32.116429Z" modified="2020-12-21T13:33:51.418390Z" visited="2020-12-21T06:36:32.116433Z">
+  <bookmark href="file:///home/neo64yt/Pictures/neo64-new.jpg" added="2020-12-21T06:36:32.116429Z" modified="2021-01-11T06:45:39.283147Z" visited="2020-12-21T06:36:32.116433Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
@@ -438,11 +365,12 @@
           <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-21T13:33:51.418378Z" count="17"/>
           <bookmark:application name="mugshot" exec="&apos;mugshot %u&apos;" modified="2020-12-21T06:43:32.202862Z" count="1"/>
           <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-21T07:40:24.621852Z" count="3"/>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-01-11T06:45:39.283127Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Pictures/neo64-new.png" added="2020-12-21T06:46:06.698604Z" modified="2020-12-23T08:12:30.858686Z" visited="2020-12-21T06:46:06.698608Z">
+  <bookmark href="file:///home/neo64yt/Pictures/neo64-new.png" added="2020-12-21T06:46:06.698604Z" modified="2021-01-11T06:45:22.105235Z" visited="2020-12-21T06:46:06.698608Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -454,6 +382,7 @@
           <bookmark:application name="mugshot" exec="&apos;mugshot %u&apos;" modified="2020-12-21T07:41:21.559229Z" count="4"/>
           <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-21T07:43:54.274850Z" count="6"/>
           <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-23T08:12:30.858672Z" count="1"/>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-01-11T06:45:22.105221Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
