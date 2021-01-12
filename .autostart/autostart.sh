@@ -14,10 +14,10 @@ picom --experimental-backend &
 /usr/bin/dunst &
 spacefm -d &
 devmon &
-xfce4-power-manager &
 $LOCK &
 
 # Systray
+(sleep 1s && xfce4-power-manager) &
 (sleep 1s && nm-applet) &
 (sleep 1s && pamac-tray) &
 (sleep 3s && mictray) &
