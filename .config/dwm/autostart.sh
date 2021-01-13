@@ -20,7 +20,7 @@ sh $AUTOSTART &
 
 # WM-specific autostart applications
 sxhkd -c $KEYBIND &
-nitrogen --restore &
+xwallpaper --center $HOME/Pictures/green-sea.jpg &
 $stats &
 
 ## EOF ##
