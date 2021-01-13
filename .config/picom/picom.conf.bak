@@ -15,7 +15,7 @@ size-transition = true
 #             Corners           #
 #################################
 # requires: https://github.com/sdhand/compton or https://github.com/jonaburg/picom
-corner-radius = 12.5;
+corner-radius = 12.0;
 rounded-corners-exclude = [
   #"window_type = 'normal'",
   "class_g = 'awesome'",
@@ -25,13 +25,17 @@ rounded-corners-exclude = [
   "class_g = 'Alacritty'",
   "class_g = 'Polybar'",
   "class_g = 'code-oss'",
-  #"class_g = 'TelegramDesktop'",
+  "class_g = 'TelegramDesktop'",
+  "class_g = 'Thunderbird'",
+  "class_g = 'Surf'",
+  "class_g = 'Dunst'",
   "class_g = 'firefox'",
-  "class_g = 'Thunderbird'"
+  "class_g = 'dwm'",
+  "class_g = 'dmenu'"
 ];
-round-borders = 1;
+round-borders = 12;
 round-borders-exclude = [
-  #"class_g = 'TelegramDesktop'",
+  "class_g = 'TelegramDesktop'",
 ];
 
 #################################
@@ -43,8 +47,8 @@ round-borders-exclude = [
 # (windows with '_NET_WM_WINDOW_TYPE_DESKTOP') never get shadow, 
 # unless explicitly requested using the wintypes option.
 #
-# shadow = false
-shadow = true;
+shadow = false
+# shadow = true;
 
 # The blur radius for shadows, in pixels. (defaults to 12)
 # shadow-radius = 12
@@ -130,14 +134,14 @@ fading = true;
 
 # Opacity change between steps while fading in. (0.01 - 1.0, defaults to 0.028)
 # fade-in-step = 0.028
-fade-in-step = 0.03;
+fade-in-step = 0.015;
 
 # Opacity change between steps while fading out. (0.01 - 1.0, defaults to 0.03)
 # fade-out-step = 0.03
-fade-out-step = 0.03;
+fade-out-step = 0.015;
 
 # The time between steps in fade step, in milliseconds. (> 0, defaults to 10)
-# fade-delta = 10
+fade-delta = 5
 
 # Specify a list of conditions of windows that should not be faded.
 # don't need this, we disable fading for all normal windows with wintypes: {}
@@ -146,7 +150,7 @@ fade-exclude = [
 ]
 
 # Do not fade on window open/close.
-# no-fading-openclose = false
+no-fading-openclose = false
 
 # Do not fade destroyed ARGB windows with WM frame. Workaround of bugs in Openbox, Fluxbox, etc.
 # no-fading-destroyed-argb = false
@@ -258,7 +262,7 @@ opacity-rule = [
 
 blur: {
   # requires: https://github.com/ibhagwan/picom
-  method = "kawase";
+  method = "dual_kawase";
   #method = "kernel";
   strength = 7;
   # deviation = 1.0;
@@ -330,8 +334,8 @@ detect-client-opacity = true;
 # Specify refresh rate of the screen. If not specified or 0, picom will 
 # try detecting this with X RandR extension.
 #
-# refresh-rate = 60
-refresh-rate = 0
+refresh-rate = 60
+# refresh-rate = 0
 
 # Limit picom to repaint at most once every 1 / 'refresh_rate' second to 
 # boost performance. This should not be used with 
@@ -503,10 +507,10 @@ log-level = "info";
 #
 wintypes:
 {
-  normal = { fade = false; shadow = false; }
-  tooltip = { fade = true; shadow = true; opacity = 0.75; focus = true; full-shadow = false; };
-  dock = { shadow = false; }
-  dnd = { shadow = false; }
+  normal = { fade = true; shadow = false; full-shadow = false; }
+  tooltip = { fade = true; shadow = false; opacity = 0.75; focus = true; full-shadow = false; };
+  dock = { shadow = false; full-shadow = false; }
+  dnd = { shadow = false; full-shadow = false; }
   popup_menu = { opacity = 0.8; }
   dropdown_menu = { opacity = 0.8; }
 };

@@ -1,1 +1,5 @@
-2021/01/12-09:23:13.346 1137 Delete type=3 #1
+2021/01/13-09:32:13.787 3beb Recovering log #8
+2021/01/13-09:32:13.788 3beb Level-0 table #10: started
+2021/01/13-09:32:13.810 3beb Level-0 table #10: 3523 bytes OK
+2021/01/13-09:32:13.847 3beb Delete type=0 #8
+2021/01/13-09:32:13.848 3beb Delete type=3 #6

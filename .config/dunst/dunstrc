@@ -43,7 +43,7 @@ bounce_freq = 0
 # Show age of message if message is older than show_age_threshold
 # seconds.
 # Set to -1 to disable.
-show_age_threshold = -1
+show_age_threshold = 60
 
 # Split notifications into multiple lines if they don't fit into
 # geometry.
@@ -53,8 +53,8 @@ word_wrap = yes
 ignore_newline = no
 
 # Hide duplicate's count and stack them
-stack_duplicates = yes
-hide_duplicates_count = yes
+stack_duplicates = no
+hide_duplicates_count = no
 
 
 # The geometry of the window:
@@ -100,7 +100,7 @@ monitor = 0
 #
 # If this option is set to mouse or keyboard, the monitor option
 # will be ignored.
-follow = none
+follow = mouse
 
 # Should a notification popped up from history be sticky or timeout
 # as if it would normally do.
@@ -185,6 +185,7 @@ foreground = "#06a284"
 background = "#272a34"
 #background = "#2B313C"
 timeout = 4
+icon = "~/.local/share/assets/dunst/icons/normal.png"
 
 [urgency_normal]
 frame_color = "#eac719"
@@ -192,6 +193,7 @@ foreground = "#06a284"
 background = "#272a34"
 #background = "#2B313C"
 timeout = 6
+icon = ~/.local/share/assets/dunst/icons/normal.png"
 
 [urgency_critical]
 frame_color = "#B7472A"
@@ -199,6 +201,7 @@ foreground = "#06a284"
 background = "#272a34"
 #background = "#2B313C"
 timeout = 8
+icon = ~/.local/share/assets/dunst/icons/urgent.png"
 
 
 # Every section that isn't one of the above is interpreted as a rules to

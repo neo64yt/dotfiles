@@ -1,15 +1,15 @@
-2021/01/12-09:48:33.533 e92 Reusing MANIFEST /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/12-09:48:33.534 e92 Recovering log #4
-2021/01/12-09:48:33.535 e92 Reusing old log /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
-2021/01/12-09:49:18.451 e71 Level-0 table #8: started
-2021/01/12-09:49:18.475 e71 Level-0 table #8: 6162 bytes OK
-2021/01/12-09:49:18.488 e71 Delete type=0 #4
-2021/01/12-09:49:18.489 e71 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/01/12-09:49:18.489 e71 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01\x16\x00a\x00p\x00p\x00l\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00e\x00r\x00v\x00e\x00r\x00_\x00k\x00e\x00y' @ 295 : 1
-2021/01/12-09:49:18.489 e71 Compacting 1@1 + 1@2 files
-2021/01/12-09:49:18.501 e71 Generated table #9@1: 88 keys, 2565 bytes
-2021/01/12-09:49:18.501 e71 Compacted 1@1 + 1@2 files => 2565 bytes
-2021/01/12-09:49:18.508 e71 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/01/12-09:49:18.509 e71 Delete type=2 #8
-2021/01/12-09:49:18.509 e71 Delete type=2 #5
-2021/01/12-09:49:18.510 e71 Manual compaction at level-1 from '\x00\x03\x01\x02\x01\x16\x00a\x00p\x00p\x00l\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00e\x00r\x00v\x00e\x00r\x00_\x00k\x00e\x00y' @ 295 : 1 .. (end); will stop at (end)
+2021/01/13-09:30:33.614 3bf0 Reusing MANIFEST /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/13-09:30:33.615 3bf0 Recovering log #11
+2021/01/13-09:30:33.616 3bf0 Reusing old log /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000011.log 
+2021/01/13-09:31:01.470 3bdf Level-0 table #16: started
+2021/01/13-09:31:01.484 3bdf Level-0 table #16: 564 bytes OK
+2021/01/13-09:31:01.503 3bdf Delete type=0 #11
+2021/01/13-09:31:01.504 3bdf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/13-09:31:01.504 3bdf Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 429 : 1
+2021/01/13-09:31:01.504 3bdf Compacting 1@1 + 1@2 files
+2021/01/13-09:31:01.520 3bdf Generated table #17@1: 88 keys, 2558 bytes
+2021/01/13-09:31:01.520 3bdf Compacted 1@1 + 1@2 files => 2558 bytes
+2021/01/13-09:31:01.527 3bdf compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/13-09:31:01.528 3bdf Delete type=2 #16
+2021/01/13-09:31:01.528 3bdf Delete type=2 #13
+2021/01/13-09:31:01.529 3bf0 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 429 : 1 .. (end); will stop at (end)
