@@ -4,14 +4,23 @@
 ## GENERIC CONFIGURATION ##
 export XDG_CONFIG_HOME="$HOME/.config"
 export XDG_DATA_HOME="$HOME/.local/share"
+export XDG_CACHE_HOME="$HOME/.cache"
 export EDITOR="nvim"
 export HOMEBIN="$HOME/bin"
 export SCRIPTS_DIR="$XDG_DATA_HOME/scripts"
+export KEYBIND="$XDG_CONFIG_HOME/sxhkd/sxhkdrc-common" # WM-independent keybindings
+export AUTOSTART="$XDG_CONFIG_HOME/autostart-cmds/autostart.sh" # WM-independent autostart
+
+## DMENU SCRIPTS ##
 export DMENU_SCRIPTS="$SCRIPTS_DIR/dmenu"
 export STARTPROMPT="$DMENU_SCRIPTS/startprompt"
 export SETTINGS_MGR="$DMENU_SCRIPTS/set"
+
+## UTILITY SCRIPTS ##
 export UTILS_DIR="$SCRIPTS_DIR/utils"
 export LOCKER="$UTILS_DIR/locker"
+export LOCK="$UTILS_DIR/lock" 
+export SCREENSHOOTER="$UTILS_DIR/screenshot"
 
 ## DEFAULT APPS (For preffered apps menu) ##
 export GUI_FILE_MANAGER="spacefm"
@@ -26,7 +35,6 @@ export MUSIC_PLAYER="deadbeef"
 ## DMENU SETTINGS MANAGER ##
 export STYLE="lxappearance" # Appearance
 export USER_INFO="mugshot" # Account
-export LOCK="$UTILS_DIR/lock" # Lock screen
 export LOGIN="lightdm-gtk-greeter-settings" # Login screen
 export RANDR="lxrandr" # Display
 export NM_EDITOR="nm-connection-editor" # Network
@@ -35,5 +43,3 @@ export POWER="xfce4-power-manager-settings" # Power
 export AUDIO="pavucontrol" # Audio
 export GUI_PACK="pamac-manager" # Package manager
 export PRINT="system-config-printer" # Printer
-export KEYBIND="$XDG_CONFIG_HOME/sxhkd/sxhkdrc-common" # WM-independent keybindings
-export AUTOSTART="$XDG_CONFIG_HOME/autostart-cmds/autostart.sh" # WM-independent autostart

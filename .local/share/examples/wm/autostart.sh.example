@@ -2,11 +2,12 @@
 
 # Autostart applications
 
-# This file contains WM-independent autostart applications
+# This file contains the WM-independent autostart applications
 sh $AUTOSTART &
 
 # WM-specific autostart applications
-sxhkd -c $WM_CONFIG_DIR/sxhkdrc $KEYBIND &
+sxhkd -c $KEYBIND &
 nitrogen --restore &
+$stats &
 
 ## EOF ##

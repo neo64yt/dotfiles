@@ -1,13 +1,19 @@
 #! /bin/sh
 
 # Config directory
-dir="$HOME/.config/bspwm"
+export WM_CONFIG_DIR="$XDG_CONFIG_HOME/bspwm"
 
 # Quitting bspwm
-export SESSION_KILLER="$dir/session-killer"
+export SESSION_KILLER="$WM_CONFIG_DIR/session-killer"
 
 # Autostart file
-$dir/autostart.sh &
+export WM_AUTOSTART="$WM_CONFIG_DIR/autostart.sh"
+
+# Keybindings
+export WM_KEYBIND="$WM_CONFIG_DIR/edit-keybinds"
+
+# Autostart file
+$WM_AUTOSTART &
 
 bspc monitor -d I II III IV V VI
 

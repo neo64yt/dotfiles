@@ -1,6 +1,6 @@
 # !/bin/sh
 
-# Directory of dwm autostart configuration
+# Config directory
 export WM_CONFIG_DIR="$XDG_CONFIG_HOME/dwm"
 stats="slstatus"
 

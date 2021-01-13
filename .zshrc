@@ -25,7 +25,7 @@ neofetch
 alias rm="rm -ri" # Delete files
 alias ls="ls --color=auto" # List files
 alias grep="grep --color=auto" # Grep
-alias clean-cache="rm -rf ~/.cache/*" # Clean home directory cache
+alias clean-cache="rm -rf $XDG_CACHE_HOME/*" # Clean home directory cache
 alias cp="cp -r" # Copy files
 alias ..="cd .." # Go up 
 alias desktop="desktop-file-validate" # Validating .desktop files
@@ -46,7 +46,7 @@ alias config-sync="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$H
 # All environment variables are stored in this file:
 source $HOME/.config/env_vars
 
-# Syntax highlighting 
+# Plugins 
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh
 
 ## EOF ##
