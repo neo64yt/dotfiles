@@ -24,7 +24,7 @@ super + shift + s
 
 # screenshooter
 shift + Print
-	$UTILS_DIR/screenshot
+	$SCREENSHOOTER
 
 # power menu
 XF86PowerOff
