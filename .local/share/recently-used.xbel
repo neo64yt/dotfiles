@@ -263,7 +263,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Pictures/neo64-new.jpg" added="2020-12-21T06:36:32.116429Z" modified="2021-01-11T06:45:39.283147Z" visited="2020-12-21T06:36:32.116433Z">
+  <bookmark href="file:///home/neo64yt/Pictures/neo64-new.jpg" added="2020-12-21T06:36:32.116429Z" modified="2021-01-14T02:39:47.601224Z" visited="2020-12-21T06:36:32.116433Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
@@ -273,13 +273,13 @@
         <bookmark:applications>
           <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-21T13:33:51.418378Z" count="17"/>
           <bookmark:application name="mugshot" exec="&apos;mugshot %u&apos;" modified="2020-12-21T06:43:32.202862Z" count="1"/>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-21T07:40:24.621852Z" count="3"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-14T02:39:47.601214Z" count="4"/>
           <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-01-11T06:45:39.283127Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Pictures/neo64-new.png" added="2020-12-21T06:46:06.698604Z" modified="2021-01-11T06:45:22.105235Z" visited="2020-12-21T06:46:06.698608Z">
+  <bookmark href="file:///home/neo64yt/Pictures/neo64-new.png" added="2020-12-21T06:46:06.698604Z" modified="2021-01-14T02:39:03.492509Z" visited="2020-12-21T06:46:06.698608Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -289,7 +289,7 @@
         <bookmark:applications>
           <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-22T02:59:56.994408Z" count="36"/>
           <bookmark:application name="mugshot" exec="&apos;mugshot %u&apos;" modified="2020-12-21T07:41:21.559229Z" count="4"/>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-21T07:43:54.274850Z" count="6"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-14T02:39:03.492500Z" count="7"/>
           <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-23T08:12:30.858672Z" count="1"/>
           <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-01-11T06:45:22.105221Z" count="1"/>
         </bookmark:applications>
@@ -1045,6 +1045,16 @@
         <mime:mime-type type="image/svg+xml"/>
         <bookmark:applications>
           <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-13T10:38:21.359656Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/neo.jpeg" added="2021-01-14T02:39:32.842200Z" modified="2021-01-14T02:39:32.842218Z" visited="2021-01-14T02:39:32.842202Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-14T02:39:32.842208Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

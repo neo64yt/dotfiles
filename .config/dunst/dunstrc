@@ -193,7 +193,7 @@ foreground = "#06a284"
 background = "#272a34"
 #background = "#2B313C"
 timeout = 6
-icon = ~/.local/share/assets/dunst/icons/normal.png"
+icon = "~/.local/share/assets/dunst/icons/normal.png"
 
 [urgency_critical]
 frame_color = "#B7472A"
@@ -201,7 +201,7 @@ foreground = "#06a284"
 background = "#272a34"
 #background = "#2B313C"
 timeout = 8
-icon = ~/.local/share/assets/dunst/icons/urgent.png"
+icon = "~/.local/share/assets/dunst/icons/urgent.png"
 
 
 # Every section that isn't one of the above is interpreted as a rules to

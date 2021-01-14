@@ -1,0 +1,36 @@
+# Tor state file last generated on 2021-01-14 10:16:52 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+CircuitBuildTimeBin 1925 1
+CircuitBuildTimeBin 2075 1
+CircuitBuildTimeBin 2175 1
+CircuitBuildTimeBin 2225 1
+CircuitBuildTimeBin 2275 1
+CircuitBuildTimeBin 2325 1
+CircuitBuildTimeBin 2575 1
+CircuitBuildTimeBin 2675 1
+Dormant 0
+Guard in=default rsa_id=964B4E8A75263A69769541F2764563DABDD995D2 nickname=MHcXthX9Eb34WYyEN7H sampled_on=2021-01-05T19:51:24 sampled_idx=0 sampled_by=0.4.4.6 listed=1 confirmed_on=2021-01-06T08:58:14 confirmed_idx=2 pb_use_attempts=2.000000 pb_use_successes=2.000000 pb_circ_attempts=8.000000 pb_circ_successes=8.000000 pb_successful_circuits_closed=8.000000
+Guard in=default rsa_id=0DB061CA620A1B9AD80983D911A419D4A6747625 nickname=Unnamed sampled_on=2021-01-04T01:33:53 sampled_idx=1 sampled_by=0.4.4.6 listed=1 confirmed_on=2021-01-04T20:31:55 confirmed_idx=0
+Guard in=default rsa_id=DB5DE88B4914F60CDEEF581ECCA8DEA59EF26A90 nickname=Piratenpartei06 sampled_on=2021-01-04T16:31:51 sampled_idx=2 sampled_by=0.4.4.6 listed=1 confirmed_on=2021-01-03T02:41:16 confirmed_idx=1
+Guard in=default rsa_id=E459E02374D0385D2E2515CBBE707EA208966BCF nickname=AsiaArgento sampled_on=2021-01-06T06:16:53 sampled_idx=3 sampled_by=0.4.4.6 listed=1
+Guard in=default rsa_id=D1B1A550FEE3A05E71CA9080D14CCA3B746C0C17 nickname=Icicle sampled_on=2021-01-05T08:53:15 sampled_idx=4 sampled_by=0.4.4.6 listed=1
+Guard in=default rsa_id=F37374DB9FA6EF14CED64FD294E8D8683F032EC8 nickname=voqelrelay sampled_on=2021-01-06T07:38:29 sampled_idx=5 sampled_by=0.4.4.6 listed=1
+Guard in=default rsa_id=9B8D08275C852A677E8C65E1DDA74431BE509B4C nickname=UenoStation59 sampled_on=2021-01-11T03:01:41 sampled_idx=6 sampled_by=0.4.4.6 listed=1
+Guard in=default rsa_id=EA3616A0B9BBBDC74121D8D6F01EABDDCF6BE35D nickname=chomeles1blu sampled_on=2021-01-12T00:42:03 sampled_idx=7 sampled_by=0.4.4.6 listed=1
+Guard in=default rsa_id=754CB99117E6ED570DFCFB7D9F12674B97A4E28E nickname=benefactor sampled_on=2021-01-03T10:07:52 sampled_idx=8 sampled_by=0.4.4.6 listed=1
+Guard in=default rsa_id=2CE96A8A1DA032664C90F574AFFBECE18A6E8DFC nickname=Doedel24 sampled_on=2021-01-06T03:40:56 sampled_idx=9 sampled_by=0.4.4.6 listed=1
+Guard in=default rsa_id=F6CD4DBF5850AC4386DD9A424918AD3C6BA2716F nickname=ifigenia sampled_on=2021-01-05T21:23:38 sampled_idx=10 sampled_by=0.4.4.6 listed=1
+Guard in=default rsa_id=AAFFA68AB61238F9044B6ECBA62E25264113EB88 nickname=onemoretorserver1 sampled_on=2021-01-04T00:44:40 sampled_idx=11 sampled_by=0.4.4.6 listed=1
+Guard in=default rsa_id=CAC1EEB324F8CEDAE9C432E99CE8F42DDF4CB490 nickname=Heimdall sampled_on=2021-01-07T13:43:59 sampled_idx=12 sampled_by=0.4.4.6 listed=1
+Guard in=default rsa_id=E7882187F6FA695450719FD3738D640FBDFF5D48 nickname=quatermain sampled_on=2021-01-04T22:59:18 sampled_idx=13 sampled_by=0.4.4.6 listed=1
+Guard in=default rsa_id=81C55D403A82BF6E7C3FBDBD41D102B7088900D9 nickname=InMemoryOfJohnKerr sampled_on=2021-01-07T22:30:02 sampled_idx=14 sampled_by=0.4.4.6 listed=1
+Guard in=default rsa_id=8F89078575FEE57675A922E9E088918F63AC750C nickname=duke sampled_on=2021-01-10T11:54:38 sampled_idx=15 sampled_by=0.4.4.6 listed=1
+Guard in=default rsa_id=C3799054BC7F0D201FB7C0F9DE31BF1F3D868A37 nickname=unnamed sampled_on=2021-01-08T19:37:41 sampled_idx=16 sampled_by=0.4.4.6 listed=1
+Guard in=default rsa_id=516034FF15C96CE841ECCD876EF604802AA5C650 nickname=Unnamed sampled_on=2021-01-06T05:07:55 sampled_idx=17 sampled_by=0.4.4.6 listed=1
+Guard in=default rsa_id=9F5068310818ED7C70B0BC4087AB55CB12CB4377 nickname=Doedel26 sampled_on=2021-01-12T09:49:21 sampled_idx=18 sampled_by=0.4.4.6 listed=1
+Guard in=default rsa_id=CAF57EB30FD17389954C9F2B43026734F80E39C0 nickname=thematrixisreal sampled_on=2021-01-02T15:35:09 sampled_idx=19 sampled_by=0.4.4.6 listed=1
+LastWritten 2021-01-14 02:16:52
+TorVersion Tor 0.4.4.6
+TotalBuildTimes 8

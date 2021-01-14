@@ -1,5 +1,6 @@
-2021/01/13-09:32:13.787 3beb Recovering log #8
-2021/01/13-09:32:13.788 3beb Level-0 table #10: started
-2021/01/13-09:32:13.810 3beb Level-0 table #10: 3523 bytes OK
-2021/01/13-09:32:13.847 3beb Delete type=0 #8
-2021/01/13-09:32:13.848 3beb Delete type=3 #6
+2021/01/14-10:08:20.487 cdeb Recovering log #14
+2021/01/14-10:08:20.488 cdeb Level-0 table #16: started
+2021/01/14-10:08:20.504 cdeb Level-0 table #16: 2339 bytes OK
+2021/01/14-10:08:20.546 cdeb Delete type=0 #14
+2021/01/14-10:08:20.546 cdeb Delete type=3 #12
+2021/01/14-10:08:20.564 cdd7 Moved #10 to level-1 3523 bytes OK: files[ 3 1 0 0 0 0 0 ]

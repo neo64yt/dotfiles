@@ -1,3 +1,45 @@
-2021/01/13-18:22:19.165 13782 Reusing MANIFEST /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2021/01/13-18:22:19.166 13782 Recovering log #15
-2021/01/13-18:22:19.168 13782 Reusing old log /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000015.log 
+2021/01/14-10:24:12.142 e055 Reusing MANIFEST /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/01/14-10:24:12.143 e055 Recovering log #15
+2021/01/14-10:24:12.144 e055 Reusing old log /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000015.log 
+2021/01/14-10:28:15.520 e408 Level-0 table #19: started
+2021/01/14-10:28:15.561 e408 Level-0 table #19: 352081 bytes OK
+2021/01/14-10:28:15.575 e408 Delete type=0 #15
+2021/01/14-10:28:15.576 e062 Compacting 4@0 + 1@1 files
+2021/01/14-10:28:15.632 e062 Generated table #20@0: 80 keys, 373333 bytes
+2021/01/14-10:28:15.632 e062 Compacted 4@0 + 1@1 files => 373333 bytes
+2021/01/14-10:28:15.644 e062 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/14-10:28:15.645 e062 Delete type=2 #8
+2021/01/14-10:28:15.645 e062 Delete type=2 #10
+2021/01/14-10:28:15.645 e062 Delete type=2 #16
+2021/01/14-10:28:15.645 e062 Delete type=2 #14
+2021/01/14-10:28:15.645 e062 Delete type=2 #19
+2021/01/14-10:35:41.272 eb3d Level-0 table #22: started
+2021/01/14-10:35:41.290 eb3d Level-0 table #22: 28784 bytes OK
+2021/01/14-10:35:41.302 eb3d Delete type=0 #18
+2021/01/14-10:35:48.587 eb3d Level-0 table #24: started
+2021/01/14-10:35:48.605 eb3d Level-0 table #24: 31585 bytes OK
+2021/01/14-10:35:48.625 eb3d Delete type=0 #21
+2021/01/14-10:36:04.699 eb3c Level-0 table #26: started
+2021/01/14-10:36:04.713 eb3c Level-0 table #26: 11604 bytes OK
+2021/01/14-10:36:04.731 eb3c Delete type=0 #23
+2021/01/14-10:36:23.602 eb3d Level-0 table #28: started
+2021/01/14-10:36:23.614 eb3d Level-0 table #28: 11604 bytes OK
+2021/01/14-10:36:23.626 eb3d Delete type=0 #25
+2021/01/14-10:36:23.627 ecbc Compacting 4@0 + 1@1 files
+2021/01/14-10:36:23.670 ecbc Generated table #29@0: 82 keys, 364925 bytes
+2021/01/14-10:36:23.670 ecbc Compacted 4@0 + 1@1 files => 364925 bytes
+2021/01/14-10:36:23.686 ecbc compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/14-10:36:23.687 ecbc Delete type=2 #22
+2021/01/14-10:36:23.687 ecbc Delete type=2 #24
+2021/01/14-10:36:23.687 ecbc Delete type=2 #26
+2021/01/14-10:36:23.687 ecbc Delete type=2 #28
+2021/01/14-10:36:23.688 ecbc Delete type=2 #20
+2021/01/14-10:36:51.709 ecbc Level-0 table #31: started
+2021/01/14-10:36:51.727 ecbc Level-0 table #31: 18033 bytes OK
+2021/01/14-10:36:51.746 ecbc Delete type=0 #27
+2021/01/14-10:38:11.346 ebe7 Level-0 table #33: started
+2021/01/14-10:38:11.364 ebe7 Level-0 table #33: 77450 bytes OK
+2021/01/14-10:38:11.378 ebe7 Delete type=0 #30
+2021/01/14-10:56:41.916 fd63 Level-0 table #35: started
+2021/01/14-10:56:41.937 fd63 Level-0 table #35: 85516 bytes OK
+2021/01/14-10:56:41.949 fd63 Delete type=0 #32

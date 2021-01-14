@@ -1,5 +1,11 @@
-2021/01/13-18:27:35.840 13c9f Recovering log #11
-2021/01/13-18:27:35.840 13c9f Level-0 table #13: started
-2021/01/13-18:27:35.857 13c9f Level-0 table #13: 3629 bytes OK
-2021/01/13-18:27:35.899 13c9f Delete type=3 #9
-2021/01/13-18:27:35.899 13c9f Delete type=0 #11
+2021/01/14-10:29:42.324 e069 Recovering log #17
+2021/01/14-10:29:42.324 e069 Level-0 table #19: started
+2021/01/14-10:29:42.335 e069 Level-0 table #19: 299 bytes OK
+2021/01/14-10:29:42.376 e069 Delete type=0 #17
+2021/01/14-10:29:42.376 e069 Delete type=3 #15
+2021/01/14-10:29:42.376 e062 Compacting 3@0 + 0@1 files
+2021/01/14-10:29:42.377 e062 Compacted 3@0 + 0@1 files => 0 bytes
+2021/01/14-10:29:42.400 e062 compacted to: files[ 1 1 0 0 0 0 0 ]
+2021/01/14-10:29:42.403 e062 Delete type=2 #16
+2021/01/14-10:29:42.403 e062 Delete type=2 #13
+2021/01/14-10:29:42.404 e062 Delete type=2 #19
