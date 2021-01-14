@@ -29,7 +29,7 @@ export TERMINAL="termite"
 export BROWSER="brave"
 export EMAIL_CLIENT="geary"
 export OFFICE_SUITE="$HOMEBIN/LibreOffice-7.0.3-x86_64.AppImage"
-export MEDIA_PLAYER="celluloid"
+export MEDIA_PLAYER="mpv"
 export MUSIC_PLAYER="deadbeef"
 
 ## DMENU SETTINGS MANAGER ##

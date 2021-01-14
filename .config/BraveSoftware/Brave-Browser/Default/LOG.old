@@ -1,6 +1,5 @@
-2021/01/14-10:08:20.487 cdeb Recovering log #14
-2021/01/14-10:08:20.488 cdeb Level-0 table #16: started
-2021/01/14-10:08:20.504 cdeb Level-0 table #16: 2339 bytes OK
-2021/01/14-10:08:20.546 cdeb Delete type=0 #14
-2021/01/14-10:08:20.546 cdeb Delete type=3 #12
-2021/01/14-10:08:20.564 cdd7 Moved #10 to level-1 3523 bytes OK: files[ 3 1 0 0 0 0 0 ]
+2021/01/14-13:42:00.880 185c0 Recovering log #20
+2021/01/14-13:42:00.881 185c0 Level-0 table #22: started
+2021/01/14-13:42:00.900 185c0 Level-0 table #22: 7222 bytes OK
+2021/01/14-13:42:00.945 185c0 Delete type=3 #18
+2021/01/14-13:42:00.945 185c0 Delete type=0 #20

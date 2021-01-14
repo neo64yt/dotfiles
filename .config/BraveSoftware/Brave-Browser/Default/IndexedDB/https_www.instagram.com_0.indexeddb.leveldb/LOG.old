@@ -1,0 +1,8 @@
+2021/01/14-14:20:21.466 19da0 Reusing MANIFEST /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/14-14:20:21.467 19da0 Recovering log #10
+2021/01/14-14:20:21.468 19da0 Reusing old log /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000010.log 
+2021/01/14-14:20:30.394 1a412 Level-0 table #14: started
+2021/01/14-14:20:30.394 1a412 Level-0 table #14: 0 bytes OK
+2021/01/14-14:20:30.414 1a412 Delete type=0 #10
+2021/01/14-14:20:30.414 1a412 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/14-14:20:30.414 1a412 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
