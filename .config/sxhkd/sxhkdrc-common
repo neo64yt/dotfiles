@@ -30,6 +30,18 @@ shift + Print
 XF86PowerOff
 	$POWER_MGR
 
+# Emojis
+super + e
+	dmenuemoji
+
+# Preferred apps launcher
+super + shift + r
+	prefapps
+
+# Web browser
+super + w
+	$BROWSER
+
 # make sxhkd reload its configuration files:
 super + Escape
 	pkill -USR1 -x sxhkd
