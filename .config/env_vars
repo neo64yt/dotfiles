@@ -2,12 +2,11 @@
 
 # This file stores environment variables 
 ## GENERIC CONFIGURATION ##
-export PATH="/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:$HOME/.local/bin"
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:$HOME/.local/bin:$HOME/bin"
 export XDG_CONFIG_HOME="$HOME/.config"
 export XDG_DATA_HOME="$HOME/.local/share"
 export XDG_CACHE_HOME="$HOME/.cache"
 export EDITOR="nvim"
-export HOMEBIN="$HOME/bin" # AppImages
 export KEYBIND="$XDG_CONFIG_HOME/sxhkd/sxhkdrc-common" # WM-independent keybindings
 export AUTOSTART="$XDG_CONFIG_HOME/autostart-cmds/autostart.sh" # WM-independent autostart
 
@@ -27,7 +26,7 @@ export GUI_EDITOR="nvim-qt"
 export TERMINAL="termite"
 export BROWSER="brave"
 export EMAIL_CLIENT="geary"
-export OFFICE_SUITE="$HOMEBIN/LibreOffice-7.0.3-x86_64.AppImage"
+export OFFICE_SUITE="LibreOffice-7.0.3-x86_64.AppImage"
 export MEDIA_PLAYER="mpv"
 export MUSIC_PLAYER="deadbeef"
 
