@@ -7,7 +7,6 @@ lines=12
 border=3
 height=35
 prompt="󰀻 Applications:"
-term="termite"
 
 # Command
-j4-dmenu-desktop --dmenu="dmenu -l $lines -bw $border -h $height -p '$prompt' -c" --term="$term"
+j4-dmenu-desktop --dmenu="dmenu -l $lines -bw $border -h $height -p '$prompt' -c" --term="$TERMINAL"

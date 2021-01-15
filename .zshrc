@@ -39,7 +39,7 @@ alias pull="git pull" # Sync local Git repository with upstream
 # Alias for updating dotfiles
 alias config="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME" # Git command for my dotfiles repo
 alias config-reset="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME reset --hard" # Reset dotfiles to the last commit
-alias config-update="$UTILS_DIR/updatedots" # Update all tracked files in the repository
+alias config-update="updatedots" # Update all tracked files in the repository
 alias config-sync="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME pull" # Syncing dotfiles with upstream repository
 
 # Environment variables

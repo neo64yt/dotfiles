@@ -8,7 +8,7 @@ super + shift + Return
 
 # program launcher
 super + r
-	$DMENU_SCRIPTS/apps
+	apps
 
 # start prompt
 super + space
@@ -16,7 +16,7 @@ super + space
 
 # run prompt
 super + p
-	$DMENU_SCRIPTS/runner
+	runner
 
 # settings
 super + shift + s
@@ -28,7 +28,7 @@ shift + Print
 
 # power menu
 XF86PowerOff
-	$DMENU_SCRIPTS/power
+	$POWER_MGR
 
 # make sxhkd reload its configuration files:
 super + Escape
