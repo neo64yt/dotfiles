@@ -1,7 +1,7 @@
-2021/01/15-20:32:52.544 2089 Recovering log #3
-2021/01/15-20:32:53.610 2089 Level-0 table #5: started
-2021/01/15-20:32:54.436 2089 Level-0 table #5: 2785958 bytes OK
-2021/01/15-20:32:54.455 2089 Recovering log #26
-2021/01/15-20:32:54.508 2089 Delete type=0 #3
-2021/01/15-20:32:54.508 2089 Delete type=0 #26
-2021/01/15-20:32:54.508 2089 Delete type=3 #2
+2021/01/16-12:20:00.720 dac4 Recovering log #3
+2021/01/16-12:20:02.038 dac4 Level-0 table #5: started
+2021/01/16-12:20:02.452 dac4 Level-0 table #5: 2785958 bytes OK
+2021/01/16-12:20:02.461 dac4 Recovering log #30
+2021/01/16-12:20:02.493 dac4 Delete type=0 #3
+2021/01/16-12:20:02.493 dac4 Delete type=3 #2
+2021/01/16-12:20:02.493 dac4 Delete type=0 #30

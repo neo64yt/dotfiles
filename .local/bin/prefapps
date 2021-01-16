@@ -16,6 +16,6 @@ case "$choice" in
   "󰆌 Web browser") $BROWSER ;;
   "󰴃 Email") $EMAIL_CLIENT ;;
   "󱔘 Office suite") $OFFICE_SUITE ;;
-  "󰐋 Media") $MEDIA_PLAYER --player-operation-mode=pseudo-gui -- %U ;;
+  "󰐋 Media") $MEDIA_PLAYER --player-operation-mode=pseudo-gui ;;
   "󰫔 Music") $MUSIC_PLAYER ;;
 esac
