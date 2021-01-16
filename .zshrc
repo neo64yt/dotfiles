@@ -43,8 +43,7 @@ alias config-update="updatedots" # Update all tracked files in the repository
 alias config-sync="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME pull" # Syncing dotfiles with upstream repository
 
 # Environment variables
-# All environment variables are stored in this file:
-source $HOME/.config/env_vars
+# All environment variables are stored in .zprofile and .xprofile (both symlinked to $XDG_CONFIG_HOME/env_vars) 
 
 # Plugins 
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh
