@@ -1,5 +1,5 @@
-2021/01/14-13:42:00.880 185c0 Recovering log #20
-2021/01/14-13:42:00.881 185c0 Level-0 table #22: started
-2021/01/14-13:42:00.900 185c0 Level-0 table #22: 7222 bytes OK
-2021/01/14-13:42:00.945 185c0 Delete type=3 #18
-2021/01/14-13:42:00.945 185c0 Delete type=0 #20
+2021/01/16-16:21:29.637 9a9b Recovering log #26
+2021/01/16-16:21:29.639 9a9b Level-0 table #29: started
+2021/01/16-16:21:29.656 9a9b Level-0 table #29: 5529 bytes OK
+2021/01/16-16:21:29.693 9a9b Delete type=3 #24
+2021/01/16-16:21:29.693 9a9b Delete type=0 #26

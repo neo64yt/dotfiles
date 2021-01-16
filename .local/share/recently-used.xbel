@@ -948,12 +948,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/bin/kdenlive-20.12.1-x86_64.appimage" added="2021-01-14T13:37:50.757919Z" modified="2021-01-14T13:37:50.757949Z" visited="2021-01-14T13:37:50.757923Z">
+  <bookmark href="file:///home/neo64yt/bin/kdenlive-20.12.1-x86_64.appimage" added="2021-01-14T13:37:50.757919Z" modified="2021-01-16T08:26:09.004694Z" visited="2021-01-14T13:37:50.757923Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/vnd.appimage"/>
         <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-14T13:37:50.757934Z" count="1"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-16T08:26:09.004677Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
