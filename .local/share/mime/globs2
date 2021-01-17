@@ -62,6 +62,7 @@
 50:application/vnd.kde.kcfg:*.kcfg
 50:application/x-uml:*.xmi.tar.bz2
 50:image/x-kde-raw:*.fff
+50:video/mpeg:*.m2v
 50:application/x-msdownload:*.dll
 50:application/x-wine-extension-inf:*.inf
 50:application/x-font-snf:*.snf

@@ -3,7 +3,7 @@
 
 include "/home/neo64yt/.gtkrc-2.0.mine"
 gtk-theme-name="Cabinet-Dark-Green"
-gtk-icon-theme-name="Flat-Remix-Green-Dark"
+gtk-icon-theme-name="Papirus-Dark"
 gtk-font-name="Fira Code weight=450 10"
 gtk-cursor-theme-name="volantes_cursors"
 gtk-cursor-theme-size=0

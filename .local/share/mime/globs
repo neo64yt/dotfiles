@@ -62,6 +62,7 @@ image/x-kde-raw:*.erf
 application/vnd.kde.kcfg:*.kcfg
 application/x-uml:*.xmi.tar.bz2
 image/x-kde-raw:*.fff
+video/mpeg:*.m2v
 application/x-msdownload:*.dll
 application/x-wine-extension-inf:*.inf
 application/x-font-snf:*.snf

@@ -9,5 +9,6 @@
         <glob pattern="*.vob"/>
         <glob pattern="[0-9][0-9][0-9].vdr"/>
         <glob pattern="*.ts"/>
+        <glob pattern="*.m2v"/>
     </mime-type>
 </mime-info>
