@@ -1,14 +1,5 @@
-2021/01/16-16:26:05.955 a0b8 Recovering log #30
-2021/01/16-16:26:05.955 a0b8 Level-0 table #32: started
-2021/01/16-16:26:05.981 a0b8 Level-0 table #32: 5452 bytes OK
-2021/01/16-16:26:06.027 a0b8 Delete type=3 #28
-2021/01/16-16:26:06.027 a0b8 Delete type=0 #30
-2021/01/16-16:26:06.028 a0b5 Compacting 2@0 + 0@1 files
-2021/01/16-16:26:06.049 a0b5 Generated table #34@0: 2 keys, 558 bytes
-2021/01/16-16:26:06.049 a0b5 Compacted 2@0 + 0@1 files => 558 bytes
-2021/01/16-16:26:06.075 a0b5 compacted to: files[ 2 2 1 0 0 0 0 ]
-2021/01/16-16:26:06.078 a0b5 Delete type=2 #29
-2021/01/16-16:26:06.078 a0b5 Delete type=2 #32
-2021/01/16-16:26:54.640 a0b8 Level-0 table #36: started
-2021/01/16-16:26:54.662 a0b8 Level-0 table #36: 8987 bytes OK
-2021/01/16-16:26:54.682 a0b8 Delete type=0 #33
+2021/01/18-07:25:13.808 3de Recovering log #63
+2021/01/18-07:25:13.810 3de Level-0 table #66: started
+2021/01/18-07:25:13.822 3de Level-0 table #66: 5592 bytes OK
+2021/01/18-07:25:13.862 3de Delete type=0 #63
+2021/01/18-07:25:13.862 3de Delete type=3 #37

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel>
 <xbel xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info" xmlns:kdepriv="http://www.kde.org/kdepriv">
- <bookmark href="file:///home/neo64yt/Videos/dwtv/">
+ <bookmark href="">
   <title>Project Folder</title>
   <info>
    <metadata owner="http://freedesktop.org">
