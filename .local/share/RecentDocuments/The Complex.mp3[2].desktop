@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=audio-mpeg
+Name=The Complex.mp3
+Type=Link
+URL[$e]=file:$HOME/Music/The Complex.mp3
+X-KDE-LastOpenedWith=org.kde.kdenlive
