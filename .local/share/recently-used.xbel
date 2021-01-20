@@ -60,47 +60,6 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/Maktab_Rendah_Sains_Mara-vector-logo-1E2857D3C5-seeklogo.com.zip" added="2020-12-19T03:14:58.145107Z" modified="2020-12-19T03:15:03.608464Z" visited="2020-12-19T03:14:58.145111Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-19T03:14:58.145118Z" count="1"/>
-          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-12-19T03:15:03.608455Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/Maktab_Rendah_Sains_Mara.ai" added="2020-12-19T03:26:14.326305Z" modified="2020-12-19T03:40:30.765992Z" visited="2020-12-19T03:26:14.326308Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/illustrator"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2020-12-19T03:40:30.765983Z" count="4"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Documents/folio_pjk" added="2020-12-19T03:58:44.580288Z" modified="2020-12-19T03:58:58.715434Z" visited="2020-12-19T03:58:44.580292Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2020-12-19T03:58:58.715416Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Documents/folio_pjk.odp" added="2020-12-19T03:59:00.336162Z" modified="2020-12-19T03:59:00.336233Z" visited="2020-12-19T03:59:00.336164Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.presentation"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2020-12-19T03:59:00.336229Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///home/neo64yt/Documents/folio_pjpk.odp" added="2020-12-19T04:10:26.223269Z" modified="2020-12-23T12:46:52.015673Z" visited="2020-12-19T04:10:26.223276Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -513,7 +472,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt" added="2020-12-28T14:37:08.370631Z" modified="2020-12-28T14:37:08.370662Z" visited="2020-12-28T14:37:08.370634Z">
+  <bookmark href="file:///home/neo64yt" added="2020-12-28T14:37:08.370631Z" modified="2021-01-19T13:42:04.978830Z" visited="2020-12-28T14:37:08.370634Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
@@ -521,7 +480,7 @@
           <bookmark:group>baobab</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="baobab" exec="&apos;baobab %u&apos;" modified="2020-12-28T14:37:08.370647Z" count="1"/>
+          <bookmark:application name="baobab" exec="&apos;baobab %u&apos;" modified="2021-01-19T13:42:04.978819Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>

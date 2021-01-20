@@ -46,6 +46,7 @@ alias config-sync="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$H
 # All environment variables are stored in .zprofile and .xprofile (both symlinked to $XDG_CONFIG_HOME/env_vars) 
 
 # Plugins 
-source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh # Syntax highlighting
+source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.plugin.zsh # Autosuggestions
 
 ## EOF ##
