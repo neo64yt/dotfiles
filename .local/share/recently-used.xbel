@@ -14,20 +14,6 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Pictures/neo64.jpg" added="2020-12-03T13:32:12.870105Z" modified="2020-12-21T06:17:59.048891Z" visited="2020-12-03T13:32:12.870113Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-03T13:32:13.504647Z" count="2"/>
-          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-21T06:17:59.048877Z" count="10"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///home/neo64yt/Downloads/ungoogled-chromium-87.0.4280.88-1-x86_64.pkg.tar.zst" added="2020-12-08T00:52:35.702974Z" modified="2020-12-25T07:41:35.520890Z" visited="2020-12-08T00:52:35.702978Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -70,27 +56,6 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/volantes_cursors.tar.gz" added="2020-12-20T01:47:35.589744Z" modified="2020-12-20T01:48:14.707366Z" visited="2020-12-20T01:47:35.589751Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-20T01:47:35.589764Z" count="1"/>
-          <bookmark:application name="lxappearance" exec="&apos;lxappearance %u&apos;" modified="2020-12-20T01:48:14.707348Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Pictures/green-sea.jpg" added="2020-12-21T03:26:36.950503Z" modified="2020-12-21T03:26:36.950522Z" visited="2020-12-21T03:26:36.950506Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-21T03:26:36.950511Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///home/neo64yt/Pictures/neo64-new.jpg" added="2020-12-21T06:36:32.116429Z" modified="2021-01-18T07:25:59.419441Z" visited="2020-12-21T06:36:32.116433Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -120,32 +85,6 @@
           <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-14T02:39:03.492500Z" count="7"/>
           <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-23T08:12:30.858672Z" count="1"/>
           <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-01-11T06:45:22.105221Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Pictures/neo64-new-small.png" added="2020-12-21T08:27:47.119053Z" modified="2020-12-21T08:36:19.244395Z" visited="2020-12-21T08:27:47.119057Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-21T08:36:19.244387Z" count="6"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Pictures/banner.png" added="2020-12-21T08:32:29.449033Z" modified="2020-12-21T08:39:11.093059Z" visited="2020-12-21T08:32:29.449036Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-12-21T08:39:11.093049Z" count="5"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -750,7 +689,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Documents/PEAH.xcf" added="2021-01-04T01:38:31.749774Z" modified="2021-01-06T13:39:09.712329Z" visited="2021-01-04T01:38:31.749778Z">
+  <bookmark href="file:///home/neo64yt/Documents/PEAH.xcf" added="2021-01-04T01:38:31.749774Z" modified="2021-01-21T04:20:10.391224Z" visited="2021-01-04T01:38:31.749778Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/x-xcf"/>
@@ -758,7 +697,7 @@
           <bookmark:group>Graphics</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-01-06T13:39:09.712317Z" count="3"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-01-21T04:20:10.391213Z" count="5"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -913,6 +852,147 @@
         <mime:mime-type type="video/mp4"/>
         <bookmark:applications>
           <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-18T05:33:30.575395Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/cover2.jpg" added="2021-01-20T07:09:56.622585Z" modified="2021-01-20T08:27:56.809677Z" visited="2021-01-20T07:09:56.622590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-20T07:09:56.622602Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-01-20T08:27:56.809669Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/pepe.png" added="2021-01-20T07:11:45.361160Z" modified="2021-01-20T08:24:35.667667Z" visited="2021-01-20T07:11:45.361165Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-20T07:11:45.361176Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-01-20T08:24:35.667660Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/pepe-is-sus.jpg" added="2021-01-20T07:16:39.330339Z" modified="2021-01-20T07:16:44.466716Z" visited="2021-01-20T07:16:39.330343Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-01-20T07:16:44.466708Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/pepe-censored.png" added="2021-01-20T08:27:42.491224Z" modified="2021-01-20T08:28:07.589239Z" visited="2021-01-20T08:27:42.491228Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-01-20T08:28:07.589222Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/thumb-sus.jpg" added="2021-01-20T08:32:49.009893Z" modified="2021-01-20T08:37:10.546940Z" visited="2021-01-20T08:32:49.009897Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-01-20T08:32:53.681382Z" count="2"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-20T08:37:10.546930Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Videos/drip/drip.mp4" added="2021-01-20T08:34:07.545329Z" modified="2021-01-20T08:34:07.545356Z" visited="2021-01-20T08:34:07.545332Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-20T08:34:07.545343Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/PEAH.png" added="2021-01-21T04:20:20.207081Z" modified="2021-01-21T04:20:27.476321Z" visited="2021-01-21T04:20:20.207085Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-01-21T04:20:27.476310Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/screenshot-of-2021-01-21_12.27.40.png" added="2021-01-21T04:28:52.483726Z" modified="2021-01-21T04:28:52.483744Z" visited="2021-01-21T04:28:52.483729Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-21T04:28:52.483735Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/screenshot-of-2021-01-21_12.29.45.png" added="2021-01-21T04:29:57.842007Z" modified="2021-01-21T04:29:57.842027Z" visited="2021-01-21T04:29:57.842010Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-21T04:29:57.842017Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dwm-alpha.diff" added="2021-01-21T07:45:43.104535Z" modified="2021-01-21T07:45:43.104554Z" visited="2021-01-21T07:45:43.104538Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-21T07:45:43.104544Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dwm-clientopacity.diff" added="2021-01-21T08:18:40.305219Z" modified="2021-01-21T08:18:40.305237Z" visited="2021-01-21T08:18:40.305222Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-21T08:18:40.305228Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/dwm-swallow.diff" added="2021-01-21T10:09:47.299332Z" modified="2021-01-21T10:09:47.299366Z" visited="2021-01-21T10:09:47.299336Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-21T10:09:47.299348Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

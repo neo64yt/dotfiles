@@ -7,16 +7,16 @@
 
 (session-info "toplevel"
     (factory-entry "gimp-empty-image-window")
-    (position 303 138)
-    (size 640 480))
+    (position 466 28)
+    (size 749 710))
 (session-info "toplevel"
     (factory-entry "gimp-single-image-window")
     (position 0 28)
     (size 1364 710)
     (open-on-exit)
     (aux-info
-        (left-docks-width "264")
-        (right-docks-width "341")
+        (left-docks-width "245")
+        (right-docks-width "275")
         (maximized "no"))
     (gimp-toolbox
         (side left)
@@ -41,7 +41,7 @@
     (gimp-dock
         (side right)
         (book
-            (current-page 4)
+            (current-page 0)
             (dockable "gimp-brush-grid"
                 (tab-style automatic)
                 (aux-info
@@ -64,7 +64,7 @@
                     (edit-active "true")
                     (current-data "hej"))))
         (book
-            (position 340)
+            (position 420)
             (current-page 0)
             (dockable "gimp-layer-list"
                 (tab-style automatic)

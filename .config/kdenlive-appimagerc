@@ -1,6 +1,6 @@
 [KFileDialog Settings]
-Recent Files[$e]=IMG_0562.MP4,file:$HOME/Videos/yt-outro.mp4,file:$HOME/Music/The Complex.mp3,file:$HOME/Videos/2021-01-18 07-37-28.mp4,file:$HOME/Videos/rickroll.mp4,file:$HOME/Videos/IMG_0562.MP4
-Recent URLs[$e]=file:$HOME/Videos/,file:$HOME/,file:$HOME/Music/
+Recent Files[$e]=IMG_0562.MP4,file:$HOME/Videos/yt-outro.mp4,file:$HOME/Music/Among Us Trap Remix (Among Drip Theme Song Original)-grd-K33tOSM.webm,file:$HOME/Videos/rickroll.mp4,file:$HOME/Pictures/pepe-is-sus.jpg,file:$HOME/Music/The Complex.mp3
+Recent URLs[$e]=file:$HOME/Videos/,file:$HOME/,file:$HOME/Music/,file:$HOME/Pictures/
 detailViewIconSize=0
 
 [MainWindow]
@@ -12,12 +12,12 @@ State=AAAA/wAAAAD9AAAAAgAAAAEAAAFaAAAAyfwCAAAAAfwAAAHdAAAAyQAAAAAA////+v////8CAA
 ToolBarsMovable=Disabled
 
 [Recent Dirs]
-KdenliveClipFolder[$e]=$HOME/Videos/,$HOME/Music/,$HOME/Videos
-KdenliveProjectsFolder[$e]=$HOME/Videos/dontwatch,$HOME/Videos,$HOME/Documents
+KdenliveClipFolder[$e]=$HOME/Videos/,$HOME/Music/,$HOME/Pictures/
+KdenliveProjectsFolder[$e]=$HOME/Videos/drip,$HOME/Videos/dontwatch,$HOME/Videos
 
 [Recent Files]
-File1[$e]=$HOME/Videos/dontwatch/dontwatch.kdenlive
-Name1[$e]=dontwatch.kdenlive
+File1[$e]=$HOME/Videos/drip/drip.kdenlive
+Name1[$e]=drip.kdenlive
 
 [Scope_Histogram]
 autoRefresh=true
@@ -57,7 +57,7 @@ rec601=false
 [TitleWidget]
 background_alpha=0
 background_color=0,0,0
-dialog_geometry=AdnQywADAAAAAACGAAAAFAAABM8AAALrAAAAhwAAABUAAATOAAAC6gAAAAAAAAAABVYAAACHAAAAFQAABM4AAALq
+dialog_geometry=AdnQywADAAAAAACKAAAAGAAABNMAAALvAAAAiwAAABkAAATSAAAC7gAAAAAAAAAABVYAAACLAAAAGQAABNIAAALu
 font_color=255,255,255
 font_family=Fira Code Retina,-1,40,5,50,0,0,0,0,0
 font_italic=false
@@ -91,11 +91,11 @@ v4l_parameters=qscale=4 ab=192k vcodec=mpeg2video acodec=mp2 threads=%threads
 [env]
 defaultimageapp=/usr/bin/gimp
 defaultprojectfolder[$e]=$HOME/Videos
-ffmpegpath[$e]=/tmp/.mount_kdenliugH8qw/usr/bin/ffmpeg
-ffplaypath[$e]=/tmp/.mount_kdenliugH8qw/usr/bin/ffplay
-ffprobepath[$e]=/tmp/.mount_kdenliugH8qw/usr/bin/ffprobe
-mltpath[$e]=/tmp/.mount_kdenliugH8qw/usr/share/mlt/profiles
-rendererpath[$e]=/tmp/.mount_kdenliugH8qw/usr/bin/melt
+ffmpegpath[$e]=/tmp/.mount_kdenliuQQrq3/usr/bin/ffmpeg
+ffplaypath[$e]=/tmp/.mount_kdenliuQQrq3/usr/bin/ffplay
+ffprobepath[$e]=/tmp/.mount_kdenliuQQrq3/usr/bin/ffprobe
+mltpath[$e]=/tmp/.mount_kdenliuQQrq3/usr/share/mlt/profiles
+rendererpath[$e]=/tmp/.mount_kdenliuQQrq3/usr/bin/melt
 
 [project]
 externalProxyProfile=../Sub;;S03.MP4;../Clip;;.MXF

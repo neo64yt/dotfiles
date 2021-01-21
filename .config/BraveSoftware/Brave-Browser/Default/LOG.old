@@ -1,5 +1,5 @@
-2021/01/18-07:25:13.808 3de Recovering log #63
-2021/01/18-07:25:13.810 3de Level-0 table #66: started
-2021/01/18-07:25:13.822 3de Level-0 table #66: 5592 bytes OK
-2021/01/18-07:25:13.862 3de Delete type=0 #63
-2021/01/18-07:25:13.862 3de Delete type=3 #37
+2021/01/21-16:18:31.200 3ece Recovering log #77
+2021/01/21-16:18:31.201 3ece Level-0 table #79: started
+2021/01/21-16:18:31.217 3ece Level-0 table #79: 1073 bytes OK
+2021/01/21-16:18:31.258 3ece Delete type=3 #75
+2021/01/21-16:18:31.259 3ece Delete type=0 #77

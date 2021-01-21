@@ -16,10 +16,13 @@
   <resource identifier="gimp-brush-clipboard-mask" checksum="157dcef48665ab465439cfaf10d6feeb">
   </resource>
 
+  <resource identifier="${gimp_dir}/brushes/Untitled.vbr" checksum="f8e8443f5e0321d817757f0b7ae61c7f">
+  </resource>
+
   <resource identifier="${gimp_dir}/brushes/Untitledhi.vbr" checksum="33864a6719fbb57e60d3350779c18e05">
   </resource>
 
-  <resource identifier="${gimp_dir}/brushes/hej.vbr" checksum="cd0f91b85bd1a63e3559297466a3641e">
+  <resource identifier="${gimp_dir}/brushes/hej.vbr" checksum="2288c567b1f7a8fe6f891c01d6729097">
   </resource>
 
   <resource identifier="${gimp_data_dir}/brushes/Basic/1-pixel.vbr" checksum="c84494b4a904a7c1a3548e564b073ca3">
@@ -1183,7 +1186,7 @@
   <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
   </resource>
 
-  <resource identifier="gimp-palette-color-history" checksum="b0a1378e1b3dd9c06f7989831fae15ac">
+  <resource identifier="gimp-palette-color-history" checksum="cf42dd61648c17f13fd18e2ab5587d56">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="e82e818c20ac12bdd21049924ea2d1e7">
@@ -1543,166 +1546,64 @@
   <resource identifier="Fira Code weight=450" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab" checksum="(null)">
+  <resource identifier="FiraCode Nerd Font" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab Bold" checksum="(null)">
+  <resource identifier="FiraCode Nerd Font Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab Bold Expanded" checksum="(null)">
+  <resource identifier="FiraCode Nerd Font Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab Bold Italic" checksum="(null)">
+  <resource identifier="FiraCode Nerd Font Medium" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab Bold Italic Expanded" checksum="(null)">
+  <resource identifier="FiraCode Nerd Font Mono" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab Bold Oblique" checksum="(null)">
+  <resource identifier="FiraCode Nerd Font Mono Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab Bold Oblique Expanded" checksum="(null)">
+  <resource identifier="FiraCode Nerd Font Mono Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab Expanded" checksum="(null)">
+  <resource identifier="FiraCode Nerd Font Mono Medium" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab Heavy" checksum="(null)">
+  <resource identifier="FiraCode Nerd Font Mono weight=450" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab Heavy Expanded" checksum="(null)">
+  <resource identifier="FiraCode Nerd Font weight=450" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab Heavy Italic" checksum="(null)">
+  <resource identifier="FuraCode Nerd Font" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab Heavy Italic Expanded" checksum="(null)">
+  <resource identifier="FuraCode Nerd Font Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab Heavy Oblique" checksum="(null)">
+  <resource identifier="FuraCode Nerd Font Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab Heavy Oblique Expanded" checksum="(null)">
+  <resource identifier="FuraCode Nerd Font Medium" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab Italic" checksum="(null)">
+  <resource identifier="FuraCode Nerd Font Mono" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab Italic Expanded" checksum="(null)">
+  <resource identifier="FuraCode Nerd Font Mono Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab Light" checksum="(null)">
+  <resource identifier="FuraCode Nerd Font Mono Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab Light Expanded" checksum="(null)">
+  <resource identifier="FuraCode Nerd Font Mono Medium" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab Light Italic" checksum="(null)">
+  <resource identifier="FuraCode Nerd Font Mono weight=450" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Term Curly Slab Light Italic Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Light Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Light Oblique Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Medium Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Medium Italic Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Medium Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Medium Oblique Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Oblique Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Semi-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Semi-Bold Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Semi-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Semi-Bold Italic Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Semi-Bold Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Semi-Bold Oblique Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Thin" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Thin Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Thin Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Thin Italic Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Thin Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Thin Oblique Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Ultra-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Ultra-Bold Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Ultra-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Ultra-Bold Italic Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Ultra-Bold Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Ultra-Bold Oblique Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Ultra-Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Ultra-Light Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Ultra-Light Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Ultra-Light Italic Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Ultra-Light Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Term Curly Slab Ultra-Light Oblique Expanded" checksum="(null)">
+  <resource identifier="FuraCode Nerd Font weight=450" checksum="(null)">
   </resource>
 
   <resource identifier="Liberation Mono" checksum="(null)">
@@ -1909,6 +1810,9 @@
   <resource identifier="Source Code Variable Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Source Code Variable Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="Source Code Variable Light" checksum="(null)">
   </resource>
 
@@ -1936,9 +1840,6 @@
   <resource identifier="Standard Symbols PS" checksum="(null)">
   </resource>
 
-  <resource identifier="Symbols Nerd Font" checksum="(null)">
-  </resource>
-
   <resource identifier="URW Bookman Light" checksum="(null)">
   </resource>
 
@@ -1964,6 +1865,9 @@
   </resource>
 
   <resource identifier="Z003 Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="mtx" checksum="(null)">
   </resource>
 
   <resource identifier="${gimp_data_dir}/tool-presets/Crop/16_10.gtp" checksum="(null)">
