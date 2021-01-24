@@ -2,3 +2,4 @@
 {X.Org/AMD KABINI (DRM 2.50.0, 5.9.8-zen1-1-zen, LLVM 11.0.0)/4.5 (Core Profile) Mesa 20.2.2}=SUPPORTED
 {AMD/AMD KABINI (DRM 2.50.0, 5.9.13-zen1-1-zen, LLVM 11.0.0)/4.5 (Core Profile) Mesa 20.3.0}=SUPPORTED
 {AMD/AMD KABINI (DRM 2.50.0, 5.10.6-zen1-1-zen, LLVM 11.0.0)/4.5 (Core Profile) Mesa 20.3.2}=SUPPORTED
+{AMD/AMD KABINI (DRM 2.50.0, 5.10.9-zen1-1-zen, LLVM 11.0.1)/4.5 (Core Profile) Mesa 20.3.3}=SUPPORTED

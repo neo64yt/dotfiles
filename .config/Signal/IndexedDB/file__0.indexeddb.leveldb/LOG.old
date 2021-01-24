@@ -1,0 +1,5 @@
+2021/01/23-09:11:40.451 3369 Reusing MANIFEST /home/neo64yt/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/01/23-09:11:41.429 337b Level-0 table #5: started
+2021/01/23-09:11:41.456 337b Level-0 table #5: 496 bytes OK
+2021/01/23-09:11:41.504 337b Delete type=0 #3
+2021/01/23-09:11:41.505 337b Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

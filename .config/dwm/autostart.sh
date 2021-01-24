@@ -20,7 +20,7 @@ sh $AUTOSTART &
 
 # WM-specific autostart applications
 sxhkd -c $KEYBIND &
-xwallpaper --center $HOME/Pictures/green-sea.jpg &
+xwallpaper --center $XDG_DATA_HOME/backgrounds/neointhevoid.png &
 $stats &
 
 ## EOF ##
