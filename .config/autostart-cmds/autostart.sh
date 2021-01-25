@@ -1,4 +1,4 @@
-# !/bin/sh
+#!/bin/sh
 
 # This script loads common autostart applications for all WM
 

@@ -24,7 +24,7 @@ case "$choice" in
   "󰏗 Package manager") $GUI_PACK ;;
   "󰜇 Printer") $PRINT ;;
   "󰌧 Autostart") $GUI_EDITOR $AUTOSTART ;;
-  "󰌧 WM Autostart") $GUI_EDITOR $WM_AUTOSTART ;;
+  "󰌧 WM autostart") $GUI_EDITOR $WM_AUTOSTART ;;
   "󰧺 Keybindings") $GUI_EDITOR $KEYBIND ;;
   "󰧺 WM keybindings") $WM_KEYBIND ;;
 esac

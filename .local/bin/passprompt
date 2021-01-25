@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Scripts directory
+# Shell wrapper for passmenu
 
 # Defaults
 lines=2

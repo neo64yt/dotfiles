@@ -1,0 +1,15 @@
+2021/01/25-08:13:40.582 11fe Reusing MANIFEST /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/25-08:13:40.583 11fe Recovering log #4
+2021/01/25-08:13:40.584 11fe Reusing old log /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000004.log 
+2021/01/25-09:21:32.326 3e96 Level-0 table #8: started
+2021/01/25-09:21:32.341 3e96 Level-0 table #8: 737 bytes OK
+2021/01/25-09:21:32.354 3e96 Delete type=0 #4
+2021/01/25-09:21:32.355 3e96 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/25-09:21:32.355 3e96 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01\x0d\x001\x006\x001\x001\x005\x003\x004\x005\x004\x003\x007\x009\x009' @ 54 : 1
+2021/01/25-09:21:32.355 3e96 Compacting 1@1 + 1@2 files
+2021/01/25-09:21:32.367 3e96 Generated table #9@1: 23 keys, 728 bytes
+2021/01/25-09:21:32.367 3e96 Compacted 1@1 + 1@2 files => 728 bytes
+2021/01/25-09:21:32.384 3e96 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/25-09:21:32.385 3e96 Delete type=2 #8
+2021/01/25-09:21:32.385 3e96 Delete type=2 #5
+2021/01/25-09:21:32.386 3e96 Manual compaction at level-1 from '\x00\x01\x01\x03\x01\x0d\x001\x006\x001\x001\x005\x003\x004\x005\x004\x003\x007\x009\x009' @ 54 : 1 .. (end); will stop at (end)

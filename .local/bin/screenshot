@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# Screenshot
+
 shotgun "$HOME/Pictures/screenshot-of-$(date +%Y-%m-%d_%H.%M.%S).png" 
 
 pgrep -x dunst >/dev/null && notify-send -u low -i camera Screenshooter "The screenshot has been saved into the Pictures folder"

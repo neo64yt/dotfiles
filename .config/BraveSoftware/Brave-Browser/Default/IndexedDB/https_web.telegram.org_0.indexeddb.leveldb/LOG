@@ -1,0 +1,5 @@
+2021/01/25-08:05:35.107 c99 Reusing MANIFEST /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/25-08:39:35.468 210f Level-0 table #5: started
+2021/01/25-08:39:35.638 210f Level-0 table #5: 116383 bytes OK
+2021/01/25-08:39:35.651 210f Delete type=0 #3
+2021/01/25-08:39:35.654 210f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

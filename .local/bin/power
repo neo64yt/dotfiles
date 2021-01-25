@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Scripts directory
+# Managing sessions
 
 # Defaults
 lines=5

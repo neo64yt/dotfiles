@@ -1,4 +1,4 @@
-# !/bin/sh
+#!/bin/sh
 
 # Config directory
 export WM_CONFIG_DIR="$XDG_CONFIG_HOME/dwm"
@@ -20,7 +20,7 @@ sh $AUTOSTART &
 
 # WM-specific autostart applications
 sxhkd -c $KEYBIND &
-xwallpaper --center $XDG_DATA_HOME/backgrounds/neointhevoid.png &
+hsetroot -center $XDG_DATA_HOME/backgrounds/neointhevoid.png &
 $stats &
 
 ## EOF ##

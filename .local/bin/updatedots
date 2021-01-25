@@ -6,7 +6,7 @@
 /usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME add $HOME/.config
 /usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME add $HOME/.local
 /usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME add $HOME/.face
-/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME add $HOME/.gtkrc-2.0
+/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME add $HOME/".gtkrc-2.0"
 /usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME add $HOME/.p10k.zsh
 /usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME add $HOME/.xinitrc
 /usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME add $HOME/.xprofile
