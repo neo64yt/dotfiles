@@ -1,7 +1,9 @@
-2021/01/25-08:05:18.952 ca8 Recovering log #3
-2021/01/25-08:05:19.811 ca8 Level-0 table #5: started
-2021/01/25-08:05:20.440 ca8 Level-0 table #5: 2785958 bytes OK
-2021/01/25-08:05:20.457 ca8 Recovering log #46
-2021/01/25-08:05:20.501 ca8 Delete type=0 #46
-2021/01/25-08:05:20.501 ca8 Delete type=0 #3
-2021/01/25-08:05:20.501 ca8 Delete type=3 #2
+2021/01/25-11:31:42.413 5fd6 Recovering log #3
+2021/01/25-11:31:43.531 5fd6 Level-0 table #5: started
+2021/01/25-11:31:43.963 5fd6 Level-0 table #5: 2785958 bytes OK
+2021/01/25-11:31:43.975 5fd6 Recovering log #47
+2021/01/25-11:31:43.976 5fd6 Recovering log #48
+2021/01/25-11:31:44.025 5fd6 Delete type=0 #47
+2021/01/25-11:31:44.025 5fd6 Delete type=0 #3
+2021/01/25-11:31:44.025 5fd6 Delete type=0 #48
+2021/01/25-11:31:44.025 5fd6 Delete type=3 #2

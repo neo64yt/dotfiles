@@ -13,5 +13,6 @@
 /usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME add $HOME/.zprofile
 /usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME add $HOME/.zshrc
 /usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME add $HOME/README.md
+/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME add $HOME/.gitignore
 
 # Changes must be manually commited
