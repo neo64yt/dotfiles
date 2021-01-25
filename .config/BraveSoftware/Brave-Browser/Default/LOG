@@ -1,6 +1,5 @@
-2021/01/25-08:19:33.388 ca9 Recovering log #91
-2021/01/25-08:19:33.389 ca9 Level-0 table #94: started
-2021/01/25-08:19:33.400 ca9 Level-0 table #94: 157 bytes OK
-2021/01/25-08:19:33.454 ca9 Delete type=0 #91
-2021/01/25-08:19:33.454 ca9 Delete type=3 #84
-2021/01/25-08:19:33.454 ca9 Delete type=3 #88
+2021/01/25-12:48:48.960 9d5b Recovering log #95
+2021/01/25-12:48:48.961 9d5b Level-0 table #97: started
+2021/01/25-12:48:48.975 9d5b Level-0 table #97: 834 bytes OK
+2021/01/25-12:48:49.028 9d5b Delete type=0 #95
+2021/01/25-12:48:49.028 9d5b Delete type=3 #93

@@ -1,3 +1,15 @@
-2021/01/25-11:31:49.573 5fd6 Reusing MANIFEST /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/25-11:31:49.574 5fd6 Recovering log #4
-2021/01/25-11:31:49.575 5fd6 Reusing old log /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/000004.log 
+2021/01/25-11:38:19.521 68a9 Reusing MANIFEST /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/25-11:38:19.522 68a9 Recovering log #4
+2021/01/25-11:38:19.535 68a9 Reusing old log /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/000004.log 
+2021/01/25-11:42:05.934 6e22 Level-0 table #8: started
+2021/01/25-11:42:05.970 6e22 Level-0 table #8: 60090 bytes OK
+2021/01/25-11:42:05.995 6e22 Delete type=0 #4
+2021/01/25-11:42:05.998 68a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/25-11:42:05.998 68a9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x03\x01+\x004\x000\x000\x000\x009\x000\x001\x000\x000\x004\x001\x006\x00_\x008\x006\x002\x001\x001\x00_\x001\x003\x002\x000\x001\x005\x002\x004\x002\x000\x004\x003\x008\x006\x003\x005\x002\x000\x003\x000\x00.\x00j\x00p\x00g' @ 11130 : 1
+2021/01/25-11:42:05.998 68a9 Compacting 1@1 + 1@2 files
+2021/01/25-11:42:06.049 68a9 Generated table #9@1: 162 keys, 8270 bytes
+2021/01/25-11:42:06.049 68a9 Compacted 1@1 + 1@2 files => 8270 bytes
+2021/01/25-11:42:06.061 68a9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/25-11:42:06.062 68a9 Delete type=2 #8
+2021/01/25-11:42:06.062 68a9 Delete type=2 #5
+2021/01/25-11:42:06.063 6e22 Manual compaction at level-1 from '\x00\x02\x01\x03\x01+\x004\x000\x000\x000\x009\x000\x001\x000\x000\x004\x001\x006\x00_\x008\x006\x002\x001\x001\x00_\x001\x003\x002\x000\x001\x005\x002\x004\x002\x000\x004\x003\x008\x006\x003\x005\x002\x000\x003\x000\x00.\x00j\x00p\x00g' @ 11130 : 1 .. (end); will stop at (end)

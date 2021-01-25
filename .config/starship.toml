@@ -1,0 +1,20 @@
+# Don't print a new line at the start of the prompt
+add_newline = false
+
+# Use "❯" symbol in the prompt 
+[character]                            
+success_symbol = "[❯](bold blue)"     
+
+# Don't make a new line for each prompt
+[line_break]
+disabled = true
+
+# Disable the package module, hiding it from the prompt completely
+[package]
+disabled = true
+
+# Enable the time module
+[time]
+disabled = false
+format = '[\[ 󱑎 $time \]](green) '
+time_format = "%T"

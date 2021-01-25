@@ -1,5 +1,3 @@
-2021/01/25-08:12:10.363 11ff Reusing MANIFEST /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/25-08:12:43.237 11fe Level-0 table #5: started
-2021/01/25-08:12:43.257 11fe Level-0 table #5: 827 bytes OK
-2021/01/25-08:12:43.270 11fe Delete type=0 #3
-2021/01/25-08:12:43.271 11fe Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/25-11:41:47.478 68a2 Reusing MANIFEST /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/25-11:41:47.479 68a2 Recovering log #7
+2021/01/25-11:41:47.479 68a2 Reusing old log /home/neo64yt/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000007.log 

@@ -18,7 +18,7 @@ gtkui.disable_seekbar_overlay 0
 gtkui.eq.visible 0
 gtkui.hide_tray_icon 0
 gtkui.last_playlist_save_name /home/neo64yt/Music/playlists/deltarune.dbpl
-gtkui.layout.0.6.2 vbox expand="0 1" fill="1 1" homogeneous=0 {hbox expand="0 1 0" fill="1 1 1" homogeneous=0 {playtb {} seekbar {} volumebar {} } tabbed_playlist hideheaders=0 width=1364 {} } 
+gtkui.layout.0.6.2 vbox expand="0 1" fill="1 1" homogeneous=0 {hbox expand="0 1 0" fill="1 1 1" homogeneous=0 {playtb {} seekbar {} volumebar {} } tabbed_playlist hideheaders=0 width=613 {} } 
 gtkui.override_bar_colors 1
 gtkui.override_tabstrip_colors 1
 gtkui.start_hidden 1
@@ -67,16 +67,16 @@ logwindow.geometry.w 400
 logwindow.geometry.x 40
 logwindow.geometry.y 40
 mainwin.geometry.h 710
-mainwin.geometry.w 1364
-mainwin.geometry.x 0
+mainwin.geometry.w 613
+mainwin.geometry.x 751
 mainwin.geometry.y 28
 network.proxy.port 8080
 output_plugin pulseaudio
 playback.loop 1
 playback.volume 0.0000000
 playlist.current 0
-playlist.cursor.0 -1
-playlist.scroll.0 -39
+playlist.cursor.0 56
+playlist.scroll.0 -56
 playlist.scroll.cursorfollowplayback 1
 playlist.tab.00000 Default
 prefwin.geometry.h 619
@@ -85,8 +85,8 @@ prefwin.geometry.x 301
 prefwin.geometry.y 121
 resume.paused 0
 resume.playlist 0
-resume.position 26.325443
-resume.track 0
+resume.position 1.1305213
+resume.track 56
 streamer.16_to_24 1
 streamer.samplerate 44100
 streamer.samplerate_mult_44 44100
