@@ -9,7 +9,7 @@
 ###########################
 
 # Background daemons first
-/usr/lib/mate-polkit/polkit-mate-authentication-agent-1 &
+dex -a &
 picom --experimental-backend &
 /usr/bin/dunst &
 spacefm -d &
@@ -18,8 +18,5 @@ $LOCK &
 usbmuxd --udev &
 
 # Systray
-(sleep 1s && xfce4-power-manager) &
-(sleep 1s && nm-applet) &
-(sleep 1s && pamac-tray) &
 (sleep 3s && mictray) &
 (sleep 3s && volumeicon) &

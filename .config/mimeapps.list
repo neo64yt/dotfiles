@@ -32,6 +32,7 @@ application/vnd.oasis.opendocument.presentation=libreoffice.desktop;
 application/zip=org.gnome.FileRoller.desktop;
 x-scheme-handler/tg=userapp-Telegram Desktop-ZFLZV0.desktop
 video/mp4=mpv.desktop;
+application/pdf=brave-browser.desktop;
 
 [Added Associations]
 x-scheme-handler/http=exo-web-browser.desktop;userapp-IceCat-27VHW0.desktop;firefox.desktop;
@@ -75,3 +76,4 @@ application/vnd.oasis.opendocument.presentation=libreoffice.desktop;
 application/zip=org.gnome.FileRoller.desktop;
 x-scheme-handler/tg=userapp-Telegram Desktop-ZFLZV0.desktop;
 video/mp4=mpv.desktop;
+application/pdf=brave-browser.desktop;

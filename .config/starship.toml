@@ -1,13 +1,13 @@
-# Don't print a new line at the start of the prompt
-add_newline = false
+# Print a new line at the start of the prompt
+add_newline = true
 
 # Use "❯" symbol in the prompt 
 [character]                            
 success_symbol = "[❯](bold blue)"     
 
-# Don't make a new line for each prompt
+# Make a new line for each prompt
 [line_break]
-disabled = true
+disabled = false
 
 # Disable the package module, hiding it from the prompt completely
 [package]
@@ -16,5 +16,19 @@ disabled = true
 # Enable the time module
 [time]
 disabled = false
-format = '[\[ 󱑎 $time \]](green) '
+format = '[\[󱑎 $time\]](green) '
 time_format = "%T"
+
+# Enable the user module
+[username]
+style_user = "purple bold"
+style_root = "black bold"
+format = "[󰀓 $user]($style) "
+disabled = false
+show_always = true
+
+# Enable the hostname module
+[hostname]
+ssh_only = false
+format =  "[@](red) [󰌢 $hostname](blue) "
+disabled = false

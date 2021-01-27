@@ -798,4 +798,105 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/neo64yt/Documents/ny-resolution" added="2021-01-26T07:06:44.915232Z" modified="2021-01-26T07:06:44.915271Z" visited="2021-01-26T07:06:44.915238Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2021-01-26T07:06:44.915252Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Documents/ny-resolution.pdf" added="2021-01-26T07:08:27.564478Z" modified="2021-01-26T07:08:27.564506Z" visited="2021-01-26T07:08:27.564482Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-26T07:08:27.564492Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Documents/UJIAN%20BERTUTUR%20KSSM%20SPM.pdf" added="2021-01-27T00:21:02.881417Z" modified="2021-01-27T00:21:02.881470Z" visited="2021-01-27T00:21:02.881421Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-01-27T00:21:02.881453Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Documents/Latihan%20Peribahasa.pdf" added="2021-01-27T00:56:30.796469Z" modified="2021-01-27T00:56:30.796503Z" visited="2021-01-27T00:56:30.796473Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-01-27T00:56:30.796482Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/git-src/homepage/index.html" added="2021-01-27T02:06:26.647695Z" modified="2021-01-27T10:15:49.243129Z" visited="2021-01-27T02:06:26.647699Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-01-27T10:15:49.243112Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/.local/share/backgrounds/lockscreen.jpg" added="2021-01-27T04:54:21.173147Z" modified="2021-01-27T11:09:54.963247Z" visited="2021-01-27T04:54:21.173151Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-27T04:54:21.173164Z" count="1"/>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-01-27T11:09:54.963228Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/.cache/paru/clone/librewolf-bin/librewolf-bin-84.0.2-1-x86_64.pkg.tar.zst" added="2021-01-27T09:22:45.501658Z" modified="2021-01-27T09:22:45.501684Z" visited="2021-01-27T09:22:45.501662Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zstd"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-01-27T09:22:45.501670Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/.cache/paru/clone/librewolf-bin/librewolf-84.0.2-1-x86_64.pkg.tar.zst" added="2021-01-27T09:23:12.669521Z" modified="2021-01-27T09:23:39.420188Z" visited="2021-01-27T09:23:12.669524Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zstd"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-01-27T09:23:39.420174Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/.cache/paru/clone/librewolf-bin" added="2021-01-27T09:23:45.042089Z" modified="2021-01-27T09:23:45.042115Z" visited="2021-01-27T09:23:45.042093Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2021-01-27T09:23:45.042101Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/.cache/paru/clone/librewolf-bin/librewolf-84.0.2-1-x86_64.pkg.tar" added="2021-01-27T09:24:04.059856Z" modified="2021-01-27T09:24:04.059880Z" visited="2021-01-27T09:24:04.059860Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-01-27T09:24:04.059867Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

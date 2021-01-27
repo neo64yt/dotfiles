@@ -4,14 +4,15 @@
 #   |   \  |
 #   |    \ |
 #   |     \|
+# (c) Made by Neo64YT
 
 
 # show fetch tool
 pfetch
 
 # Alises
-alias rm="rm -ri" # Delete files
-alias ls="ls --color=auto" # List files
+alias rm="rm -ri" # Ask before deleting files recursively
+alias ls="ls -A --color=auto" # List all files including hidden ones
 alias grep="grep --color=auto" # Grep
 alias clean-cache="rm -rf $XDG_CACHE_HOME/*" # Clean home directory cache
 alias cp="cp -r" # Copy files
@@ -23,6 +24,8 @@ alias commit="git commit" # Commiting Git changes
 alias p="sudo pacman" # Package management
 alias push="git push" # Push Git commits to upstream repository
 alias pull="git pull" # Sync local Git repository with upstream
+alias yay="paru" # Assume paru as yay
+alias rm-pkgs="sudo pacman -Rns $(pacman -Qtdq)" # Remove orphan packages
 
 # Alias for updating dotfiles
 alias config="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME" # Git command for my dotfiles repo
