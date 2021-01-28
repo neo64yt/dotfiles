@@ -1,0 +1,15 @@
+2021/01/28-09:26:40.496 54d6 Reusing MANIFEST /home/neo64yt/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/28-09:26:40.497 54d6 Recovering log #4
+2021/01/28-09:26:40.497 54d6 Reusing old log /home/neo64yt/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2021/01/28-09:27:42.835 570a Level-0 table #8: started
+2021/01/28-09:27:42.977 570a Level-0 table #8: 11038 bytes OK
+2021/01/28-09:27:43.000 570a Delete type=0 #4
+2021/01/28-09:27:43.000 570a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/28-09:27:43.000 570a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 324 : 1
+2021/01/28-09:27:43.000 570a Compacting 1@1 + 1@2 files
+2021/01/28-09:27:43.019 570a Generated table #9@1: 93 keys, 8054 bytes
+2021/01/28-09:27:43.019 570a Compacted 1@1 + 1@2 files => 8054 bytes
+2021/01/28-09:27:43.042 570a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/28-09:27:43.043 570a Delete type=2 #8
+2021/01/28-09:27:43.043 570a Delete type=2 #5
+2021/01/28-09:27:43.044 570a Manual compaction at level-1 from '\x00\x04\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 324 : 1 .. (end); will stop at (end)

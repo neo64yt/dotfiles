@@ -1,0 +1,15 @@
+2021/01/28-09:42:08.119 83ad Reusing MANIFEST /home/neo64yt/.config/chromium/Default/IndexedDB/chrome-extension_hipekcciheckooncpjeljhnekcoolahp_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/28-09:42:08.119 83ad Recovering log #43
+2021/01/28-09:42:08.120 83ad Reusing old log /home/neo64yt/.config/chromium/Default/IndexedDB/chrome-extension_hipekcciheckooncpjeljhnekcoolahp_0.indexeddb.leveldb/000043.log 
+2021/01/28-09:42:49.117 84e0 Level-0 table #48: started
+2021/01/28-09:42:49.134 84e0 Level-0 table #48: 1062 bytes OK
+2021/01/28-09:42:49.146 84e0 Delete type=0 #43
+2021/01/28-09:42:49.148 84e0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/28-09:42:49.149 84e0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01\x0d\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00c\x00a\x00c\x00h\x00e' @ 726 : 0
+2021/01/28-09:42:49.149 84e0 Compacting 1@1 + 1@2 files
+2021/01/28-09:42:49.175 84e0 Generated table #49@1: 39 keys, 1194 bytes
+2021/01/28-09:42:49.175 84e0 Compacted 1@1 + 1@2 files => 1194 bytes
+2021/01/28-09:42:49.190 84e0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/28-09:42:49.191 84e0 Delete type=2 #48
+2021/01/28-09:42:49.191 84e0 Delete type=2 #45
+2021/01/28-09:42:49.192 84e0 Manual compaction at level-1 from '\x00\x01\x01\x03\x01\x0d\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00c\x00a\x00c\x00h\x00e' @ 726 : 0 .. (end); will stop at (end)

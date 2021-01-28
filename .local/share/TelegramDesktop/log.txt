@@ -1,61 +1,53 @@
-[2021.01.27 14:01:14] Launched version: 2005001, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
-[2021.01.27 14:01:14] Executable dir: /usr/bin/, name: telegram-desktop
-[2021.01.27 14:01:14] Initial working dir: /home/neo64yt/
-[2021.01.27 14:01:14] Working dir: /home/neo64yt/.local/share/TelegramDesktop/
-[2021.01.27 14:01:14] Command line: telegram-desktop --
-[2021.01.27 14:01:14] Executable path before check: /usr/bin/telegram-desktop
-[2021.01.27 14:01:14] Logs started
-[2021.01.27 14:01:14] Launcher filename: telegramdesktop.desktop
-[2021.01.27 14:01:14] Getting DE, XDG_CURRENT_DESKTOP: ''
-[2021.01.27 14:01:14] Getting DE, DESKTOP_SESSION: 'dwm'
-[2021.01.27 14:01:14] Getting DE, KDE_SESSION_VERSION: ''
-[2021.01.27 14:01:14] Getting DE, GNOME_DESKTOP_SESSION_ID: ''
-[2021.01.27 14:01:14] Getting DE, KDE_FULL_SESSION: ''
-[2021.01.27 14:01:14] DE: Other
-[2021.01.27 14:01:14] Connecting local socket to /run/user/1000/81d9fcaa1d9082ef389a452730884268-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
-[2021.01.27 14:01:14] This is the only instance of Telegram, starting server and app...
-[2021.01.27 14:01:14] Moved logging from '/home/neo64yt/.local/share/TelegramDesktop/log_start0.txt' to '/home/neo64yt/.local/share/TelegramDesktop/log.txt'!
-[2021.01.27 14:01:14] Primary screen DPI: 96.1032
-[2021.01.27 14:01:14] App Info: reading settings...
-[2021.01.27 14:01:14] App Info: reading encrypted settings...
-[2021.01.27 14:01:14] Lang Info: Loaded cached, keys: 2910
-[2021.01.27 14:01:15] OpenAL Logging Level: (not set)
-[2021.01.27 14:01:15] Audio Playback Devices: Built-in Audio Analog Stereo
-[2021.01.27 14:01:15] Audio Playback Default Device: Built-in Audio Analog Stereo
-[2021.01.27 14:01:15] Audio Capture Devices: Built-in Audio Analog Stereo;Monitor of Built-in Audio Analog Stereo
-[2021.01.27 14:01:15] Audio Capture Default Device: Built-in Audio Analog Stereo
-[2021.01.27 14:01:15] System tray available: [TRUE]
-[2021.01.27 14:01:15] Not using D-Bus global menu.
-[2021.01.27 14:01:15] Not using Unity launcher counter.
-[2021.01.27 14:01:15] App Info: reading accounts info...
-[2021.01.27 14:01:15] App Info: reading encrypted info...
-[2021.01.27 14:01:15] App Info: reading map...
-[2021.01.27 14:01:15] App Info: reading encrypted map...
-[2021.01.27 14:01:15] App Info: reading encrypted user settings...
-[2021.01.27 14:01:15] App Info: encrypted user settings read.
-[2021.01.27 14:01:15] App Info: reading encrypted mtp data...
-[2021.01.27 14:01:15] MTP Info: read keys, current: 5, to destroy: 0
-[2021.01.27 14:01:15] Map read time: 2
-[2021.01.27 14:01:15] App Info: reading encrypted mtp config...
-[2021.01.27 14:01:16] TCP Error: network - Network unreachable
-[2021.01.27 14:01:16] HTTP Error: network error 99 - Network unreachable
-[2021.01.27 14:01:16] Notification daemon product name: dunst
-[2021.01.27 14:01:16] Notification daemon vendor name: knopwob
-[2021.01.27 14:01:16] Notification daemon version: 1.5.0 (2020-07-23)
-[2021.01.27 14:01:16] Notification daemon specification version: 1.2
-[2021.01.27 14:01:16] Notification daemon capabilities: actions, body, body-hyperlinks, synchronous, private-synchronous, x-canonical-private-synchronous, x-dunst-stack-tag, body-markup
-[2021.01.27 14:01:16] Export Info: Destroy top bar by controller removal.
-[2021.01.27 14:01:16] Using Qt tray icon.
-[2021.01.27 14:01:36] TCP Error: network - Network unreachable
-[2021.01.27 14:01:36] HTTP Error: network error 99 - Network unreachable
-[2021.01.27 14:01:37] TCP Error: network - Network unreachable
-[2021.01.27 14:01:37] HTTP Error: network error 99 - Network unreachable
-[2021.01.27 15:21:48] TCP Error: network - Network unreachable
-[2021.01.27 15:21:48] HTTP Error: network error 99 - Network unreachable
-[2021.01.27 15:21:48] Audio Info: recreating audio device and reattaching the tracks
-[2021.01.27 15:21:50] Audio Info: Closing audio playback device.
-[2021.01.27 15:22:58] Audio Info: recreating audio device and reattaching the tracks
-[2021.01.27 15:23:00] Audio Info: Closing audio playback device.
-[2021.01.27 15:31:51] TCP Error: network - Network unreachable
-[2021.01.27 15:31:51] HTTP Error: network error 99 - Network unreachable
-[2021.01.27 17:04:25] Api::Updates prevents quit, sending offline status...
+[2021.01.28 08:29:35] Launched version: 2005001, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2021.01.28 08:29:35] Executable dir: /usr/bin/, name: telegram-desktop
+[2021.01.28 08:29:35] Initial working dir: /home/neo64yt/
+[2021.01.28 08:29:35] Working dir: /home/neo64yt/.local/share/TelegramDesktop/
+[2021.01.28 08:29:35] Command line: telegram-desktop --
+[2021.01.28 08:29:35] Executable path before check: /usr/bin/telegram-desktop
+[2021.01.28 08:29:35] Logs started
+[2021.01.28 08:29:35] Launcher filename: telegramdesktop.desktop
+[2021.01.28 08:29:35] Getting DE, XDG_CURRENT_DESKTOP: ''
+[2021.01.28 08:29:35] Getting DE, DESKTOP_SESSION: 'dwm'
+[2021.01.28 08:29:35] Getting DE, KDE_SESSION_VERSION: ''
+[2021.01.28 08:29:35] Getting DE, GNOME_DESKTOP_SESSION_ID: ''
+[2021.01.28 08:29:35] Getting DE, KDE_FULL_SESSION: ''
+[2021.01.28 08:29:35] DE: Other
+[2021.01.28 08:29:36] Connecting local socket to /run/user/1000/81d9fcaa1d9082ef389a452730884268-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2021.01.28 08:29:36] This is the only instance of Telegram, starting server and app...
+[2021.01.28 08:29:36] Moved logging from '/home/neo64yt/.local/share/TelegramDesktop/log_start0.txt' to '/home/neo64yt/.local/share/TelegramDesktop/log.txt'!
+[2021.01.28 08:29:36] Primary screen DPI: 96.1032
+[2021.01.28 08:29:36] App Info: reading settings...
+[2021.01.28 08:29:36] App Info: reading encrypted settings...
+[2021.01.28 08:29:36] Lang Info: Loaded cached, keys: 2910
+[2021.01.28 08:29:36] OpenAL Logging Level: (not set)
+[2021.01.28 08:29:37] Audio Playback Devices: Built-in Audio Analog Stereo
+[2021.01.28 08:29:37] Audio Playback Default Device: Built-in Audio Analog Stereo
+[2021.01.28 08:29:37] Audio Capture Devices: Built-in Audio Analog Stereo;Monitor of Built-in Audio Analog Stereo
+[2021.01.28 08:29:37] Audio Capture Default Device: Built-in Audio Analog Stereo
+[2021.01.28 08:29:37] System tray available: [TRUE]
+[2021.01.28 08:29:37] Not using D-Bus global menu.
+[2021.01.28 08:29:37] Not using Unity launcher counter.
+[2021.01.28 08:29:37] App Info: reading accounts info...
+[2021.01.28 08:29:37] App Info: reading encrypted info...
+[2021.01.28 08:29:37] App Info: reading map...
+[2021.01.28 08:29:37] App Info: reading encrypted map...
+[2021.01.28 08:29:37] App Info: reading encrypted user settings...
+[2021.01.28 08:29:37] App Info: encrypted user settings read.
+[2021.01.28 08:29:37] App Info: reading encrypted mtp data...
+[2021.01.28 08:29:37] MTP Info: read keys, current: 5, to destroy: 0
+[2021.01.28 08:29:37] Map read time: 6
+[2021.01.28 08:29:37] App Info: reading encrypted mtp config...
+[2021.01.28 08:29:38] TCP Error: network - Network unreachable
+[2021.01.28 08:29:38] HTTP Error: network error 99 - Network unreachable
+[2021.01.28 08:29:38] Notification daemon product name: dunst
+[2021.01.28 08:29:38] Notification daemon vendor name: knopwob
+[2021.01.28 08:29:38] Notification daemon version: 1.5.0 (2020-07-23)
+[2021.01.28 08:29:38] Notification daemon specification version: 1.2
+[2021.01.28 08:29:38] Notification daemon capabilities: actions, body, body-hyperlinks, synchronous, private-synchronous, x-canonical-private-synchronous, x-dunst-stack-tag, body-markup
+[2021.01.28 08:29:38] Export Info: Destroy top bar by controller removal.
+[2021.01.28 08:29:38] Using Qt tray icon.
+[2021.01.28 08:58:28] Audio Info: recreating audio device and reattaching the tracks
+[2021.01.28 08:58:30] Audio Info: Closing audio playback device.
+[2021.01.28 08:59:18] Audio Info: recreating audio device and reattaching the tracks
+[2021.01.28 08:59:20] Audio Info: Closing audio playback device.
+[2021.01.28 09:40:39] Api::Updates prevents quit, sending offline status...

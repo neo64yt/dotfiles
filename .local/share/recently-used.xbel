@@ -84,26 +84,6 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Videos/2020-12-28%2008-31-44.mkv" added="2020-12-28T00:37:44.155497Z" modified="2020-12-28T00:37:44.155522Z" visited="2020-12-28T00:37:44.155502Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="video/x-matroska"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-28T00:37:44.155510Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Videos/2020-12-28%2008-31-44.mp4" added="2020-12-28T00:38:23.540020Z" modified="2020-12-28T00:38:23.540072Z" visited="2020-12-28T00:38:23.540028Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="video/mp4"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-28T00:38:23.540049Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///home/neo64yt/Downloads/artix-xfce-openrc-20200506-x86_64.iso" added="2020-12-28T02:59:57.764460Z" modified="2020-12-28T03:17:21.368534Z" visited="2020-12-28T02:59:57.764462Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -848,13 +828,14 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/.local/share/backgrounds/lockscreen.jpg" added="2021-01-27T04:54:21.173147Z" modified="2021-01-27T11:09:54.963247Z" visited="2021-01-27T04:54:21.173151Z">
+  <bookmark href="file:///home/neo64yt/.local/share/backgrounds/lockscreen.jpg" added="2021-01-27T04:54:21.173147Z" modified="2021-01-28T01:11:28.779098Z" visited="2021-01-27T04:54:21.173151Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
         <bookmark:applications>
           <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-27T04:54:21.173164Z" count="1"/>
           <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-01-27T11:09:54.963228Z" count="2"/>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-01-28T01:11:28.779087Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
