@@ -23,7 +23,7 @@ export SCREENSHOOTER="screenshot"
 ## DEFAULT APPS (For preffered apps menu) ##
 export GUI_FILE_MANAGER="spacefm"
 export GUI_EDITOR="nvim-qt"
-export TERMINAL="termite"
+export TERMINAL="alacritty"
 export BROWSER="chromium"
 export EMAIL_CLIENT="geary"
 export OFFICE_SUITE="LibreOffice-7.0.3-x86_64.AppImage"

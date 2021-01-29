@@ -1,3 +1,6 @@
-2021/01/28-09:38:52.615 6553 Reusing MANIFEST /home/neo64yt/.config/chromium/Default/Extension State/MANIFEST-000001
-2021/01/28-09:38:52.620 6553 Recovering log #3
-2021/01/28-09:38:52.625 6553 Reusing old log /home/neo64yt/.config/chromium/Default/Extension State/000003.log 
+2021/01/29-09:22:33.056 41d2 Reusing MANIFEST /home/neo64yt/.config/chromium/Default/Extension State/MANIFEST-000001
+2021/01/29-09:22:33.057 41d2 Recovering log #3
+2021/01/29-09:22:33.090 41d2 Reusing old log /home/neo64yt/.config/chromium/Default/Extension State/000003.log 
+2021/01/29-09:24:29.447 41d5 Level-0 table #5: started
+2021/01/29-09:24:29.563 41d5 Level-0 table #5: 2435433 bytes OK
+2021/01/29-09:24:29.589 41d5 Delete type=0 #3

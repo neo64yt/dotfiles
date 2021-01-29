@@ -25,7 +25,6 @@ alias p="sudo pacman" # Package management
 alias push="git push" # Push Git commits to upstream repository
 alias pull="git pull" # Sync local Git repository with upstream
 alias yay="paru" # Assume paru as yay
-alias rm-pkgs="sudo pacman -Rns $(pacman -Qtdq)" # Remove orphan packages
 
 # Alias for updating dotfiles
 alias config="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME" # Git command for my dotfiles repo

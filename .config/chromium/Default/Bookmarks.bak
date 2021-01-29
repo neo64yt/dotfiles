@@ -1,0 +1,82 @@
+{
+   "checksum": "3899370fa06cd2727374fcc6539e767c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13256275668377243",
+            "guid": "1d6202d3-4ab0-49f7-80c5-2cedf1452506",
+            "id": "5",
+            "name": "Device Info",
+            "type": "url",
+            "url": "https://www.deviceinfo.me/"
+         }, {
+            "date_added": "13256275687765355",
+            "guid": "4bd79e8f-0da5-4d0f-b63b-afc1344c7f26",
+            "id": "6",
+            "name": "suckless",
+            "type": "url",
+            "url": "https://suckless.org/"
+         }, {
+            "date_added": "13256275716159058",
+            "guid": "be021acb-7050-40df-83e7-d052114b2d76",
+            "id": "7",
+            "name": "Arch Official",
+            "type": "url",
+            "url": "https://archlinux.org/"
+         }, {
+            "date_added": "13256284391484041",
+            "guid": "aeae357a-95f9-4841-ba99-0cfce6c4b765",
+            "id": "9",
+            "name": "Web Store",
+            "type": "url",
+            "url": "https://chrome.google.com/webstore/category/extensions"
+         }, {
+            "date_added": "13256305697493999",
+            "guid": "23dd75dc-7740-4a47-bcdf-df7556781d2c",
+            "id": "11",
+            "name": "Experiments",
+            "type": "url",
+            "url": "chrome://flags/"
+         }, {
+            "date_added": "13256305771418138",
+            "guid": "b16fe766-e2a6-4f67-917c-1c4eca5c8eda",
+            "id": "12",
+            "name": "Dino Game",
+            "type": "url",
+            "url": "chrome://dino/"
+         }, {
+            "date_added": "13256357116908680",
+            "guid": "b9260e7a-8563-4ad8-91f4-0b9dbb4fc402",
+            "id": "14",
+            "name": "Settings",
+            "type": "url",
+            "url": "chrome://settings/"
+         } ],
+         "date_added": "13256275553097390",
+         "date_modified": "13256357116908680",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13256275553097396",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13256275553097400",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

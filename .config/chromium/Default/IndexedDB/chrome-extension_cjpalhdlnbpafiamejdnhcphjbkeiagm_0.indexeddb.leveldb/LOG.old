@@ -1,8 +1,8 @@
-2021/01/28-09:38:52.698 6472 Reusing MANIFEST /home/neo64yt/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/28-09:38:52.699 6472 Recovering log #4
-2021/01/28-09:38:52.699 6472 Reusing old log /home/neo64yt/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000004.log 
-2021/01/28-09:38:54.729 6436 Level-0 table #8: started
-2021/01/28-09:38:54.729 6436 Level-0 table #8: 0 bytes OK
-2021/01/28-09:38:54.745 6436 Delete type=0 #4
-2021/01/28-09:38:54.746 6551 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/01/28-09:38:54.746 6551 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
+2021/01/29-09:22:33.496 41d2 Reusing MANIFEST /home/neo64yt/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/29-09:22:33.498 41d2 Recovering log #55
+2021/01/29-09:22:33.499 41d2 Reusing old log /home/neo64yt/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000055.log 
+2021/01/29-09:22:35.533 41d6 Level-0 table #59: started
+2021/01/29-09:22:35.533 41d6 Level-0 table #59: 0 bytes OK
+2021/01/29-09:22:35.546 41d6 Delete type=0 #55
+2021/01/29-09:22:35.546 41d6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/29-09:22:35.546 41d6 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

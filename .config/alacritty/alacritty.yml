@@ -14,19 +14,19 @@
 
 # This value is used to decide whether to show FPS in title bar or not.
 # By default, it's set to false
-#fps: false
+fps: true
 
 # Any items in the `env` entry below will be added as
 # environment variables. Some entries may override variables
 # set by alacritty itself.
-#env:
+env:
   # TERM variable
   #
   # This value is used to set the `$TERM` environment variable for
   # each instance of Alacritty. If it is not present, alacritty will
   # check the local terminfo database and use `alacritty` if it is
   # available, otherwise `xterm-256color` is used.
-  #TERM: alacritty
+  TERM: alacritty
 
 window:
   # Window dimensions (changes require restart)
@@ -110,22 +110,22 @@ window:
 font:
   # Normal (roman) font face
   normal:
-    family: JetBrains Mono
+    family: JetBrainsMono Nerd Font
     style: Regular
 
   # Bold font face
   bold:
-    family: JetBrains Mono
+    family: JetBrainsMono Nerd Font
     style: Bold
 
   # Italic font face
   italic:
-    family: JetBrains Mono
+    family: JetBrainsMono Nerd Font
     style: Italic
 
   # Bold italic font face
   bold_italic:
-    family: JetBrains Mono
+    family: JetBrainsMono Nerd Font
     style: Bold Italic
 
   # Point size
@@ -155,14 +155,14 @@ font:
   ligatures: true
 
 # If `true`, bold text is drawn using the bright color variants.
-#draw_bold_text_with_bright_colors: false
+draw_bold_text_with_bright_colors: false
 
 # Colors (Tomorrow Night)
-#colors:
+colors:
   # Default colors
-  #primary:
-  #  background: '#1d1f21'
-  #  foreground: '#c5c8c6'
+  primary:
+    background: '#000000'
+    foreground: '#ffffff'
 
     # Bright and dim foreground colors
     #
@@ -221,15 +221,15 @@ font:
     #  foreground: '#1d1f21'
 
   # Normal colors
-  #normal:
-  #  black:   '#1d1f21'
-  #  red:     '#cc6666'
-  #  green:   '#b5bd68'
-  #  yellow:  '#f0c674'
-  #  blue:    '#81a2be'
-  #  magenta: '#b294bb'
-  #  cyan:    '#8abeb7'
-  #  white:   '#c5c8c6'
+  normal:
+    black:   '#101010'
+    red:     '#a5231c'
+    green:   '#12846e'
+    yellow:  '#c3bc0c'
+    blue:    '#1540cd'
+    magenta: '#c008a7'
+    cyan:    '#23d8db'
+    white:   '#ffffff'
 
   # Bright colors
   #bright:

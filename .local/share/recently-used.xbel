@@ -84,16 +84,6 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/artix-xfce-openrc-20200506-x86_64.iso" added="2020-12-28T02:59:57.764460Z" modified="2020-12-28T03:17:21.368534Z" visited="2020-12-28T02:59:57.764462Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-cd-image"/>
-        <bookmark:applications>
-          <bookmark:application name="balena-etcher-electron.bin" exec="&apos;balena-etcher-electron.bin %u&apos;" modified="2020-12-28T03:17:21.368518Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///home/neo64yt" added="2020-12-28T14:37:08.370631Z" modified="2021-01-19T13:42:04.978830Z" visited="2020-12-28T14:37:08.370634Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -728,12 +718,13 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/.local/share/backgrounds/neointhevoid.png" added="2021-01-25T00:29:03.317296Z" modified="2021-01-25T00:29:03.317333Z" visited="2021-01-25T00:29:03.317302Z">
+  <bookmark href="file:///home/neo64yt/.local/share/backgrounds/neointhevoid.png" added="2021-01-25T00:29:03.317296Z" modified="2021-01-28T06:43:48.736092Z" visited="2021-01-25T00:29:03.317302Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
         <bookmark:applications>
           <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-25T00:29:03.317315Z" count="1"/>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-01-28T06:43:48.736080Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -876,6 +867,26 @@
         <mime:mime-type type="application/x-tar"/>
         <bookmark:applications>
           <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-01-27T09:24:04.059867Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/webcamoid-installer-8.7.1-x86_64.run" added="2021-01-28T14:08:49.913027Z" modified="2021-01-28T14:08:49.913055Z" visited="2021-01-28T14:08:49.913031Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-01-28T14:08:49.913042Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/webcamoid-8.7.1-x86_64.AppImage" added="2021-01-28T14:09:50.789774Z" modified="2021-01-28T14:10:34.159603Z" visited="2021-01-28T14:09:50.789778Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-01-28T14:10:34.159592Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>

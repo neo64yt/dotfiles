@@ -1,0 +1,15 @@
+2021/01/28-13:15:26.543 9fb Reusing MANIFEST /home/neo64yt/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/28-13:15:26.544 9fb Recovering log #11
+2021/01/28-13:15:26.544 9fb Reusing old log /home/neo64yt/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000011.log 
+2021/01/28-13:16:25.894 978 Level-0 table #16: started
+2021/01/28-13:16:25.915 978 Level-0 table #16: 17540 bytes OK
+2021/01/28-13:16:25.924 978 Delete type=0 #11
+2021/01/28-13:16:25.926 9fb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/28-13:16:25.926 9fb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01\x04\x00w\x00a\x00w\x00c' @ 21435 : 1
+2021/01/28-13:16:25.926 9fb Compacting 1@1 + 1@2 files
+2021/01/28-13:16:25.988 9fb Generated table #17@1: 5104 keys, 213914 bytes
+2021/01/28-13:16:25.988 9fb Compacted 1@1 + 1@2 files => 213914 bytes
+2021/01/28-13:16:26.007 9fb compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/28-13:16:26.009 9fb Delete type=2 #16
+2021/01/28-13:16:26.009 9fb Delete type=2 #13
+2021/01/28-13:16:26.010 978 Manual compaction at level-1 from '\x00\x04\x01\x02\x01\x04\x00w\x00a\x00w\x00c' @ 21435 : 1 .. (end); will stop at (end)
