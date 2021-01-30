@@ -1,5 +1,5 @@
 # Print a new line at the start of the prompt
-add_newline = true
+add_newline = false
 
 # Use "❯" symbol in the prompt 
 [character]                            
@@ -7,7 +7,7 @@ success_symbol = "[❯](bold blue)"
 
 # Make a new line for each prompt
 [line_break]
-disabled = false
+disabled = true
 
 # Disable the package module, hiding it from the prompt completely
 [package]
@@ -19,16 +19,3 @@ disabled = false
 format = '[\[󱑎 $time\]](green) '
 time_format = "%T"
 
-# Enable the user module
-[username]
-style_user = "purple bold"
-style_root = "black bold"
-format = "[󰀓 $user]($style) "
-disabled = false
-show_always = true
-
-# Enable the hostname module
-[hostname]
-ssh_only = false
-format =  "[@](red) [󰌢 $hostname](blue) "
-disabled = false

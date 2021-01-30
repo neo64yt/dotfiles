@@ -19,4 +19,4 @@ usbmuxd --udev &
 
 # Systray
 (sleep 3s && mictray) &
-(sleep 3s && volumeicon) &
+(sleep 3s && pnmixer) &

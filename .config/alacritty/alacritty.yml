@@ -14,7 +14,7 @@
 
 # This value is used to decide whether to show FPS in title bar or not.
 # By default, it's set to false
-fps: true
+fps: false
 
 # Any items in the `env` entry below will be added as
 # environment variables. Some entries may override variables
@@ -157,7 +157,7 @@ font:
 # If `true`, bold text is drawn using the bright color variants.
 draw_bold_text_with_bright_colors: false
 
-# Colors (Tomorrow Night)
+# Colors 
 colors:
   # Default colors
   primary:
@@ -311,7 +311,7 @@ colors:
 #
 # Window opacity as a floating point number from `0.0` to `1.0`.
 # The value `0.0` is completely transparent and `1.0` is opaque.
-background_opacity: 0.75
+background_opacity: 0.85
 
 selection:
   # This string contains all characters that are used as separators for
@@ -330,7 +330,7 @@ cursor:
     #   - ▇ Block
     #   - _ Underline
     #   - | Beam
-    shape: Beam
+    shape: Block
 
     # Cursor blinking state
     #

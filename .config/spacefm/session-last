@@ -16,7 +16,7 @@ maximized=0
 [Desktop]
 desk_open_mime=1
 bg1=4656,4125,12014
-bg2=18358,49,0
+bg2=36858,5322,0
 text=65535,65535,65535
 shadow=0,0,0
 
@@ -65,7 +65,7 @@ main_new_window-key=110
 main_new_window-keymod=4
 main_search-x=613
 main_search-y=710
-main_terminal-s=termite
+main_terminal-s=alacritty
 main_terminal-key=65473
 main_terminal-b=2
 main_save_tabs-b=2

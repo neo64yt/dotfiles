@@ -1,5 +1,5 @@
 {
-   "checksum": "6075bd8754d9c6efdd2fb201b0b69f94",
+   "checksum": "1df291f090e14358ca2bf3e14d5402ce",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -55,7 +55,7 @@
             "date_added": "13256382748906587",
             "guid": "188d4b49-71fa-4389-b447-24bd69cdebbd",
             "id": "16",
-            "name": "ungoogled-chromium",
+            "name": "ungoogled",
             "type": "url",
             "url": "https://github.com/Eloston/ungoogled-chromium"
          } ],
