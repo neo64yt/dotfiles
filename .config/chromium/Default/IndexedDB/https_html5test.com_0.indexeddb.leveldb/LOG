@@ -1,0 +1,26 @@
+2021/01/30-11:58:07.372 50e Reusing MANIFEST /home/neo64yt/.config/chromium/Default/IndexedDB/https_html5test.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/30-11:58:07.373 50e Recovering log #19
+2021/01/30-11:58:07.373 50e Reusing old log /home/neo64yt/.config/chromium/Default/IndexedDB/https_html5test.com_0.indexeddb.leveldb/000019.log 
+2021/01/30-11:58:07.791 3ee Level-0 table #25: started
+2021/01/30-11:58:07.802 3ee Level-0 table #25: 1599 bytes OK
+2021/01/30-11:58:07.819 3ee Delete type=0 #19
+2021/01/30-11:58:07.820 3ee Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/01/30-11:58:09.794 50e Level-0 table #27: started
+2021/01/30-11:58:09.806 50e Level-0 table #27: 212 bytes OK
+2021/01/30-11:58:09.823 50e Delete type=0 #24
+2021/01/30-11:58:09.824 50e Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 458 : 0
+2021/01/30-11:58:09.824 50e Compacting 1@0 + 1@1 files
+2021/01/30-11:58:09.836 50e Generated table #28@0: 3 keys, 208 bytes
+2021/01/30-11:58:09.836 50e Compacted 1@0 + 1@1 files => 208 bytes
+2021/01/30-11:58:09.858 50e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/30-11:58:09.860 50e Delete type=2 #27
+2021/01/30-11:58:09.860 50e Delete type=2 #25
+2021/01/30-11:58:09.861 50e Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 458 : 0 .. (end); will stop at (end)
+2021/01/30-11:58:09.861 50e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x04' @ 419 : 1
+2021/01/30-11:58:09.861 50e Compacting 1@1 + 1@2 files
+2021/01/30-11:58:09.873 50e Generated table #29@1: 5 keys, 229 bytes
+2021/01/30-11:58:09.873 50e Compacted 1@1 + 1@2 files => 229 bytes
+2021/01/30-11:58:09.885 50e compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/30-11:58:09.887 50e Delete type=2 #22
+2021/01/30-11:58:09.887 50e Delete type=2 #28
+2021/01/30-11:58:09.887 50e Manual compaction at level-1 from '\x00\x00\x00\x00\x04' @ 419 : 1 .. (end); will stop at (end)

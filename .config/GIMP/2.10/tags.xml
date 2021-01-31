@@ -1186,7 +1186,7 @@
   <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
   </resource>
 
-  <resource identifier="gimp-palette-color-history" checksum="ef3bdf7396346e94cec0af1cc7aace6e">
+  <resource identifier="gimp-palette-color-history" checksum="329fa2be5e7d8e7958adc195a1a5dd05">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="e82e818c20ac12bdd21049924ea2d1e7">
@@ -1528,82 +1528,160 @@
   <resource identifier="DejaVu Serif Semi-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Fira Code" checksum="(null)">
+  <resource identifier="JetBrains Mono" checksum="(null)">
   </resource>
 
-  <resource identifier="Fira Code Bold" checksum="(null)">
+  <resource identifier="JetBrains Mono Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Fira Code Light" checksum="(null)">
+  <resource identifier="JetBrains Mono Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Fira Code Medium" checksum="(null)">
+  <resource identifier="JetBrains Mono Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Fira Code Semi-Bold" checksum="(null)">
+  <resource identifier="JetBrains Mono Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Fira Code weight=450" checksum="(null)">
+  <resource identifier="JetBrains Mono Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="FiraCode Nerd Font" checksum="(null)">
+  <resource identifier="JetBrains Mono Medium" checksum="(null)">
   </resource>
 
-  <resource identifier="FiraCode Nerd Font Bold" checksum="(null)">
+  <resource identifier="JetBrains Mono Medium Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="FiraCode Nerd Font Light" checksum="(null)">
+  <resource identifier="JetBrains Mono NL" checksum="(null)">
   </resource>
 
-  <resource identifier="FiraCode Nerd Font Medium" checksum="(null)">
+  <resource identifier="JetBrains Mono NL Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="FiraCode Nerd Font Mono" checksum="(null)">
+  <resource identifier="JetBrains Mono NL Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="FiraCode Nerd Font Mono Bold" checksum="(null)">
+  <resource identifier="JetBrains Mono NL Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="FiraCode Nerd Font Mono Light" checksum="(null)">
+  <resource identifier="JetBrains Mono NL Light" checksum="(null)">
   </resource>
 
-  <resource identifier="FiraCode Nerd Font Mono Medium" checksum="(null)">
+  <resource identifier="JetBrains Mono NL Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="FiraCode Nerd Font Mono weight=450" checksum="(null)">
+  <resource identifier="JetBrains Mono NL Medium" checksum="(null)">
   </resource>
 
-  <resource identifier="FiraCode Nerd Font weight=450" checksum="(null)">
+  <resource identifier="JetBrains Mono NL Medium Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="FuraCode Nerd Font" checksum="(null)">
+  <resource identifier="JetBrains Mono NL Thin" checksum="(null)">
   </resource>
 
-  <resource identifier="FuraCode Nerd Font Bold" checksum="(null)">
+  <resource identifier="JetBrains Mono NL Thin Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="FuraCode Nerd Font Light" checksum="(null)">
+  <resource identifier="JetBrains Mono NL Ultra-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="FuraCode Nerd Font Medium" checksum="(null)">
+  <resource identifier="JetBrains Mono NL Ultra-Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="FuraCode Nerd Font Mono" checksum="(null)">
+  <resource identifier="JetBrains Mono NL Ultra-Light" checksum="(null)">
   </resource>
 
-  <resource identifier="FuraCode Nerd Font Mono Bold" checksum="(null)">
+  <resource identifier="JetBrains Mono NL Ultra-Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="FuraCode Nerd Font Mono Light" checksum="(null)">
+  <resource identifier="JetBrains Mono Thin" checksum="(null)">
   </resource>
 
-  <resource identifier="FuraCode Nerd Font Mono Medium" checksum="(null)">
+  <resource identifier="JetBrains Mono Thin Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="FuraCode Nerd Font Mono weight=450" checksum="(null)">
+  <resource identifier="JetBrains Mono Ultra-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="FuraCode Nerd Font weight=450" checksum="(null)">
+  <resource identifier="JetBrains Mono Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMono Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMono Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMono Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMono Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMono Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMono Nerd Font Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMono Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMono Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMono Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMono Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMono Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMono Nerd Font Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMono Nerd Font Mono Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMono Nerd Font Mono Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMono Nerd Font Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMono Nerd Font Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMonoExtraBold Nerd Font Mono Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMonoExtraBold Nerd Font Mono Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMonoExtraBold Nerd Font Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMonoExtraBold Nerd Font Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMonoMedium Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMonoMedium Nerd Font Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMonoMedium Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrainsMonoMedium Nerd Font Mono Medium Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Liberation Mono" checksum="(null)">
@@ -1706,6 +1784,45 @@
   </resource>
 
   <resource identifier="Noto Color Emoji" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Condensed, Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Condensed, Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Condensed, Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Ultra-Bold Italic" checksum="(null)">
   </resource>
 
   <resource identifier="P052" checksum="(null)">

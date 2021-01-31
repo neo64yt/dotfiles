@@ -1,6 +1,6 @@
 # GIMP gimp-dodge-burn-tool options
 
-(foreground (color-rgb 0.015686274509803921 0.24705882352941178 0.21176470588235294))
+(foreground (color-rgb 1 1 1))
 (background (color-rgb 0 0 0))
 (brush "hej")
 (dynamics "Dynamics Off")

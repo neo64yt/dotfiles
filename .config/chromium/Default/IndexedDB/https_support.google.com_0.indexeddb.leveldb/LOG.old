@@ -1,0 +1,8 @@
+2021/01/31-22:56:02.544 2a74 Reusing MANIFEST /home/neo64yt/.config/chromium/Default/IndexedDB/https_support.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/31-22:56:02.545 2a74 Recovering log #28
+2021/01/31-22:56:02.546 2a74 Reusing old log /home/neo64yt/.config/chromium/Default/IndexedDB/https_support.google.com_0.indexeddb.leveldb/000028.log 
+2021/01/31-22:56:06.904 2a75 Level-0 table #32: started
+2021/01/31-22:56:06.904 2a75 Level-0 table #32: 0 bytes OK
+2021/01/31-22:56:06.921 2a75 Delete type=0 #28
+2021/01/31-22:56:06.922 2a75 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/31-22:56:06.922 2a75 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

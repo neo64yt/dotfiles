@@ -1,3 +1,5 @@
 #!/bin/sh
 
-slock -m "$(whoami)'s current session was locked at $(date "+%a %d, %H:%M:%S")"
+# Just a simple script for locking screen
+
+slock -m "$(whoami)'s current session was locked at $(date "+%a %d, %H:%M:%S")" 

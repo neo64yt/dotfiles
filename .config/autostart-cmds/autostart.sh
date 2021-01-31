@@ -3,10 +3,6 @@
 # This script loads common autostart applications for all WM
 
 # Autostart applications
-###########################
-#  Guide for autostart    #
-# (sleep 1s && command) & #
-###########################
 
 # Background daemons first
 dex -a &

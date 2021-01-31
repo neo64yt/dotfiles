@@ -1,3 +1,15 @@
-2021/01/28-16:30:52.725 2c81 Reusing MANIFEST /home/neo64yt/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/28-16:30:52.726 2c81 Recovering log #15
-2021/01/28-16:30:52.726 2c81 Reusing old log /home/neo64yt/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000015.log 
+2021/01/31-14:03:45.669 143e2 Reusing MANIFEST /home/neo64yt/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/31-14:03:45.670 143e2 Recovering log #19
+2021/01/31-14:03:45.670 143e2 Reusing old log /home/neo64yt/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000019.log 
+2021/01/31-14:05:16.725 14591 Level-0 table #24: started
+2021/01/31-14:05:16.748 14591 Level-0 table #24: 122439 bytes OK
+2021/01/31-14:05:16.779 14591 Delete type=0 #19
+2021/01/31-14:05:16.782 14590 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/31-14:05:16.782 14590 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x02\x1f\x03\x00\x90s\xb2puwB\x00\x01,\x00m\x00i\x000\x00l\x00l\x00e\x00I\x00S\x00y\x00f\x000\x00y\x00D\x00l\x00z\x00K\x00p\x00L\x00W\x00y\x00p\x00P\x00W\x00x\x00v\x00s\x009\x00h\x00H\x00d\x00o\x00M\x00S\x003\x002\x00O\x00M\x00p\x004\x00W\x00U\x003\x00c\x00=' @ 68395 : 1
+2021/01/31-14:05:16.782 14590 Compacting 1@1 + 1@2 files
+2021/01/31-14:05:16.910 14590 Generated table #25@1: 15535 keys, 731623 bytes
+2021/01/31-14:05:16.910 14590 Compacted 1@1 + 1@2 files => 731623 bytes
+2021/01/31-14:05:16.931 14590 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/31-14:05:16.933 14590 Delete type=2 #24
+2021/01/31-14:05:16.934 14590 Delete type=2 #21
+2021/01/31-14:05:16.936 14591 Manual compaction at level-1 from '\x00\x05\x02\x1f\x03\x00\x90s\xb2puwB\x00\x01,\x00m\x00i\x000\x00l\x00l\x00e\x00I\x00S\x00y\x00f\x000\x00y\x00D\x00l\x00z\x00K\x00p\x00L\x00W\x00y\x00p\x00P\x00W\x00x\x00v\x00s\x009\x00h\x00H\x00d\x00o\x00M\x00S\x003\x002\x00O\x00M\x00p\x004\x00W\x00U\x003\x00c\x00=' @ 68395 : 1 .. (end); will stop at (end)

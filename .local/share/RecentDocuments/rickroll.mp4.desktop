@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=video-mp4
+Name=rickroll.mp4
+Type=Link
+URL[$e]=file:$HOME/Videos/rickroll.mp4
+X-KDE-LastOpenedWith=org.kde.kdenlive

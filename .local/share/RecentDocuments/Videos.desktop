@@ -1,6 +1,0 @@
-[Desktop Entry]
-Icon=folder-videos
-Name=Videos
-Type=Link
-URL[$e]=file:$HOME/Videos
-X-KDE-LastOpenedWith=org.kde.kdenlive

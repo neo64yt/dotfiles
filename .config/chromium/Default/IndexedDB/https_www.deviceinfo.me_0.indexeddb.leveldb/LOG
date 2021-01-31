@@ -1,26 +1,26 @@
-2021/01/29-09:24:28.108 41d5 Reusing MANIFEST /home/neo64yt/.config/chromium/Default/IndexedDB/https_www.deviceinfo.me_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/29-09:24:28.109 41d5 Recovering log #93
-2021/01/29-09:24:28.109 41d5 Reusing old log /home/neo64yt/.config/chromium/Default/IndexedDB/https_www.deviceinfo.me_0.indexeddb.leveldb/000093.log 
-2021/01/29-09:25:22.277 4452 Level-0 table #99: started
-2021/01/29-09:25:22.293 4452 Level-0 table #99: 478 bytes OK
-2021/01/29-09:25:22.318 4452 Delete type=0 #93
-2021/01/29-09:25:22.318 4452 Manual compaction at level-0 from '\x00\x13\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at (end)
-2021/01/29-09:25:24.280 41d5 Level-0 table #101: started
-2021/01/29-09:25:24.299 41d5 Level-0 table #101: 212 bytes OK
-2021/01/29-09:25:24.313 41d5 Delete type=0 #98
-2021/01/29-09:25:24.314 41d5 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 363 : 0
-2021/01/29-09:25:24.314 41d5 Compacting 1@0 + 1@1 files
-2021/01/29-09:25:24.326 41d5 Generated table #102@0: 2 keys, 196 bytes
-2021/01/29-09:25:24.326 41d5 Compacted 1@0 + 1@1 files => 196 bytes
-2021/01/29-09:25:24.343 41d5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/01/29-09:25:24.344 41d5 Delete type=2 #99
-2021/01/29-09:25:24.345 41d5 Delete type=2 #101
-2021/01/29-09:25:24.346 41d6 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 363 : 0 .. (end); will stop at (end)
-2021/01/29-09:25:24.346 41d6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x03' @ 358 : 0
-2021/01/29-09:25:24.346 41d6 Compacting 1@1 + 1@2 files
-2021/01/29-09:25:24.364 41d6 Generated table #103@1: 4 keys, 221 bytes
-2021/01/29-09:25:24.364 41d6 Compacted 1@1 + 1@2 files => 221 bytes
-2021/01/29-09:25:24.376 41d6 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/01/29-09:25:24.377 41d6 Delete type=2 #96
-2021/01/29-09:25:24.378 41d6 Delete type=2 #102
-2021/01/29-09:25:24.381 41d6 Manual compaction at level-1 from '\x00\x00\x00\x00\x03' @ 358 : 0 .. (end); will stop at (end)
+2021/01/30-20:46:00.300 cba Reusing MANIFEST /home/neo64yt/.config/chromium/Default/IndexedDB/https_www.deviceinfo.me_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/30-20:46:00.300 cba Recovering log #107
+2021/01/30-20:46:00.301 cba Reusing old log /home/neo64yt/.config/chromium/Default/IndexedDB/https_www.deviceinfo.me_0.indexeddb.leveldb/000107.log 
+2021/01/30-20:48:48.515 f12 Level-0 table #113: started
+2021/01/30-20:48:48.532 f12 Level-0 table #113: 478 bytes OK
+2021/01/30-20:48:48.556 f12 Delete type=0 #107
+2021/01/30-20:48:48.556 f12 Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/01/30-20:48:50.519 ef5 Level-0 table #115: started
+2021/01/30-20:48:50.540 ef5 Level-0 table #115: 212 bytes OK
+2021/01/30-20:48:50.558 ef5 Delete type=0 #112
+2021/01/30-20:48:50.559 ef5 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 401 : 0
+2021/01/30-20:48:50.559 ef5 Compacting 1@0 + 1@1 files
+2021/01/30-20:48:50.571 ef5 Generated table #116@0: 2 keys, 196 bytes
+2021/01/30-20:48:50.571 ef5 Compacted 1@0 + 1@1 files => 196 bytes
+2021/01/30-20:48:50.583 ef5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/30-20:48:50.584 ef5 Delete type=2 #113
+2021/01/30-20:48:50.584 ef5 Delete type=2 #115
+2021/01/30-20:48:50.585 ef5 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 401 : 0 .. (end); will stop at (end)
+2021/01/30-20:48:50.586 ef5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x03' @ 396 : 0
+2021/01/30-20:48:50.586 ef5 Compacting 1@1 + 1@2 files
+2021/01/30-20:48:50.603 ef5 Generated table #117@1: 4 keys, 221 bytes
+2021/01/30-20:48:50.604 ef5 Compacted 1@1 + 1@2 files => 221 bytes
+2021/01/30-20:48:50.629 ef5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/30-20:48:50.630 ef5 Delete type=2 #116
+2021/01/30-20:48:50.630 ef5 Delete type=2 #110
+2021/01/30-20:48:50.631 ef5 Manual compaction at level-1 from '\x00\x00\x00\x00\x03' @ 396 : 0 .. (end); will stop at (end)

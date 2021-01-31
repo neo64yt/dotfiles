@@ -97,108 +97,6 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/SURVEY_PROGRAM_WINDOWS_ENGLISH.exe" added="2020-12-30T07:15:57.399050Z" modified="2020-12-30T07:15:57.399077Z" visited="2020-12-30T07:15:57.399053Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-ms-dos-executable"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-30T07:15:57.399063Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/.wine/drive_c/Program%20Files%20(x86)/SURVEY_PROGRAM/DELTARUNE.exe" added="2020-12-30T07:21:55.074392Z" modified="2020-12-30T07:21:55.074426Z" visited="2020-12-30T07:21:55.074396Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-ms-dos-executable"/>
-        <bookmark:applications>
-          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2020-12-30T07:21:55.074409Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/.wine/drive_c/Program%20Files%20(x86)/SURVEY_PROGRAM" added="2020-12-30T07:22:10.417098Z" modified="2020-12-30T07:22:10.417137Z" visited="2020-12-30T07:22:10.417103Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2020-12-30T07:22:10.417118Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/.wine" added="2020-12-30T07:22:17.039274Z" modified="2020-12-30T07:22:17.039308Z" visited="2020-12-30T07:22:17.039279Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2020-12-30T07:22:17.039292Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/dwm-statusbutton.diff" added="2020-12-31T01:18:14.894233Z" modified="2020-12-31T01:18:15.371543Z" visited="2020-12-31T01:18:14.894239Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/x-patch"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-31T01:18:15.371526Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/passmenu2" added="2020-12-31T02:50:39.084361Z" modified="2020-12-31T02:50:39.084388Z" visited="2020-12-31T02:50:39.084365Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-31T02:50:39.084374Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///tmp/mozilla_neo64yt0/We10X-green.tar.xz" added="2020-12-31T04:26:47.083625Z" modified="2020-12-31T04:26:47.083653Z" visited="2020-12-31T04:26:47.083630Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-xz-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-31T04:26:47.083640Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Videos/2020-12-31%2015-45-49.mkv" added="2020-12-31T07:47:21.562926Z" modified="2020-12-31T07:49:25.119268Z" visited="2020-12-31T07:47:21.562929Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="video/x-matroska"/>
-        <bookmark:applications>
-          <bookmark:application name="audacity" exec="&apos;audacity %u&apos;" modified="2020-12-31T07:47:21.562936Z" count="1"/>
-          <bookmark:application name="obs" exec="&apos;obs %u&apos;" modified="2020-12-31T07:49:25.119252Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Videos/2020-12-31%2015-45-49.mp4" added="2020-12-31T07:49:58.361256Z" modified="2020-12-31T07:56:10.296125Z" visited="2020-12-31T07:49:58.361261Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="video/mp4"/>
-        <bookmark:applications>
-          <bookmark:application name="audacity" exec="&apos;audacity %u&apos;" modified="2020-12-31T07:49:58.361273Z" count="1"/>
-          <bookmark:application name="Celluloid" exec="&apos;io.github.celluloid_player.Celluloid %u&apos;" modified="2020-12-31T07:56:10.296109Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Videos/2020-12-31%2015-51-21.mkv" added="2020-12-31T07:51:52.544759Z" modified="2020-12-31T07:53:48.890177Z" visited="2020-12-31T07:51:52.544764Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="video/x-matroska"/>
-        <bookmark:applications>
-          <bookmark:application name="audacity" exec="&apos;audacity %u&apos;" modified="2020-12-31T07:53:48.890155Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///home/neo64yt/Downloads/plata-theme-colors-0.9.1.tar.xz" added="2021-01-01T03:04:50.506126Z" modified="2021-01-01T03:05:12.287353Z" visited="2021-01-01T03:04:50.506131Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -877,6 +775,63 @@
         <mime:mime-type type="application/vnd.appimage"/>
         <bookmark:applications>
           <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-01-28T14:10:34.159592Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Documents/rbt1" added="2021-01-30T15:19:45.888129Z" modified="2021-01-30T15:19:45.888155Z" visited="2021-01-30T15:19:45.888133Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2021-01-30T15:19:45.888143Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Documents/rbt1.odt" added="2021-01-30T15:19:47.003030Z" modified="2021-01-30T15:19:47.003111Z" visited="2021-01-30T15:19:47.003033Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2021-01-30T15:19:47.003106Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/screenshot-of-2021-01-31_16.34.07.png" added="2021-01-31T08:35:08.658657Z" modified="2021-01-31T08:35:10.007260Z" visited="2021-01-31T08:35:08.658662Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-01-31T08:35:10.007249Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/nvim-exit.png" added="2021-01-31T08:37:35.089428Z" modified="2021-01-31T08:47:25.625897Z" visited="2021-01-31T08:37:35.089430Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-01-31T08:37:42.236450Z" count="2"/>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-01-31T08:47:25.625887Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Videos/vim-exit/vim-exit.mp4" added="2021-01-31T08:39:45.174301Z" modified="2021-01-31T08:39:45.174321Z" visited="2021-01-31T08:39:45.174304Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-01-31T08:39:45.174311Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
