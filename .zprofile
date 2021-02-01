@@ -1,1 +1,1 @@
-.config/env_vars
+.config/shell/envrc

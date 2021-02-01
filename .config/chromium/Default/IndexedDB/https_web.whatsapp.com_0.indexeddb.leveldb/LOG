@@ -1,15 +1,24 @@
-2021/01/31-14:03:45.669 143e2 Reusing MANIFEST /home/neo64yt/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/31-14:03:45.670 143e2 Recovering log #19
-2021/01/31-14:03:45.670 143e2 Reusing old log /home/neo64yt/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000019.log 
-2021/01/31-14:05:16.725 14591 Level-0 table #24: started
-2021/01/31-14:05:16.748 14591 Level-0 table #24: 122439 bytes OK
-2021/01/31-14:05:16.779 14591 Delete type=0 #19
-2021/01/31-14:05:16.782 14590 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/01/31-14:05:16.782 14590 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x02\x1f\x03\x00\x90s\xb2puwB\x00\x01,\x00m\x00i\x000\x00l\x00l\x00e\x00I\x00S\x00y\x00f\x000\x00y\x00D\x00l\x00z\x00K\x00p\x00L\x00W\x00y\x00p\x00P\x00W\x00x\x00v\x00s\x009\x00h\x00H\x00d\x00o\x00M\x00S\x003\x002\x00O\x00M\x00p\x004\x00W\x00U\x003\x00c\x00=' @ 68395 : 1
-2021/01/31-14:05:16.782 14590 Compacting 1@1 + 1@2 files
-2021/01/31-14:05:16.910 14590 Generated table #25@1: 15535 keys, 731623 bytes
-2021/01/31-14:05:16.910 14590 Compacted 1@1 + 1@2 files => 731623 bytes
-2021/01/31-14:05:16.931 14590 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/01/31-14:05:16.933 14590 Delete type=2 #24
-2021/01/31-14:05:16.934 14590 Delete type=2 #21
-2021/01/31-14:05:16.936 14591 Manual compaction at level-1 from '\x00\x05\x02\x1f\x03\x00\x90s\xb2puwB\x00\x01,\x00m\x00i\x000\x00l\x00l\x00e\x00I\x00S\x00y\x00f\x000\x00y\x00D\x00l\x00z\x00K\x00p\x00L\x00W\x00y\x00p\x00P\x00W\x00x\x00v\x00s\x009\x00h\x00H\x00d\x00o\x00M\x00S\x003\x002\x00O\x00M\x00p\x004\x00W\x00U\x003\x00c\x00=' @ 68395 : 1 .. (end); will stop at (end)
+2021/02/01-14:02:08.743 14861 Reusing MANIFEST /home/neo64yt/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/01-14:02:08.746 14861 Recovering log #30
+2021/02/01-14:02:08.833 14861 Reusing old log /home/neo64yt/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000030.log 
+2021/02/01-14:26:34.577 14988 Level-0 table #35: started
+2021/02/01-14:26:34.766 14988 Level-0 table #35: 1399652 bytes OK
+2021/02/01-14:26:34.785 14988 Delete type=0 #30
+2021/02/01-14:26:44.782 14988 Compacting 1@1 + 1@2 files
+2021/02/01-14:26:45.101 14988 Generated table #36@1: 28841 keys, 1466407 bytes
+2021/02/01-14:26:45.101 14988 Compacted 1@1 + 1@2 files => 1466407 bytes
+2021/02/01-14:26:45.112 14988 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/01-14:26:45.113 14988 Delete type=2 #32
+2021/02/01-14:26:45.113 14988 Delete type=2 #35
+2021/02/01-14:51:28.662 14986 Level-0 table #38: started
+2021/02/01-14:51:28.746 14986 Level-0 table #38: 564349 bytes OK
+2021/02/01-14:51:28.762 14986 Delete type=0 #34
+2021/02/01-14:51:28.764 14986 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/01-14:51:28.764 14986 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x04\x02\x01\x0e\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00-\x00m\x00u\x00t\x00e\x00x' @ 173124 : 1
+2021/02/01-14:51:28.764 14986 Compacting 1@1 + 1@2 files
+2021/02/01-14:51:29.032 14986 Generated table #39@1: 30886 keys, 1572251 bytes
+2021/02/01-14:51:29.032 14986 Compacted 1@1 + 1@2 files => 1572251 bytes
+2021/02/01-14:51:29.044 14986 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/01-14:51:29.046 14986 Delete type=2 #38
+2021/02/01-14:51:29.046 14986 Delete type=2 #36
+2021/02/01-14:51:29.048 14986 Manual compaction at level-1 from '\x00\x02\x04\x02\x01\x0e\x00w\x00h\x00a\x00t\x00s\x00a\x00p\x00p\x00-\x00m\x00u\x00t\x00e\x00x' @ 173124 : 1 .. (end); will stop at (end)

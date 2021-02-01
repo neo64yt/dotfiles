@@ -1,3 +1,26 @@
-2021/01/31-22:27:08.125 13cc Reusing MANIFEST /home/neo64yt/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2021/01/31-22:27:08.135 13cc Recovering log #37
-2021/01/31-22:27:08.192 13cc Reusing old log /home/neo64yt/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000037.log 
+2021/02/01-11:21:27.358 cbeb Reusing MANIFEST /home/neo64yt/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2021/02/01-11:21:27.359 cbeb Recovering log #37
+2021/02/01-11:21:27.477 cbeb Reusing old log /home/neo64yt/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000037.log 
+2021/02/01-11:24:35.782 cace Level-0 table #41: started
+2021/02/01-11:24:35.907 cace Level-0 table #41: 2690502 bytes OK
+2021/02/01-11:24:35.924 cace Delete type=0 #37
+2021/02/01-11:26:40.770 cdc6 Level-0 table #43: started
+2021/02/01-11:26:40.887 cdc6 Level-0 table #43: 2034183 bytes OK
+2021/02/01-11:26:40.907 cdc6 Delete type=0 #40
+2021/02/01-11:41:50.826 d6e4 Level-0 table #45: started
+2021/02/01-11:41:51.005 d6e4 Level-0 table #45: 2351440 bytes OK
+2021/02/01-11:41:51.030 d6e4 Delete type=0 #42
+2021/02/01-11:41:51.034 cbeb Compacting 4@0 + 4@1 files
+2021/02/01-11:41:51.355 cbeb Generated table #46@0: 18 keys, 2723958 bytes
+2021/02/01-11:41:51.702 cbeb Generated table #47@0: 14 keys, 2543585 bytes
+2021/02/01-11:41:51.730 cbeb Generated table #48@0: 4 keys, 139024 bytes
+2021/02/01-11:41:51.730 cbeb Compacted 4@0 + 4@1 files => 5406567 bytes
+2021/02/01-11:41:51.747 cbeb compacted to: files[ 0 3 1 0 0 0 0 ]
+2021/02/01-11:41:51.748 cbeb Delete type=2 #43
+2021/02/01-11:41:51.748 cbeb Delete type=2 #34
+2021/02/01-11:41:51.748 cbeb Delete type=2 #45
+2021/02/01-11:41:51.748 cbeb Delete type=2 #32
+2021/02/01-11:41:51.748 cbeb Delete type=2 #38
+2021/02/01-11:41:51.748 cbeb Delete type=2 #41
+2021/02/01-11:41:51.748 cbeb Delete type=2 #35
+2021/02/01-11:41:51.748 cbeb Delete type=2 #33
