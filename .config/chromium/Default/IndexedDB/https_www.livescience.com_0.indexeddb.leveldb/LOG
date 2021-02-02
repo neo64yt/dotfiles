@@ -1,5 +1,0 @@
-2021/01/31-09:06:30.107 4061 Reusing MANIFEST /home/neo64yt/.config/chromium/Default/IndexedDB/https_www.livescience.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/31-09:06:38.005 3d63 Level-0 table #5: started
-2021/01/31-09:06:38.017 3d63 Level-0 table #5: 375 bytes OK
-2021/01/31-09:06:38.042 3d63 Delete type=0 #3
-2021/01/31-09:06:38.043 3d63 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

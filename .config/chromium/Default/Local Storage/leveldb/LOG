@@ -1,6 +1,0 @@
-2021/02/01-14:01:54.024 3 Reusing MANIFEST /home/neo64yt/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2021/02/01-14:01:54.028 3 Recovering log #13
-2021/02/01-14:01:54.029 3 Reusing old log /home/neo64yt/.config/chromium/Default/Local Storage/leveldb/000013.log 
-2021/02/01-14:15:12.271 10 Level-0 table #17: started
-2021/02/01-14:15:12.298 10 Level-0 table #17: 32898 bytes OK
-2021/02/01-14:15:12.321 10 Delete type=0 #13

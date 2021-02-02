@@ -1,1 +1,6 @@
-.config/ignoretest/
+# dotfiles (https://github.com/neo64yt/dotfiles)
+# Made by Neo64YT
+# This file ignores my private files (including Brave config directory)
+
+# Ignore Brave config
+.config/BraveSoftware/
