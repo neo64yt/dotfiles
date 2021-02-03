@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Blender
+Comment=Open source professional 3D modelling software
+Exec=Blender-v2.90.0-x86_64.AppImage 
+Icon=blender
+Terminal=false
+Categories=Graphics;

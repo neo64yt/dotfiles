@@ -14,12 +14,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads" added="2020-12-09T00:07:05.368615Z" modified="2021-01-13T10:29:55.781915Z" visited="2020-12-09T00:07:05.368620Z">
+  <bookmark href="file:///home/neo64yt/Downloads" added="2020-12-09T00:07:05.368615Z" modified="2021-02-02T10:11:28.567391Z" visited="2020-12-09T00:07:05.368620Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2021-01-13T10:29:55.781904Z" count="20"/>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2021-02-02T10:11:28.567384Z" count="21"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -81,28 +81,6 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="baobab" exec="&apos;baobab %u&apos;" modified="2021-01-19T13:42:04.978819Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/Inverse-green.tar.xz" added="2021-01-02T23:34:23.125932Z" modified="2021-01-03T00:12:17.262524Z" visited="2021-01-02T23:34:23.125939Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-xz-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-02T23:34:23.125951Z" count="1"/>
-          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-01-03T00:12:17.262516Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/05-Flat-Remix-Green-Dark_20201217.tar.xz" added="2021-01-03T00:44:20.538249Z" modified="2021-01-03T00:44:25.590797Z" visited="2021-01-03T00:44:20.538253Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-xz-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-03T00:44:20.538265Z" count="1"/>
-          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-01-03T00:44:25.590787Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -699,6 +677,28 @@
         <mime:mime-type type="video/mp4"/>
         <bookmark:applications>
           <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-01-31T08:39:45.174311Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/Orchis-dark.tar.xz" added="2021-02-02T10:11:07.381989Z" modified="2021-02-02T10:11:13.318361Z" visited="2021-02-02T10:11:07.381993Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-02-02T10:11:07.382003Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-02-02T10:11:13.318347Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Documents/psv-1.docx" added="2021-02-03T01:29:11.354680Z" modified="2021-02-03T01:40:24.086899Z" visited="2021-02-03T01:29:11.354684Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-02-03T01:29:11.354694Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2021-02-03T01:40:24.086885Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
