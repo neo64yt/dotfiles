@@ -20,7 +20,7 @@ chosen=$(cut -d ';' -f1 $XDG_DATA_HOME/assets/emoji | dmenu -l $lines -bw $borde
 if [ -n "$1" ]; then
 	xdotool type "$chosen"
 else
-	echo "$chosen" | tr -d '\n' | xclip -selection clipboard
-	notify-send -i face-smile-big -u low Emojis "'$chosen' copied to clipboard." &
+	printf "$chosen" | tr -d '\n' | xclip -selection clipboard
+	notify-send -i face-smile-big -u low Emojis "Successfully copied '$chosen' to clipboard!" &
 fi
 

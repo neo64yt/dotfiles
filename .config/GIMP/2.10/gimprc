@@ -11,6 +11,8 @@
 (monitor-yresolution 119)
 (theme "System")
 (icon-theme "Symbolic-High-Contrast")
+(layer-new-name "BG")
+(layer-new-fill-type foreground)
 (fill-options
     (style solid)
     (antialias yes)

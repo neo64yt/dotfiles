@@ -62,9 +62,9 @@
                 (tab-style icon)
                 (aux-info
                     (edit-active "true")
-                    (current-data "hej"))))
+                    (current-data "2. Block 01"))))
         (book
-            (position 420)
+            (position 407)
             (current-page 0)
             (dockable "gimp-layer-list"
                 (tab-style automatic)

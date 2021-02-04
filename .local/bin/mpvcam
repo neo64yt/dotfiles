@@ -3,4 +3,5 @@
 # Use mpv to show webcam
 mpv av://v4l2:/dev/video0 \
 	--profile=low-latency \
-	--untimed
+	--untimed \
+	--demuxer-lavf-o=video_size=1280x720,input_format=mjpeg 

@@ -1186,7 +1186,7 @@
   <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
   </resource>
 
-  <resource identifier="gimp-palette-color-history" checksum="329fa2be5e7d8e7958adc195a1a5dd05">
+  <resource identifier="gimp-palette-color-history" checksum="0d5541b2faf4878f44dc680db1e76bb6">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="e82e818c20ac12bdd21049924ea2d1e7">
@@ -1612,78 +1612,6 @@
   <resource identifier="JetBrains Mono Ultra-Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="JetBrainsMono Nerd Font" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Mono" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Mono Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Mono Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Mono Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Mono Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Mono Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Mono Ultra-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Mono Ultra-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Ultra-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Ultra-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMonoExtraBold Nerd Font Mono Ultra-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMonoExtraBold Nerd Font Mono Ultra-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMonoExtraBold Nerd Font Ultra-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMonoExtraBold Nerd Font Ultra-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMonoMedium Nerd Font Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMonoMedium Nerd Font Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMonoMedium Nerd Font Mono Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMonoMedium Nerd Font Mono Medium Italic" checksum="(null)">
-  </resource>
-
   <resource identifier="Liberation Mono" checksum="(null)">
   </resource>
 
@@ -1955,6 +1883,9 @@
   </resource>
 
   <resource identifier="Standard Symbols PS" checksum="(null)">
+  </resource>
+
+  <resource identifier="Symbols Nerd Font" checksum="(null)">
   </resource>
 
   <resource identifier="URW Bookman Light" checksum="(null)">

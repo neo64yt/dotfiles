@@ -12,4 +12,6 @@
  "restore.stream.Output/Audio.media.role:Music": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
  "restore.stream.Output/Audio.application.name:Brave": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
  "restore.stream.Input/Audio.application.name:Brave input": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
+ "restore.stream.Output/Audio.media.role:Notification": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
+ "restore.stream.Input/Audio.application.name:cava": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
 }
