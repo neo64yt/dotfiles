@@ -21,7 +21,7 @@
     (gimp-toolbox
         (side left)
         (book
-            (current-page 2)
+            (current-page 0)
             (dockable "gimp-tool-options"
                 (tab-style automatic)
                 (aux-info
@@ -41,7 +41,7 @@
     (gimp-dock
         (side right)
         (book
-            (current-page 0)
+            (current-page 4)
             (dockable "gimp-brush-grid"
                 (tab-style automatic)
                 (aux-info
@@ -62,9 +62,9 @@
                 (tab-style icon)
                 (aux-info
                     (edit-active "true")
-                    (current-data "2. Block 01"))))
+                    (current-data "hej"))))
         (book
-            (position 407)
+            (position 367)
             (current-page 0)
             (dockable "gimp-layer-list"
                 (tab-style automatic)

@@ -1,7 +1,6 @@
 # GIMP gimp-bucket-fill-tool options
 
 (foreground (color-rgb 1 1 1))
-(background (color-rgb 0 0 0))
 (paint-mode behind)
 (pattern "Blue Squares")
 (brush-size 51)

@@ -15,7 +15,7 @@ emoji="dmenuemoji"
 password="passprompt"
 apps="prefapps"
 
-choice=$(printf "󰀻 Applications\n󰩴 Preferred applications\n󰆍 Run\n󰐦 Session manager\n󰱨 Emojis\n󰢻 Settings\n󰷖 Passwords" | dmenu -l $lines -bw $border -h $height -p "$prompt" -c )
+choice=$(printf "󰀻 Applications\n󰩴 Preferred applications\n󰆍 Run\n󰐦 Session manager\n󰱨 Emojis\n󰢻 Settings\n󰷖 Passwords\n" | dmenu -l $lines -bw $border -h $height -p "$prompt" -c )
 
 case "$choice" in
   "󰀻 Applications") $appmenu ;;

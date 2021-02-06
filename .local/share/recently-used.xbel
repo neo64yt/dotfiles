@@ -682,13 +682,13 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Documents/psv-1.docx" added="2021-02-03T01:29:11.354680Z" modified="2021-02-03T01:40:24.086899Z" visited="2021-02-03T01:29:11.354684Z">
+  <bookmark href="file:///home/neo64yt/Documents/psv-1.docx" added="2021-02-03T01:29:11.354680Z" modified="2021-02-05T02:47:21.810754Z" visited="2021-02-03T01:29:11.354684Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
         <bookmark:applications>
           <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-02-03T01:29:11.354694Z" count="1"/>
-          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2021-02-03T01:40:24.086885Z" count="4"/>
+          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2021-02-05T02:47:21.810748Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -787,6 +787,103 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-02-04T05:03:55.042571Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/firefox.jpeg" added="2021-02-05T12:49:54.025763Z" modified="2021-02-05T13:35:19.804671Z" visited="2021-02-05T12:49:54.025768Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-02-05T12:49:54.025779Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-02-05T13:35:19.804660Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/chrome.jpeg" added="2021-02-05T12:50:24.850470Z" modified="2021-02-05T13:34:54.127847Z" visited="2021-02-05T12:50:24.850474Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-02-05T12:50:24.850483Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-02-05T13:34:54.127839Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/edge.jpeg" added="2021-02-05T12:51:13.979735Z" modified="2021-02-05T13:18:58.576808Z" visited="2021-02-05T12:51:13.979739Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-02-05T12:51:13.979750Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-02-05T13:18:58.576794Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/ie.png" added="2021-02-05T12:52:10.144590Z" modified="2021-02-05T13:18:34.565353Z" visited="2021-02-05T12:52:10.144595Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-02-05T12:52:10.144606Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-02-05T13:18:34.565344Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/Screenshots/screenshot-of-2021-02-05_20.55.47.png" added="2021-02-05T12:56:56.254495Z" modified="2021-02-05T13:45:09.274069Z" visited="2021-02-05T12:56:56.254498Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-02-05T13:45:09.274054Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/three.jpeg" added="2021-02-05T13:50:36.395020Z" modified="2021-02-05T13:50:55.517779Z" visited="2021-02-05T13:50:36.395023Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-02-05T13:50:36.395035Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-02-05T13:50:55.517766Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/browsers.png" added="2021-02-05T13:55:50.336254Z" modified="2021-02-05T13:57:42.119899Z" visited="2021-02-05T13:55:50.336258Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-02-05T13:56:50.074384Z" count="2"/>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-02-05T13:57:42.119889Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

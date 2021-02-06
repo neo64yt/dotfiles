@@ -22,7 +22,7 @@
   <resource identifier="${gimp_dir}/brushes/Untitledhi.vbr" checksum="33864a6719fbb57e60d3350779c18e05">
   </resource>
 
-  <resource identifier="${gimp_dir}/brushes/hej.vbr" checksum="2288c567b1f7a8fe6f891c01d6729097">
+  <resource identifier="${gimp_dir}/brushes/hej.vbr" checksum="a326ec7700f1fe505f13faa6065c4402">
   </resource>
 
   <resource identifier="${gimp_data_dir}/brushes/Basic/1-pixel.vbr" checksum="c84494b4a904a7c1a3548e564b073ca3">
@@ -1186,7 +1186,7 @@
   <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
   </resource>
 
-  <resource identifier="gimp-palette-color-history" checksum="0d5541b2faf4878f44dc680db1e76bb6">
+  <resource identifier="gimp-palette-color-history" checksum="beeb679402b2918eaa40bcf5c82800f7">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="e82e818c20ac12bdd21049924ea2d1e7">
