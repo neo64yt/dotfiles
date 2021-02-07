@@ -7,8 +7,11 @@
 # (c) Made by Neo64YT
 
 
-# show fetch tool
+# Show fetch tool
 pfetch
+
+# Hello message
+hello
 
 # Alises
 alias rm="rm -ri" # Ask before deleting files recursively
@@ -26,7 +29,7 @@ alias push="git push" # Push Git commits to upstream repository
 alias pull="git pull" # Sync local Git repository with upstream
 alias yay="paru" # Assume paru as yay
 
-# Alias for updating dotfiles
+# Aliases for updating dotfiles
 alias config="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME" # Git command for my dotfiles repo
 alias config-reset="/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME reset --hard" # Reset dotfiles to the last commit
 alias config-update="updatedots" # Update all tracked files in the repository

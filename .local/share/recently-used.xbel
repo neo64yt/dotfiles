@@ -888,4 +888,34 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/neo64yt/hello.c" added="2021-02-06T03:50:05.371907Z" modified="2021-02-06T03:50:05.371936Z" visited="2021-02-06T03:50:05.371910Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-02-06T03:50:05.371921Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/hello" added="2021-02-06T03:54:12.953319Z" modified="2021-02-06T03:54:12.953341Z" visited="2021-02-06T03:54:12.953323Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-02-06T03:54:12.953330Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/bin/OnlyOffice-x86_64.AppImage" added="2021-02-06T04:04:25.224015Z" modified="2021-02-06T07:12:10.163831Z" visited="2021-02-06T04:04:25.224021Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-02-06T07:12:10.163817Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
