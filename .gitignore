@@ -4,3 +4,4 @@
 
 # Ignore Brave config
 .config/BraveSoftware/
+.config/chromium/

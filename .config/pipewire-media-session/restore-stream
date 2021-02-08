@@ -1,7 +1,7 @@
 { 
  "restore.stream.Output/Audio.application.name:mpv": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ], "target-node": "pulseeffects_sink" }
  "restore.stream.Input/Audio.media.role:Production": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
- "restore.stream.Output/Audio.application.name:Chromium": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ], "target-node": "pulseeffects_sink" }
+ "restore.stream.Output/Audio.application.name:Chromium": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000 ], "channels": [ "MONO" ], "target-node": "pulseeffects_sink" }
  "restore.stream.Output/Audio.application.name:telegram-desktop": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
  "restore.stream.Input/Audio.application.name:telegram-desktop": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
  "restore.stream.Input/Audio.application.name:Chromium input": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ], "target-node": "pulseeffects_source" }

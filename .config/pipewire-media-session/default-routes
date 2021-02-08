@@ -1,6 +1,6 @@
 { 
- "default.route.alsa_card.pci-0000:00:14.2:input:analog-input-mic": { "mute": false, "volumes": [ 0.020540, 0.020540 ], "channels": [ "FL", "FR" ] }
- "default.route.alsa_card.pci-0000:00:14.2:output:analog-output-headphones": { "mute": false, "volumes": [ 0.421952, 0.421952 ], "channels": [ "FL", "FR" ] }
+ "default.route.alsa_card.pci-0000:00:14.2:input:analog-input-mic": { "mute": false, "volumes": [ 0.020685, 0.020685 ], "channels": [ "FL", "FR" ] }
+ "default.route.alsa_card.pci-0000:00:14.2:output:analog-output-headphones": { "mute": false, "volumes": [ 0.166405, 0.166405 ], "channels": [ "FL", "FR" ] }
  "default.route.alsa_card.pci-0000:00:14.2:input:analog-input-internal-mic": { "mute": false, "volumes": [ 0.100019, 0.100019 ], "channels": [ "FL", "FR" ] }
  "default.route.alsa_card.pci-0000:00:14.2:output:analog-output-speaker": { "mute": false, "volumes": [ 0.089979, 0.089979 ], "channels": [ "FL", "FR" ] }
  "default.route.alsa_card.pci-0000:00:14.2:profile:output:analog-stereo+input:analog-stereo": [ ]
