@@ -2,7 +2,7 @@
 # Any customization should be done in ~/.gtkrc-2.0.mine instead.
 
 include "/home/neo64yt/.gtkrc-2.0.mine"
-gtk-theme-name="Cabinet-Dark-Green"
+gtk-theme-name="vimix-dark-laptop-beryl"
 gtk-icon-theme-name="Papirus-Dark"
 gtk-font-name="JetBrains Mono 10"
 gtk-cursor-theme-name="volantes_cursors"

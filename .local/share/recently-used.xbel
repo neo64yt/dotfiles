@@ -3,23 +3,12 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/neo64yt/Downloads/slock-message.diff" added="2020-11-29T12:11:37.532942Z" modified="2021-01-08T13:10:52.427523Z" visited="2020-11-29T12:11:37.532948Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/x-patch"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-08T13:10:52.427511Z" count="4"/>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-20T06:42:26.042912Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads" added="2020-12-09T00:07:05.368615Z" modified="2021-02-02T10:11:28.567391Z" visited="2020-12-09T00:07:05.368620Z">
+  <bookmark href="file:///home/neo64yt/Downloads" added="2020-12-09T00:07:05.368615Z" modified="2021-02-09T01:35:21.800928Z" visited="2020-12-09T00:07:05.368620Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2021-02-02T10:11:28.567384Z" count="21"/>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2021-02-09T01:35:21.800918Z" count="22"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -966,6 +955,28 @@
         <mime:mime-type type="application/vnd.oasis.opendocument.presentation"/>
         <bookmark:applications>
           <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2021-02-08T08:53:53.644753Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/ChromeOS-dark.tar.xz" added="2021-02-09T01:31:02.977831Z" modified="2021-02-09T01:31:07.912406Z" visited="2021-02-09T01:31:02.977834Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-02-09T01:31:02.977839Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-02-09T01:31:07.912395Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/vimix-dark-laptop.tar.xz" added="2021-02-09T01:34:43.257791Z" modified="2021-02-09T01:34:52.895342Z" visited="2021-02-09T01:34:43.257796Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-02-09T01:34:43.257806Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-02-09T01:34:52.895329Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
