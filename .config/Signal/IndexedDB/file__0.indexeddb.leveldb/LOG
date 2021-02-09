@@ -1,7 +1,0 @@
-2021/01/23-16:14:17.328 17154 Reusing MANIFEST /home/neo64yt/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2021/01/23-16:14:17.329 17154 Recovering log #4
-2021/01/23-16:14:17.329 17154 Reusing old log /home/neo64yt/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/000004.log 
-2021/01/23-16:14:18.286 17163 Level-0 table #8: started
-2021/01/23-16:14:18.299 17163 Level-0 table #8: 469 bytes OK
-2021/01/23-16:14:18.317 17163 Delete type=0 #4
-2021/01/23-16:14:18.317 17163 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
