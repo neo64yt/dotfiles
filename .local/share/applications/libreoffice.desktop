@@ -1,9 +1,0 @@
-[Desktop Entry]
-Type=Application
-Version=1.0
-Name=LibreOffice
-Comment=Open source alternative to Microsoft Office
-Exec=LibreOffice-7.0.3-x86_64.AppImage
-Icon=libreoffice
-Terminal=false
-Categories=Office;

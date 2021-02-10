@@ -2,6 +2,10 @@
 # Made by Neo64YT
 # This file ignores my private files (including Brave config directory)
 
-# Ignore Brave config
+# Ignore browsers config
 .config/BraveSoftware/
 .config/chromium/
+
+# Ignore apps config
+.config/onlyoffice/
+.local/share/onlyoffice/

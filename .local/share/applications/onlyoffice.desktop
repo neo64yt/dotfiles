@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=OnlyOffice
+Comment=Open source alternative to Microsoft Office
+Exec=OnlyOffice-x86_64.AppImage
+Icon=document
+Terminal=false
+Categories=Office;
