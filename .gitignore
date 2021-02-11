@@ -9,3 +9,4 @@
 # Ignore apps config
 .config/onlyoffice/
 .local/share/onlyoffice/
+.config/systemd/

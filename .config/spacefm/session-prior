@@ -9,14 +9,14 @@ show_thumbnail=1
 use_si_prefix=1
 
 [Window]
-width=1364
+width=613
 height=706
 maximized=0
 
 [Desktop]
 desk_open_mime=1
 bg1=4656,4125,12014
-bg2=21764,13507,0
+bg2=33681,12997,0
 text=65535,65535,65535
 shadow=0,0,0
 
@@ -341,8 +341,8 @@ dev_newtab-b=1
 dev_single-b=1
 su_command-s=/usr/bin/sudo
 gsu_command-s=/usr/bin/gksudo
-editor-s=nvim-qt %f
-editor-b=2
+editor-s=nvim %f
+editor-b=1
 book_new-key=100
 book_new-keymod=4
 config_version-s=38
@@ -558,8 +558,8 @@ panel2_tool_r-child=cstm_18cee985
 cstm_18cee985-tool=12
 cstm_18cee985-parent=panel2_tool_r
 drag_action-x=0
-root_editor-s=nvim-qt %f
-root_editor-b=2
+root_editor-s=nvim %f
+root_editor-b=1
 hand_fs_+udiso-s=+iso9660 +dev=/dev/loop*
 hand_fs_+udiso-x=optical=1 removable=1
 hand_fs_+udiso-label=udevil iso unmount

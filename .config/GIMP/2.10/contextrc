@@ -1,8 +1,7 @@
 # GIMP user context
 
-(tool "gimp-text-tool")
+(tool "gimp-move-tool")
 (paint-info "gimp-paintbrush")
-(foreground (color-rgb 1 1 1))
 (brush "hej")
 (dynamics "Dynamics Off")
 (mybrush "100% Opaque")

@@ -3,7 +3,7 @@ add_newline = true
 
 # Use "❯" symbol in the prompt 
 [character]                            
-success_symbol = "[❯](bold blue)"     
+success_symbol = "[ => ](bold blue)"     
 
 # Make a new line for each prompt
 [line_break]
@@ -11,6 +11,14 @@ disabled = true
 
 # Disable the package module, hiding it from the prompt completely
 [package]
+disabled = true
+
+# Disable the golang module, hiding it from the prompt completely
+[golang]
+disabled = true
+
+# Disable the python module, hiding it from the prompt completely
+[python]
 disabled = true
 
 # Enable the time module

@@ -87,26 +87,6 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/ungoogled-chromium-87.0.4280.88-3-x86_64.pkg.tar.zst" added="2021-01-09T04:15:47.970376Z" modified="2021-01-11T00:47:07.762037Z" visited="2021-01-09T04:15:47.970380Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-alpm-package"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-11T00:47:07.762021Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Downloads/dwm-centered.diff" added="2021-01-10T10:44:47.372012Z" modified="2021-01-10T10:44:47.865148Z" visited="2021-01-10T10:44:47.372016Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/x-patch"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-10T10:44:47.865131Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///home/neo64yt/Downloads/Chromium.Web.Store.crx" added="2021-01-11T03:45:03.974441Z" modified="2021-01-11T03:45:03.974469Z" visited="2021-01-11T03:45:03.974444Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -1037,6 +1017,78 @@
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
           <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-02-10T06:25:23.196416Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Videos/2021-02-11%2010-24-42.mkv" added="2021-02-11T02:27:25.839455Z" modified="2021-02-11T02:27:25.839503Z" visited="2021-02-11T02:27:25.839464Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="obs" exec="&apos;obs %u&apos;" modified="2021-02-11T02:27:25.839482Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Videos/2021-02-11%2010-24-42.mp4" added="2021-02-11T02:27:46.100079Z" modified="2021-02-11T02:27:46.100097Z" visited="2021-02-11T02:27:46.100082Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-02-11T02:27:46.100087Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/charles.jpg" added="2021-02-11T03:27:10.206163Z" modified="2021-02-11T03:27:11.176300Z" visited="2021-02-11T03:27:10.206169Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="icecat" exec="&apos;icecat %u&apos;" modified="2021-02-11T03:27:11.176282Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/pretend.jpg" added="2021-02-11T03:29:12.775700Z" modified="2021-02-11T03:37:15.008871Z" visited="2021-02-11T03:29:12.775709Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="icecat" exec="&apos;icecat %u&apos;" modified="2021-02-11T03:29:13.389534Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-02-11T03:37:15.008856Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/redstar.png" added="2021-02-11T03:30:26.378937Z" modified="2021-02-11T03:38:02.670763Z" visited="2021-02-11T03:30:26.378941Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-02-11T03:30:26.378953Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-02-11T03:38:02.670745Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/meme4.png" added="2021-02-11T03:38:38.377093Z" modified="2021-02-11T03:40:00.388619Z" visited="2021-02-11T03:38:38.377100Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-02-11T03:38:57.371258Z" count="2"/>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-02-11T03:40:00.388609Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
