@@ -9,14 +9,14 @@ show_thumbnail=1
 use_si_prefix=1
 
 [Window]
-width=613
+width=1364
 height=706
 maximized=0
 
 [Desktop]
 desk_open_mime=1
 bg1=4656,4125,12014
-bg2=33681,12997,0
+bg2=56104,4994,0
 text=65535,65535,65535
 shadow=0,0,0
 
@@ -363,8 +363,8 @@ panel1_detcol_perm0-b=2
 panel1_detcol_owner0-b=2
 panel1_detcol_date0-b=2
 panel1_slider_positions0-s=0
-panel1_slider_positions0-x=157
-panel1_slider_positions0-y=127
+panel1_slider_positions0-x=191
+panel1_slider_positions0-y=173
 panel1_tool_l-child=cstm_5a3097f9
 cstm_5a3097f9-next=cstm_2c17cadd
 cstm_5a3097f9-tool=2
