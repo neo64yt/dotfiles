@@ -11,7 +11,7 @@
 pfetch
 
 # Hello message
-hello
+hello | cowsay | lolcat
 
 # Alises
 alias rm="rm -ri" # Ask before deleting files recursively
