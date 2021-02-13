@@ -2,4 +2,6 @@
 
 # Just a simple script for locking screen
 
+notify-send --urgency low "Lock Screen" "This screen will be locked"
+sleep 5s
 slock -m "$(whoami)'s current session was locked at $(date "+%a %d, %H:%M:%S")" 

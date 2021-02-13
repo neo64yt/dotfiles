@@ -9,8 +9,8 @@ dex -a &
 picom --experimental-backend &
 /usr/bin/dunst &
 spacefm -d &
-devmon &
 $LOCK &
+devmon &
 usbmuxd --udev &
 
 # Systray
