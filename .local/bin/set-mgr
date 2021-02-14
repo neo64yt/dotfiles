@@ -14,7 +14,7 @@ choice=$(printf "󰸌 Appearance\n󰿻 Account\n󰍁 Lock screen\n󰍂 Login scr
 case "$choice" in
   "󰸌 Appearance") $STYLE ;;
   "󰿻 Account") $USER_INFO ;;
-  "󰍁 Lock screen") $GUI_EDITOR $LOCK ;;
+  "󰍁 Lock screen") $TERMINAL -e $EDITOR $(which $LOCK) ;;
   "󰍂 Login screen") pkexec $LOGIN ;;
   "󰍹 Display") $RANDR ;;
   "󰲝 Network") $NM_EDITOR ;;
@@ -23,8 +23,8 @@ case "$choice" in
   "󰕾 Audio") $AUDIO ;;
   "󰏗 Package manager") $GUI_PACK ;;
   "󰜇 Printer") $PRINT ;;
-  "󰌧 Autostart") $GUI_EDITOR $AUTOSTART ;;
-  "󰌧 WM autostart") $GUI_EDITOR $WM_AUTOSTART ;;
-  "󰧺 Keybindings") $GUI_EDITOR $KEYBIND ;;
+  "󰌧 Autostart") $TERMINAL -e $EDITOR $AUTOSTART ;;
+  "󰌧 WM autostart") $TERMINAL -e $EDITOR $WM_AUTOSTART ;;
+  "󰧺 Keybindings") $TERMINAL -e $EDITOR $KEYBIND ;;
   "󰧺 WM keybindings") $WM_KEYBIND ;;
 esac

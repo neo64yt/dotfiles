@@ -7,6 +7,7 @@ export XDG_CONFIG_HOME="$HOME/.config"
 export XDG_DATA_HOME="$HOME/.local/share"
 export XDG_CACHE_HOME="$HOME/.cache"
 export EDITOR="nvim"
+export VISUAL="nvim"
 export KEYBIND="$XDG_CONFIG_HOME/sxhkd/sxhkdrc-common" # WM-independent keybindings
 export AUTOSTART="$XDG_CONFIG_HOME/autostart-cmds/autostart.sh" # WM-independent autostart
 export STARSHIP_CONFIG="$XDG_CONFIG_HOME/shell/starship.toml" # Starship configuration
@@ -21,7 +22,7 @@ export LOCKER="locker"
 export LOCK="lock" 
 export SCREENSHOOTER="screenshot"
 
-## DEFAULT APPS (For preffered apps menu) ##
+## DEFAULT APPS (For preferred apps menu) ##
 export GUI_FILE_MANAGER="spacefm"
 export GUI_EDITOR="nvim-qt"
 export TERMINAL="alacritty"

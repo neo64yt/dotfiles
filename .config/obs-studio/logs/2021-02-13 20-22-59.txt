@@ -1,0 +1,164 @@
+20:22:59.548: CPU Name: Quad-Core Processor (up to 1.4GHz)
+20:22:59.549: CPU Speed: 1014.042MHz
+20:22:59.549: Physical Cores: 4, Logical Cores: 4
+20:22:59.549: Physical Memory: 3368MB Total, 2216MB Free
+20:22:59.549: Kernel Version: Linux 5.10.15-zen2-1-zen
+20:22:59.549: Distribution: "Arch Linux" Unknown
+20:22:59.549: Session Type: x11
+20:22:59.550: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.10
+20:22:59.553: Portable mode: false
+20:22:59.739: OBS 26.1.2-1 (linux)
+20:22:59.739: ---------------------------------
+20:22:59.741: ---------------------------------
+20:22:59.741: audio settings reset:
+20:22:59.741: 	samples per sec: 48000
+20:22:59.741: 	speakers:        2
+20:22:59.746: ---------------------------------
+20:22:59.746: Initializing OpenGL...
+20:23:00.328: Loading up OpenGL on adapter AMD AMD KABINI (DRM 2.50.0, 5.10.15-zen2-1-zen, LLVM 11.0.1)
+20:23:00.328: OpenGL loaded successfully, version 4.5 (Core Profile) Mesa 20.3.4, shading language 4.50
+20:23:00.385: ---------------------------------
+20:23:00.385: video settings reset:
+20:23:00.385: 	base resolution:   1366x768
+20:23:00.385: 	output resolution: 1280x720
+20:23:00.385: 	downscale filter:  Lanczos
+20:23:00.385: 	fps:               60/1
+20:23:00.385: 	format:            NV12
+20:23:00.385: 	YUV mode:          sRGB/Full
+20:23:00.386: NV12 texture support not available
+20:23:00.388: Audio monitoring device:
+20:23:00.388: 	name: Default
+20:23:00.388: 	id: default
+20:23:00.389: ---------------------------------
+20:23:00.393: Failed to load 'en-US' text for module: 'decklink-captions.so'
+20:23:00.399: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+20:23:00.864: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+20:23:00.864: No blackmagic support
+20:23:00.887: v4l2loopback not installed, virtual camera disabled
+20:23:00.907: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+20:23:00.907: 
+20:23:00.907: FFMPEG VAAPI supported
+20:23:00.940: os_dlopen(libvlc.so.5->libvlc.so.5): libvlc.so.5: cannot open shared object file: No such file or directory
+20:23:00.940: 
+20:23:00.940: Couldn't find VLC installation, VLC video source disabled
+20:23:00.940: ---------------------------------
+20:23:00.940:   Loaded Modules:
+20:23:00.940:     vlc-video.so
+20:23:00.940:     text-freetype2.so
+20:23:00.940:     rtmp-services.so
+20:23:00.940:     obs-x264.so
+20:23:00.940:     obs-transitions.so
+20:23:00.940:     obs-outputs.so
+20:23:00.940:     obs-libfdk.so
+20:23:00.940:     obs-filters.so
+20:23:00.940:     obs-ffmpeg.so
+20:23:00.941:     linux-v4l2.so
+20:23:00.941:     linux-pulseaudio.so
+20:23:00.941:     linux-jack.so
+20:23:00.941:     linux-decklink.so
+20:23:00.941:     linux-capture.so
+20:23:00.941:     linux-alsa.so
+20:23:00.941:     image-source.so
+20:23:00.941:     frontend-tools.so
+20:23:00.941:     decklink-ouput-ui.so
+20:23:00.941:     decklink-captions.so
+20:23:00.941: ---------------------------------
+20:23:00.941: ==== Startup complete ===============================================
+20:23:00.959: All scene data cleared
+20:23:00.959: ------------------------------------------------
+20:23:00.990: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.21) 14.0.0'
+20:23:00.991: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+20:23:00.991: pulse-input: Started recording from 'alsa_output.pci-0000:00:14.2.analog-stereo.monitor'
+20:23:00.991: [Loaded global audio device]: 'Desktop Audio'
+20:23:00.996: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.21) 14.0.0'
+20:23:00.997: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+20:23:00.998: pulse-input: Started recording from 'alsa_output.pci-0000:00:14.2.analog-stereo.monitor'
+20:23:00.998: [Loaded global audio device]: 'Desktop Audio 2'
+20:23:01.001: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.21) 14.0.0'
+20:23:01.002: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+20:23:01.002: pulse-input: Started recording from 'alsa_input.pci-0000:00:14.2.analog-stereo'
+20:23:01.002: [Loaded global audio device]: 'Mic/Aux'
+20:23:01.004: xshm-input: Geometry 1366x768 @ 0,0
+20:23:01.010: Switched to scene 'Scene'
+20:23:01.011: ------------------------------------------------
+20:23:01.011: Loaded scenes:
+20:23:01.011: - scene 'Scene':
+20:23:01.013:     - source: 'Screen Capture (XSHM)' (xshm_input)
+20:23:01.013: ------------------------------------------------
+20:23:01.571: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+20:23:01.571: 
+20:23:02.027: adding 277 milliseconds of audio buffering, total audio buffering is now 320 milliseconds (source: Mic/Aux)
+20:23:02.027: 
+20:23:04.646: adding 106 milliseconds of audio buffering, total audio buffering is now 426 milliseconds (source: Mic/Aux)
+20:23:04.646: 
+20:23:07.070: adding 170 milliseconds of audio buffering, total audio buffering is now 597 milliseconds (source: Desktop Audio 2)
+20:23:07.070: 
+20:23:09.876: adding 64 milliseconds of audio buffering, total audio buffering is now 661 milliseconds (source: Desktop Audio 2)
+20:23:09.876: 
+20:23:10.659: adding 128 milliseconds of audio buffering, total audio buffering is now 789 milliseconds (source: Desktop Audio 2)
+20:23:10.659: 
+20:23:14.222: Max audio buffering reached!
+20:23:14.222: adding 170 milliseconds of audio buffering, total audio buffering is now 960 milliseconds (source: Desktop Audio 2)
+20:23:14.222: 
+20:23:17.312: pulse-input: Stopped recording from 'pulseeffects_source'
+20:23:17.312: pulse-input: Got 443 packets with 777160 frames
+20:23:17.314: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.21) 14.0.0'
+20:23:17.316: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+20:23:17.322: pulse-input: Started recording from 'pulseeffects_source'
+20:23:17.324: Settings changed (audio)
+20:23:17.324: ------------------------------------------------
+20:23:45.480: pulse-input: Stopped recording from 'alsa_input.pci-0000:00:14.2.analog-stereo'
+20:23:45.481: pulse-input: Got 1047 packets with 1350628 frames
+20:23:45.483: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.21) 14.0.0'
+20:23:45.485: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+20:23:45.488: pulse-input: Started recording from 'alsa_input.pci-0000:00:14.2.analog-stereo'
+20:23:46.175: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.21) 14.0.0'
+20:23:46.175: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+20:23:46.176: pulse-input: Started recording from 'pulseeffects_source'
+20:23:46.193: Settings changed (audio)
+20:23:46.194: ------------------------------------------------
+20:25:34.326: ---------------------------------
+20:25:34.326: [FFMPEG VAAPI encoder: 'recording_h264'] settings:
+20:25:34.326: 	device:       /dev/dri/renderD128
+20:25:34.326: 	rate_control: CBR
+20:25:34.326: 	profile:      578
+20:25:34.326: 	level:        40
+20:25:34.326: 	qp:           0
+20:25:34.326: 	bitrate:      2500
+20:25:34.326: 	maxrate:      2500
+20:25:34.326: 	keyint:       120
+20:25:34.326: 	width:        1280
+20:25:34.326: 	height:       720
+20:25:34.326: 	b-frames:     0
+20:25:34.326: 
+20:25:34.411: libfdk_aac encoder created
+20:25:34.411: libfdk_aac bitrate: 160, channels: 2
+20:25:34.422: ==== Recording Start ===============================================
+20:25:34.422: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/neo64yt/Videos/2021-02-13 20-25-34.mkv'...
+20:26:22.913: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/neo64yt/Videos/2021-02-13 20-25-34.mkv' stopped
+20:26:22.913: Output 'adv_file_output': stopping
+20:26:22.913: Output 'adv_file_output': Total frames output: 2845
+20:26:22.913: Output 'adv_file_output': Total drawn frames: 562 (2911 attempted)
+20:26:22.913: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 2349 (80.7%)
+20:26:22.914: ==== Recording Stop ================================================
+20:26:22.919: libfdk_aac encoder destroyed
+20:27:13.705: pulse-input: Stopped recording from 'default'
+20:27:13.707: pulse-input: Got 3785 packets with 9965484 frames
+20:27:13.709: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.21) 14.0.0'
+20:27:13.710: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+20:27:13.710: pulse-input: Started recording from 'alsa_input.pci-0000:00:14.2.analog-stereo'
+20:27:13.715: Settings changed (audio)
+20:27:13.715: ------------------------------------------------
+20:27:13.797: pulse-input: Stopped recording from 'pulseeffects_source'
+20:27:13.798: pulse-input: Got 5090 packets with 9961388 frames
+20:29:07.388: ==== Shutting down ==================================================
+20:29:07.482: pulse-input: Stopped recording from 'alsa_output.pci-0000:00:14.2.analog-stereo.monitor'
+20:29:07.482: pulse-input: Got 10378 packets with 17579864 frames
+20:29:07.483: pulse-input: Stopped recording from 'alsa_output.pci-0000:00:14.2.analog-stereo.monitor'
+20:29:07.483: pulse-input: Got 10421 packets with 17576764 frames
+20:29:07.484: pulse-input: Stopped recording from 'alsa_input.pci-0000:00:14.2.analog-stereo'
+20:29:07.484: pulse-input: Got 2890 packets with 5455788 frames
+20:29:07.490: All scene data cleared
+20:29:07.490: ------------------------------------------------
+20:29:07.511: Failed to fetch parent window geometry!
+20:29:07.514: Failed to fetch parent window geometry!

@@ -1,0 +1,41 @@
+00:00:00.000747 main     VirtualBox XPCOM Server 6.1.18 r142142 linux.amd64 (Jan 20 2021 06:48:10) release log
+00:00:00.000756 main     Log opened 2021-02-14T04:44:34.047075000Z
+00:00:00.000759 main     Build Type: release
+00:00:00.000765 main     OS Product: Linux
+00:00:00.000769 main     OS Release: 5.10.16-zen1-1-zen
+00:00:00.000773 main     OS Version: #1 ZEN SMP PREEMPT Sat, 13 Feb 2021 20:51:02 +0000
+00:00:00.000845 main     DMI Product Name: 905S3G/906S3G/915S3G
+00:00:00.000888 main     DMI Product Version: P03RBV
+00:00:00.000908 main     Firmware type: UEFI
+00:00:00.001244 main     Secure Boot: Disabled
+00:00:00.001374 main     Host RAM: 3368MB (3.2GB) total, 2852MB (2.7GB) available
+00:00:00.001386 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001388 main     Process ID: 1721
+00:00:00.001390 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.006013 main     IPC socket path: /tmp/.vbox-neo64yt-ipc/ipcd
+00:00:00.124975 nspr-2   VirtualBox: object creation starts
+00:00:00.125298 nspr-2   Home directory: '/home/neo64yt/.config/VirtualBox'
+00:00:00.125967 nspr-2   Loading settings file "/home/neo64yt/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.140191 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.154352 nspr-2   HostDnsMonitor: initializing
+00:00:00.154856 nspr-2   NAT: resolv.conf: nameserver 192.168.0.1
+00:00:00.154895 nspr-2   HostDnsMonitor: updating information
+00:00:00.154933 nspr-2   HostDnsMonitor: old information
+00:00:00.154947 nspr-2     no server entries
+00:00:00.154958 nspr-2     no domain set
+00:00:00.154968 nspr-2     no search string entries
+00:00:00.154979 nspr-2   HostDnsMonitor: new information
+00:00:00.154989 nspr-2     server 1: 192.168.0.1
+00:00:00.155001 nspr-2     no domain set
+00:00:00.155011 nspr-2     no search string entries
+00:00:00.162005 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.162265 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.164344 nspr-2   VirtualBox: object created
+00:00:07.590643 nspr-3   Saving settings file "/home/neo64yt/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:07.634181 nspr-2   Saving settings file "/home/neo64yt/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:13.211499 main     VirtualBox: object deletion starts
+00:00:13.212737 main     HostDnsMonitor: shutting down ...
+00:00:13.216970 main     HostDnsMonitor: shut down
+00:00:13.671145 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:18.217392 main     {00007ff528020790} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:18.218302 main     VirtualBox: object deleted
