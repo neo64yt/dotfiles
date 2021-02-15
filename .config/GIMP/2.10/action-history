@@ -1,8 +1,8 @@
 # GIMP action-history
 
-(history-item "file-open-as-layers" 5)
-(history-item "file-open" 2)
-(history-item "image-new" 1)
+(history-item "file-open-as-layers" 3)
+(history-item "file-open" 0)
+(history-item "image-new" 4)
 (history-item "edit-clear" 3)
 (history-item "file-quit" 4)
 (history-item "windows-tab-position" 0)

@@ -10,6 +10,7 @@ picom --experimental-backend &
 /usr/bin/dunst &
 spacefm -d &
 $LOCK &
+xscreensaver -no-splash &
 devmon &
 usbmuxd --udev &
 

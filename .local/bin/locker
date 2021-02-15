@@ -1,7 +1,4 @@
 #!/bin/sh
 
 # Just a simple script for locking screen
-
-notify-send -u low -i emblem-locked "Lock Screen" "This screen will be locked"
-sleep 5s
-slock -m "$(cowsay "$(whoami)'s current session was locked at $(date "+%a %d, %H:%M:%S")")" 
+xscreensaver-command -lock

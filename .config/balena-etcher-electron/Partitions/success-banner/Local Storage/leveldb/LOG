@@ -1,3 +1,3 @@
-2021/01/13-12:11:10.493 670 Reusing MANIFEST /home/neo64yt/.config/balena-etcher-electron/Partitions/success-banner/Local Storage/leveldb/MANIFEST-000001
-2021/01/13-12:11:10.494 670 Recovering log #3
-2021/01/13-12:11:10.494 670 Reusing old log /home/neo64yt/.config/balena-etcher-electron/Partitions/success-banner/Local Storage/leveldb/000003.log 
+2021/02/14-17:55:58.731 ecba Reusing MANIFEST /home/neo64yt/.config/balena-etcher-electron/Partitions/success-banner/Local Storage/leveldb/MANIFEST-000001
+2021/02/14-17:55:58.731 ecba Recovering log #3
+2021/02/14-17:55:58.732 ecba Reusing old log /home/neo64yt/.config/balena-etcher-electron/Partitions/success-banner/Local Storage/leveldb/000003.log 

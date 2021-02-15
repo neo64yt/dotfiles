@@ -28,7 +28,7 @@ export GUI_EDITOR="nvim-qt"
 export TERMINAL="alacritty"
 export BROWSER="chromium"
 export EMAIL_CLIENT="geary"
-export OFFICE_SUITE="LibreOffice-7.0.3-x86_64.AppImage"
+export OFFICE_SUITE="OnlyOffice-x86_64.AppImage"
 export MEDIA_PLAYER="mpv"
 export MUSIC_PLAYER="deadbeef"
 

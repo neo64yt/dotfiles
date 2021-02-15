@@ -9,14 +9,14 @@ show_thumbnail=1
 use_si_prefix=1
 
 [Window]
-width=613
+width=1364
 height=706
 maximized=0
 
 [Desktop]
 desk_open_mime=1
 bg1=4656,4125,12014
-bg2=56104,4994,0
+bg2=37099,8976,0
 text=65535,65535,65535
 shadow=0,0,0
 
@@ -141,7 +141,7 @@ task_pop_all-b=2
 task_pop_top-s=613
 task_pop_top-x=613
 task_pop_top-y=354
-task_pop_top-z=710
+task_pop_top-z=706
 task_pop_top-b=2
 task_pop_above-b=2
 task_pop_stick-b=2
@@ -165,8 +165,8 @@ arc_def_ex-b=1
 arc_def_parent-b=1
 arc_def_write-b=1
 arc_conf2-s=hand_arc_+7z hand_arc_+rar hand_arc_+tar hand_arc_+tar_bz2 hand_arc_+tar_gz hand_arc_+tar_xz hand_arc_+zip hand_arc_+gz hand_arc_+xz
-arc_conf2-x=747
-arc_conf2-y=380
+arc_conf2-x=753
+arc_conf2-y=417
 new_file-key=70
 new_file-keymod=5
 new_folder-key=102
