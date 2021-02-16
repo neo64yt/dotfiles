@@ -1,3 +1,5 @@
 #!/bin/sh
 
 xss-lock -- $LOCKER
+xautolock -detectsleep -time 10 -locker "loginctl lock-session" -notifier notify-send -notify 10 
+

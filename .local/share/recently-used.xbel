@@ -3,12 +3,12 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/neo64yt/Downloads" added="2020-12-09T00:07:05.368615Z" modified="2021-02-09T01:35:21.800928Z" visited="2020-12-09T00:07:05.368620Z">
+  <bookmark href="file:///home/neo64yt/Downloads" added="2020-12-09T00:07:05.368615Z" modified="2021-02-16T08:41:55.722340Z" visited="2020-12-09T00:07:05.368620Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2021-02-09T01:35:21.800918Z" count="22"/>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2021-02-16T08:41:55.722331Z" count="23"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1077,6 +1077,17 @@
         <bookmark:applications>
           <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-02-14T16:05:22.913369Z" count="3"/>
           <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-02-14T16:12:41.436935Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Downloads/nightlight-white-48dp.zip" added="2021-02-16T08:41:44.427798Z" modified="2021-02-16T08:41:49.525905Z" visited="2021-02-16T08:41:44.427802Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-02-16T08:41:44.427813Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-02-16T08:41:49.525895Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

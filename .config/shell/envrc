@@ -18,7 +18,7 @@ export SETTINGS_MGR="set-mgr"
 export POWER_MGR="power"
 
 ## UTILITY SCRIPTS ##
-export LOCKER="locker"
+export LOCKER="xsecurelock"
 export LOCK="lock" 
 export SCREENSHOOTER="screenshot"
 
@@ -43,3 +43,15 @@ export POWER="xfce4-power-manager-settings" # Power
 export AUDIO="pavucontrol" # Audio
 export GUI_PACK="pamac-manager" # Package manager
 export PRINT="system-config-printer" # Printer
+
+## XSECURELOCK SETTINGS ##
+export XSECURELOCK_PASSWORD_PROMPT="cursor"
+export XSECURELOCK_FONT="JetBrains Mono:size=15"
+export XSECURELOCK_SWITCH_USER_COMMAND="dm-tool switch-to-greeter"
+export XSECURELOCK_COMPOSITE_OBSCURER="0"
+export XSECURELOCK_SHOW_DATETIME="1"
+export XSECURELOCK_SHOW_HOSTNAME="2"
+export XSECURELOCK_AUTH_CURSOR_BLINK="1"
+export XSECURELOCK_AUTH_SOUNDS="1"
+
+## EOF ##

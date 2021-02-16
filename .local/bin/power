@@ -9,11 +9,12 @@ height=35
 prompt="󰐦 Session manager:"
 
 # Command
-choice=$(printf "󰐥 Shutdown\n󰜉 Restart\n󰍁 Lock\n󰍃 Log out\n" | dmenu -l $lines -bw $border -h $height -p "$prompt" -c )
+choice=$(printf "󰐥 Shutdown\n󰜉 Restart\n󰽥 Suspend\n󰍁 Lock\n󰍃 Log out\n" | dmenu -l $lines -bw $border -h $height -p "$prompt" -c )
 
 case "$choice" in
   "󰐥 Shutdown") sudo poweroff ;;
   "󰜉 Restart") sudo reboot ;;
+  "󰽥 Suspend") suspend-notify ;;
   "󰍁 Lock") $LOCKER ;;
   "󰍃 Log out") sh $SESSION_KILLER ;;
 esac

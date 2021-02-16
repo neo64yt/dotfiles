@@ -9,7 +9,7 @@ show_thumbnail=1
 use_si_prefix=1
 
 [Window]
-width=1364
+width=613
 height=706
 maximized=0
 
@@ -136,7 +136,7 @@ task_show_manager-x=177
 task_show_manager-b=2
 task_hide_manager-b=1
 task_popups-s=600
-task_popups-z=272
+task_popups-z=276
 task_pop_all-b=2
 task_pop_top-s=613
 task_pop_top-x=613
@@ -364,7 +364,7 @@ panel1_detcol_owner0-b=2
 panel1_detcol_date0-b=2
 panel1_slider_positions0-s=0
 panel1_slider_positions0-x=191
-panel1_slider_positions0-y=173
+panel1_slider_positions0-y=163
 panel1_tool_l-child=cstm_5a3097f9
 cstm_5a3097f9-next=cstm_2c17cadd
 cstm_5a3097f9-tool=2

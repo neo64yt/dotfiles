@@ -13,6 +13,5 @@
 /usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME add $HOME/.zshrc
 /usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME add $HOME/README.md
 /usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME add $HOME/.gitignore
-/usr/bin/git --git-dir=$HOME/git-src/dotfiles/ --work-tree=$HOME add $HOME/.xscreensaver
 
 # Changes must be manually commited

@@ -1,4 +1,0 @@
-#!/bin/sh
-
-# Just a simple script for locking screen
-xscreensaver-command -lock
