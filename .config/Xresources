@@ -1,3 +1,2 @@
 /* The main Xresources file */
 #include "Xresources.d/sxiv"
-#include "Xresources.d/xscreensaver"

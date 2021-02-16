@@ -10,3 +10,5 @@
 .config/onlyoffice/
 .local/share/onlyoffice/
 .config/systemd/
+.local/share/TelegramDesktop/
+.local/share/lutris/
