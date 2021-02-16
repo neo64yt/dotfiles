@@ -24,7 +24,6 @@ export SCREENSHOOTER="screenshot"
 
 ## DEFAULT APPS (For preferred apps menu) ##
 export GUI_FILE_MANAGER="spacefm"
-export GUI_EDITOR="nvim-qt"
 export TERMINAL="alacritty"
 export BROWSER="chromium"
 export EMAIL_CLIENT="geary"

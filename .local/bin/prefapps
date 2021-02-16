@@ -7,12 +7,11 @@ height=35
 prompt="󰩴 Preferred applications:"
 
 # Command
-choice=$(printf "󰆍 Terminal\n󰪶 File manager\n󱇨 Editor\n󰆌 Web browser\n󰴃 Email\n󱔘 Office suite\n󰐋 Media\n󰫔 Music\n" | dmenu -l $lines -bw $border -h $height -p "$prompt" -c )
+choice=$(printf "󰆍 Terminal\n󰪶 File manager\n󰆌 Web browser\n󰴃 Email\n󱔘 Office suite\n󰐋 Media\n󰫔 Music\n" | dmenu -l $lines -bw $border -h $height -p "$prompt" -c )
 
 case "$choice" in
   "󰆍 Terminal") $TERMINAL ;;
   "󰪶 File manager") $GUI_FILE_MANAGER ;;
-  "󱇨 Editor") $GUI_EDITOR ;;
   "󰆌 Web browser") $BROWSER ;;
   "󰴃 Email") $EMAIL_CLIENT ;;
   "󱔘 Office suite") $OFFICE_SUITE ;;
