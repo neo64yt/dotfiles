@@ -87,16 +87,6 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/bin/kdenlive-20.12.1-x86_64.appimage" added="2021-01-14T13:37:50.757919Z" modified="2021-01-17T04:41:20.748958Z" visited="2021-01-14T13:37:50.757923Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.appimage"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-17T04:41:20.748946Z" count="4"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///home/neo64yt/Music/The%20Complex.mp3" added="2021-01-17T23:25:25.814873Z" modified="2021-01-17T23:25:25.814903Z" visited="2021-01-17T23:25:25.814877Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -1088,6 +1078,20 @@
         <bookmark:applications>
           <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-02-16T08:41:44.427813Z" count="1"/>
           <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-02-16T08:41:49.525895Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/init.jpg" added="2021-02-17T04:49:12.296321Z" modified="2021-02-17T05:05:02.891330Z" visited="2021-02-17T04:49:12.296325Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-02-17T05:05:02.891321Z" count="3"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-02-17T05:04:07.731221Z" count="9"/>
         </bookmark:applications>
       </metadata>
     </info>
