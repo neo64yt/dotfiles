@@ -12,7 +12,7 @@
 (session-info "toplevel"
     (factory-entry "gimp-single-image-window")
     (position 0 30)
-    (size 1364 716)
+    (size 1364 706)
     (open-on-exit)
     (aux-info
         (left-docks-width "245")
@@ -21,7 +21,7 @@
     (gimp-toolbox
         (side left)
         (book
-            (current-page 0)
+            (current-page 2)
             (dockable "gimp-tool-options"
                 (tab-style automatic)
                 (aux-info
@@ -41,7 +41,7 @@
     (gimp-dock
         (side right)
         (book
-            (current-page 4)
+            (current-page 3)
             (dockable "gimp-brush-grid"
                 (tab-style automatic)
                 (aux-info

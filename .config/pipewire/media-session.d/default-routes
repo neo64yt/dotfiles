@@ -1,0 +1,5 @@
+{ 
+ "default.route.alsa_card.pci-0000:00:14.2:profile:output:analog-stereo+input:analog-stereo": [ ]
+ "default.route.alsa_card.pci-0000:00:14.2:input:analog-input-mic": { "mute": false, "volumes": [ 0.020685, 0.020685 ], "channels": [ "FL", "FR" ] }
+ "default.route.alsa_card.pci-0000:00:14.2:output:analog-output-headphones": { "mute": false, "volumes": [ 0.399992, 0.399992 ], "channels": [ "FL", "FR" ] }
+}

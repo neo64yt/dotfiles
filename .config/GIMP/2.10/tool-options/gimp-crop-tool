@@ -1,7 +1,7 @@
 # GIMP gimp-crop-tool options
 
-(aspect-denominator 210)
-(aspect-numerator 365)
+(aspect-denominator 368)
+(aspect-numerator 636)
 (allow-growing yes)
 
 # end of gimp-crop-tool options

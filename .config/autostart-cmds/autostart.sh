@@ -12,8 +12,9 @@ spacefm -d &
 $LOCK &
 devmon &
 usbmuxd --udev &
-cbatticon &
+xrdb -merge $XDG_CONFIG_HOME/Xresources &
 
 # Systray
+(sleep 3s && cbatticon) &
 (sleep 3s && mictray) &
 (sleep 3s && pnmixer) &
