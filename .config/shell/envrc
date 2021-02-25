@@ -14,7 +14,8 @@ export STARSHIP_CONFIG="$XDG_CONFIG_HOME/shell/starship.toml" # Starship configu
 export MANPAGER="nvim -c 'set ft=man'" # Use Neovim as manpager
 
 ## DMENU SCRIPTS ##
-export STARTPROMPT="startprompt"
+export STARTMENU="xdg-xmenu-launch"
+export QUICKMENU="quickmenu"
 export SETTINGS_MGR="set-mgr"
 export POWER_MGR="power"
 
@@ -38,6 +39,7 @@ export USER_INFO="mugshot" # Account
 export LOGIN="lightdm-gtk-greeter-settings" # Login screen
 export RANDR="lxrandr" # Display
 export NM_EDITOR="nm-connection-editor" # Network
+export BLUETOOTH="blueman-manager" # Bluetooth 
 export INPUT="lxinput" # Input devices
 export POWER="xfce4-power-manager-settings" # Power
 export AUDIO="pavucontrol" # Audio

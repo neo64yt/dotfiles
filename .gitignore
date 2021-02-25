@@ -12,3 +12,5 @@
 .config/systemd/
 .local/share/TelegramDesktop/
 .local/share/lutris/
+.config/olivevideoeditor.org/
+.local/share/olivevideoeditor.org/

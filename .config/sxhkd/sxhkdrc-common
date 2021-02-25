@@ -10,9 +10,9 @@ super + shift + Return
 super + r
 	apps
 
-# start prompt
+# quick menu
 super + space
-	$STARTPROMPT
+	$QUICKMENU
 
 # run prompt
 super + p

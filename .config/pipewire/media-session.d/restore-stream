@@ -6,4 +6,24 @@
  "restore.stream.Output/Audio.application.name:telegram-desktop": { "volume": 1.000000, "mute": false }
  "restore.stream.Input/Audio.application.name:telegram-desktop": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
  "restore.stream.Output/Audio.application.name:IceCat": { "volume": 1.000000, "mute": false }
+ "restore.stream.Output/Audio.application.name:QtPulseAudio:82406": { "volume": 1.000000, "mute": false }
+ "restore.stream.Output/Audio.application.name:QtPulseAudio:82630": { "volume": 1.000000, "mute": false }
+ "restore.stream.Output/Audio.application.name:QtPulseAudio:82729": { "volume": 1.000000, "mute": false }
+ "restore.stream.Output/Audio.application.name:QtPulseAudio:83078": { "volume": 1.000000, "mute": false }
+ "restore.stream.Output/Audio.application.name:QtPulseAudio:83189": { "volume": 1.000000, "mute": false }
+ "restore.stream.Output/Audio.application.name:QtPulseAudio:99108": { "volume": 1.000000, "mute": false }
+ "restore.stream.Output/Audio.application.name:QtPulseAudio:100032": { "volume": 1.000000, "mute": false }
+ "restore.stream.Input/Audio.media.role:Production": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
+ "restore.stream.Output/Audio.application.name:mpv": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
+ "restore.stream.Output/Audio.application.name:QtPulseAudio:111405": { "volume": 1.000000, "mute": false }
+ "restore.stream.Output/Audio.application.name:QtPulseAudio:125345": { "volume": 1.000000, "mute": false }
+ "restore.stream.Output/Audio.application.name:QtPulseAudio:146162": { "volume": 1.000000, "mute": false }
+ "restore.stream.Output/Audio.application.name:QtPulseAudio:146256": { "volume": 1.000000, "mute": false }
+ "restore.stream.Output/Audio.application.name:QtPulseAudio:156920": { "volume": 1.000000, "mute": false }
+ "restore.stream.Output/Audio.application.name:QtPulseAudio:157358": { "volume": 1.000000, "mute": false }
+ "restore.stream.Output/Audio.application.name:QtPulseAudio:157459": { "volume": 1.000000, "mute": false }
+ "restore.stream.Input/Audio.application.name:PulseAudio Volume Control": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000 ], "channels": [ "MONO" ] }
+ "restore.stream.Output/Audio.media.role:Notification": { "volume": 1.000000, "mute": false }
+ "restore.stream.Output/Audio.application.name:QtPulseAudio:68031": { "volume": 1.000000, "mute": false }
+ "restore.stream.Output/Audio.application.name:QtPulseAudio:69452": { "volume": 1.000000, "mute": false }
 }

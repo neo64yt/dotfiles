@@ -13,6 +13,8 @@ $LOCK &
 devmon &
 usbmuxd --udev &
 xrdb -merge $XDG_CONFIG_HOME/Xresources &
+xdg-xmenu-gen &
+xclickroot -r $STARTMENU &
 
 # Systray
 (sleep 3s && cbatticon) &

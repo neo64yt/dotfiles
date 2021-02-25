@@ -4,7 +4,7 @@
 lines=10
 border=3
 height=35
-prompt="󱍕 Select a prompt to run:"
+prompt="󱍕 Quick access:"
 
 # Scripts
 appmenu="apps"

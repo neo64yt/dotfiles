@@ -61,71 +61,6 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Pictures/pepe.png" added="2021-01-20T07:11:45.361160Z" modified="2021-01-23T08:14:48.518321Z" visited="2021-01-20T07:11:45.361165Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-20T07:11:45.361176Z" count="1"/>
-          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-01-20T08:24:35.667660Z" count="13"/>
-          <bookmark:application name="signal-desktop" exec="&apos;signal-desktop %u&apos;" modified="2021-01-23T08:14:48.518310Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Pictures/pepe-censored.png" added="2021-01-20T08:27:42.491224Z" modified="2021-01-23T08:15:01.948241Z" visited="2021-01-20T08:27:42.491228Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-01-20T08:28:07.589222Z" count="4"/>
-          <bookmark:application name="signal-desktop" exec="&apos;signal-desktop %u&apos;" modified="2021-01-23T08:15:01.948232Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Videos/yt-outro.mp4" added="2021-01-22T13:35:47.648711Z" modified="2021-01-22T13:35:47.648733Z" visited="2021-01-22T13:35:47.648713Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="video/mp4"/>
-        <bookmark:applications>
-          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:35:47.648721Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Pictures/dwm-ruby.png" added="2021-01-23T02:45:08.708972Z" modified="2021-01-23T02:45:09.723422Z" visited="2021-01-23T02:45:08.708975Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-01-23T02:45:09.723411Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/neo64yt/Pictures/neointhevoid.png" added="2021-01-23T02:47:54.354621Z" modified="2021-01-23T06:28:56.198928Z" visited="2021-01-23T02:47:54.354624Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-01-23T06:28:56.198916Z" count="11"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///home/neo64yt/Documents/science-chapter-8.pdf" added="2021-01-25T00:19:58.437403Z" modified="2021-01-25T00:19:58.437433Z" visited="2021-01-25T00:19:58.437407Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -900,13 +835,14 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/neo64yt/Videos/math-cny.mp4" added="2021-02-14T16:02:42.238223Z" modified="2021-02-14T16:12:41.436970Z" visited="2021-02-14T16:02:42.238225Z">
+  <bookmark href="file:///home/neo64yt/Videos/math-cny.mp4" added="2021-02-14T16:02:42.238223Z" modified="2021-02-23T12:08:37.323957Z" visited="2021-02-14T16:02:42.238225Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="video/mp4"/>
         <bookmark:applications>
           <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-02-14T16:05:22.913369Z" count="3"/>
           <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-02-14T16:12:41.436935Z" count="1"/>
+          <bookmark:application name="olive-editor" exec="&apos;olive-editor %u&apos;" modified="2021-02-23T12:08:37.323937Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1067,6 +1003,166 @@
         <bookmark:applications>
           <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-02-21T08:03:16.110283Z" count="2"/>
           <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-02-21T08:01:02.805328Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/robot.jpg" added="2021-02-22T13:40:18.216256Z" modified="2021-02-22T13:40:18.216296Z" visited="2021-02-22T13:40:18.216263Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-02-22T13:40:18.216274Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/rpi.jpeg" added="2021-02-22T14:22:57.081757Z" modified="2021-02-22T14:22:57.081795Z" visited="2021-02-22T14:22:57.081763Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-02-22T14:22:57.081775Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Pictures/cloud.png" added="2021-02-22T14:40:04.613585Z" modified="2021-02-22T14:41:10.762228Z" visited="2021-02-22T14:40:04.613588Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-02-22T14:41:10.762209Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Documents/rbt-ir-4.0.pptx" added="2021-02-22T15:16:04.177349Z" modified="2021-02-22T15:16:04.177368Z" visited="2021-02-22T15:16:04.177352Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-02-22T15:16:04.177358Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Videos/yt-outro.mp4" added="2021-02-23T07:58:19.810849Z" modified="2021-02-24T06:01:43.019381Z" visited="2021-02-23T07:58:19.810856Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="olive-editor" exec="&apos;olive-editor %u&apos;" modified="2021-02-24T06:01:43.019360Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Music/The%20Complex.mp3" added="2021-02-23T08:01:55.828738Z" modified="2021-02-23T12:15:01.036740Z" visited="2021-02-23T08:01:55.828743Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="olive-editor" exec="&apos;olive-editor %u&apos;" modified="2021-02-23T12:15:01.036723Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Videos/2021-02-23%2016-19-25.mkv" added="2021-02-23T08:20:35.998605Z" modified="2021-02-23T12:14:51.193318Z" visited="2021-02-23T08:20:35.998611Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="olive-editor" exec="&apos;olive-editor %u&apos;" modified="2021-02-23T12:14:51.193300Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Videos/outro" added="2021-02-23T08:31:51.624793Z" modified="2021-02-23T10:03:57.144088Z" visited="2021-02-23T08:31:51.624797Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="olive-editor" exec="&apos;olive-editor %u&apos;" modified="2021-02-23T10:03:57.144073Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Videos/outro.ove" added="2021-02-23T11:10:49.959575Z" modified="2021-02-23T12:53:16.424293Z" visited="2021-02-23T11:10:49.959580Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.olive-project"/>
+        <bookmark:applications>
+          <bookmark:application name="olive-editor" exec="&apos;olive-editor %u&apos;" modified="2021-02-23T12:53:16.424283Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Videos/outro.mp4" added="2021-02-23T11:12:16.800230Z" modified="2021-02-23T11:12:16.800268Z" visited="2021-02-23T11:12:16.800236Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="olive-editor" exec="&apos;olive-editor %u&apos;" modified="2021-02-23T11:12:16.800246Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Videos/rickroll.mp4" added="2021-02-23T11:55:52.113994Z" modified="2021-02-23T11:58:50.312142Z" visited="2021-02-23T11:55:52.113997Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="olive-editor" exec="&apos;olive-editor %u&apos;" modified="2021-02-23T11:58:50.312127Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Videos/rektroll" added="2021-02-23T11:56:45.104050Z" modified="2021-02-23T11:56:45.104067Z" visited="2021-02-23T11:56:45.104053Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="olive-editor" exec="&apos;olive-editor %u&apos;" modified="2021-02-23T11:56:45.104058Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Videos/rektroll.mp4" added="2021-02-23T12:00:17.165824Z" modified="2021-02-23T12:00:17.165850Z" visited="2021-02-23T12:00:17.165829Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="olive-editor" exec="&apos;olive-editor %u&apos;" modified="2021-02-23T12:00:17.165836Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Videos/test-olive" added="2021-02-23T12:11:41.711065Z" modified="2021-02-23T12:11:41.711098Z" visited="2021-02-23T12:11:41.711070Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="olive-editor" exec="&apos;olive-editor %u&apos;" modified="2021-02-23T12:11:41.711081Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Videos/new-outro" added="2021-02-23T12:54:14.431206Z" modified="2021-02-23T12:54:14.431238Z" visited="2021-02-23T12:54:14.431210Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="olive-editor" exec="&apos;olive-editor %u&apos;" modified="2021-02-23T12:54:14.431221Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo64yt/Videos/new-outro.mp4" added="2021-02-23T13:12:44.989623Z" modified="2021-02-23T13:12:44.989642Z" visited="2021-02-23T13:12:44.989626Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-02-23T13:12:44.989632Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
