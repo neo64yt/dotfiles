@@ -22,5 +22,6 @@ sh $AUTOSTART &
 sxhkd -c $KEYBIND &
 hsetroot -center $XDG_DATA_HOME/backgrounds/neointhevoid.png &
 $stats &
+xclickroot -r $STARTMENU &
 
 ## EOF ##

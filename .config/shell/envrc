@@ -14,7 +14,7 @@ export STARSHIP_CONFIG="$XDG_CONFIG_HOME/shell/starship.toml" # Starship configu
 export MANPAGER="nvim -c 'set ft=man'" # Use Neovim as manpager
 
 ## DMENU SCRIPTS ##
-export STARTMENU="xdg-xmenu-launch"
+export STARTMENU="jgmenu_run"
 export QUICKMENU="quickmenu"
 export SETTINGS_MGR="set-mgr"
 export POWER_MGR="power"

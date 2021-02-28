@@ -17,7 +17,7 @@ hello | cowsay | lolcat
 alias rm="rm -ri" # Ask before deleting files recursively
 alias ls="ls -Al --color=auto" # List all files including hidden ones
 alias grep="grep --color=auto" # Grep
-alias clean-cache="rm -rf $XDG_CACHE_HOME/* && xdg-xmenu-gen" # Clean home directory cache
+alias clean-cache="rm -rf $XDG_CACHE_HOME/*" # Clean home directory cache
 alias cp="cp -r" # Copy files
 alias ..="cd .." # Go up 
 alias desktop="desktop-file-validate" # Validating .desktop files
