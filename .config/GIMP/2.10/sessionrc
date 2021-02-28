@@ -41,7 +41,7 @@
     (gimp-dock
         (side right)
         (book
-            (current-page 3)
+            (current-page 0)
             (dockable "gimp-brush-grid"
                 (tab-style automatic)
                 (aux-info

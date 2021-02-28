@@ -21,7 +21,7 @@ case "$choice" in
   "󰀻 Applications") $appmenu ;;
   "󰩴 Preferred applications") $apps ;;
   "󰆍 Run") $run ;;
-  "󰐦 Session manager") $session ;;
+  "󰐦 System") $session ;;
   "󰱨 Emojis") $emoji ;;
   "󰢻 Settings") $settings ;;
   "󰷖 Passwords") $password ;;

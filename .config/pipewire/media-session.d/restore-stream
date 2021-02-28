@@ -5,7 +5,7 @@
  "restore.stream.Input/Audio.application.name:LibreWolf": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
  "restore.stream.Output/Audio.application.name:telegram-desktop": { "volume": 1.000000, "mute": false }
  "restore.stream.Input/Audio.application.name:telegram-desktop": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
- "restore.stream.Output/Audio.application.name:IceCat": { "volume": 1.000000, "mute": false }
+ "restore.stream.Output/Audio.application.name:IceCat": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
  "restore.stream.Output/Audio.application.name:QtPulseAudio:82406": { "volume": 1.000000, "mute": false }
  "restore.stream.Output/Audio.application.name:QtPulseAudio:82630": { "volume": 1.000000, "mute": false }
  "restore.stream.Output/Audio.application.name:QtPulseAudio:82729": { "volume": 1.000000, "mute": false }
@@ -22,8 +22,13 @@
  "restore.stream.Output/Audio.application.name:QtPulseAudio:156920": { "volume": 1.000000, "mute": false }
  "restore.stream.Output/Audio.application.name:QtPulseAudio:157358": { "volume": 1.000000, "mute": false }
  "restore.stream.Output/Audio.application.name:QtPulseAudio:157459": { "volume": 1.000000, "mute": false }
- "restore.stream.Input/Audio.application.name:PulseAudio Volume Control": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000 ], "channels": [ "MONO" ] }
+ "restore.stream.Input/Audio.application.name:PulseAudio Volume Control": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
  "restore.stream.Output/Audio.media.role:Notification": { "volume": 1.000000, "mute": false }
  "restore.stream.Output/Audio.application.name:QtPulseAudio:68031": { "volume": 1.000000, "mute": false }
  "restore.stream.Output/Audio.application.name:QtPulseAudio:69452": { "volume": 1.000000, "mute": false }
+ "restore.stream.Output/Audio.application.name:QtPulseAudio:2051": { "volume": 1.000000, "mute": false }
+ "restore.stream.Input/Audio.application.name:IceCat": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
+ "restore.stream.Output/Audio.application.name:florence": { "volume": 1.000000, "mute": false }
+ "restore.stream.Output/Audio.application.name:Firefox": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
+ "restore.stream.Input/Audio.application.name:Firefox": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
 }

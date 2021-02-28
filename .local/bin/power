@@ -6,7 +6,7 @@
 lines=5
 border=3
 height=35
-prompt="󰐦 Session manager:"
+prompt="󰐦 System ($(uptime -p)):"
 
 # Command
 choice=$(printf "󰐥 Shutdown\n󰜉 Restart\n󰽥 Suspend\n󰍁 Lock\n󰍃 Log out\n" | dmenu -l $lines -bw $border -h $height -p "$prompt" -c )

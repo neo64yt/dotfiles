@@ -6,7 +6,7 @@
 lines=10
 border=3
 height=35
-prompt="󰢻 Settings:"
+prompt="󰢻 Settings for $(whoami):"
 
 # Command
 choice=$(printf "󰸌 Appearance\n󰿻 Account\n󰍁 Lock screen\n󰍂 Login screen\n󰍹 Display\n󰲝 Network\n󰂳 Bluetooth\n󰧺 Input devices\n󰐦 Power\n󰕾 Audio\n󰏗 Package manager\n󰜇 Printer\n󰌧 Autostart\n󰌧 WM autostart\n󰧺 Keybindings\n󰧺 WM keybindings\n" | dmenu -l $lines -bw $border -h $height -p "$prompt" -c )
