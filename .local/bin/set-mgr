@@ -9,7 +9,7 @@ height=35
 prompt="󰢻 Settings for $(whoami):"
 
 # Command
-choice=$(printf "󰸌 Appearance\n󰿻 Account\n󰍁 Lock screen\n󰍂 Login screen\n󰍹 Display\n󰲝 Network\n󰂳 Bluetooth\n󰧺 Input devices\n󰐦 Power\n󰕾 Audio\n󰏗 Package manager\n󰜇 Printer\n󰌧 Autostart\n󰌧 WM autostart\n󰧺 Keybindings\n󰧺 WM keybindings\n" | dmenu -l $lines -bw $border -h $height -p "$prompt" -c )
+choice=$(printf "󰸌 Appearance\n󰿻 Account\n󰍁 Lock screen\n󰍂 Login screen\n󰍹 Display\n󰲝 Network\n󰂳 Bluetooth\n󰧺 Input devices\n󰕾 Audio\n󰏗 Package manager\n󰜇 Printer\n󰌧 Autostart\n󰌧 WM autostart\n󰧺 Keybindings\n󰧺 WM keybindings\n" | dmenu -l $lines -bw $border -h $height -p "$prompt" -c )
 
 case "$choice" in
   "󰸌 Appearance") $STYLE ;;
@@ -20,7 +20,6 @@ case "$choice" in
   "󰲝 Network") $NM_EDITOR ;;
   "󰂳 Bluetooth") $BLUETOOTH ;;
   "󰧺 Input devices") $INPUT ;;
-  "󰐦 Power") $POWER ;;
   "󰕾 Audio") $AUDIO ;;
   "󰏗 Package manager") $GUI_PACK ;;
   "󰜇 Printer") $PRINT ;;

@@ -8,6 +8,7 @@
 
 # Ignore apps config
 .config/onlyoffice/
+.config/libreoffice/
 .local/share/onlyoffice/
 .config/systemd/
 .local/share/TelegramDesktop/

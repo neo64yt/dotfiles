@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=LibreOffice
+Comment=An open source office suite software
+Exec=LibreOffice-fresh.basic-x86_64.AppImage
+Icon=libreoffice
+Terminal=false
+Categories=Office;

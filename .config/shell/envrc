@@ -29,7 +29,7 @@ export GUI_FILE_MANAGER="spacefm"
 export TERMINAL="alacritty"
 export BROWSER="chromium"
 export EMAIL_CLIENT="geary"
-export OFFICE_SUITE="OnlyOffice-x86_64.AppImage"
+export OFFICE_SUITE="LibreOffice-fresh.basic-x86_64.AppImage"
 export MEDIA_PLAYER="mpv"
 export MUSIC_PLAYER="deadbeef"
 
@@ -41,13 +41,12 @@ export RANDR="lxrandr" # Display
 export NM_EDITOR="nm-connection-editor" # Network
 export BLUETOOTH="blueman-manager" # Bluetooth 
 export INPUT="lxinput" # Input devices
-export POWER="xfce4-power-manager-settings" # Power
 export AUDIO="pavucontrol" # Audio
 export GUI_PACK="pamac-manager" # Package manager
 export PRINT="system-config-printer" # Printer
 
 ## XSECURELOCK SETTINGS ##
-export XSECURELOCK_PASSWORD_PROMPT="cursor"
+export XSECURELOCK_PASSWORD_PROMPT="asterisks"
 export XSECURELOCK_FONT="JetBrains Mono:size=15"
 export XSECURELOCK_SWITCH_USER_COMMAND="dm-tool switch-to-greeter"
 export XSECURELOCK_COMPOSITE_OBSCURER="0"

@@ -124,4 +124,4 @@ editors/3d_gizmos/gizmo_colors/navigation_solid_disabled = Color( 0.7, 0.7, 0.7,
 editors/3d_gizmos/gizmo_colors/joint = Color( 0.5, 0.8, 1, 1 )
 editors/3d_gizmos/gizmo_colors/joint_body_a = Color( 0.6, 0.8, 1, 1 )
 editors/3d_gizmos/gizmo_colors/joint_body_b = Color( 0.6, 0.9, 1, 1 )
-projects/::home::neo64yt::git-src::nomotive-1 = "/home/neo64yt/git-src/nomotive-1"
+projects/::home::neo64yt::git-src::glassdev1 = "/home/neo64yt/git-src/glassdev1"

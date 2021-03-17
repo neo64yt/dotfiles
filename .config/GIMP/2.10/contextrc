@@ -2,14 +2,14 @@
 
 (tool "gimp-text-tool")
 (paint-info "gimp-paintbrush")
-(foreground (color-rgb 1 1 1))
+(background (color-rgb 0.070588235294117646 0.51764705882352946 0.43137254901960786))
 (brush "hej")
 (dynamics "Dynamics Off")
 (mybrush "100% Opaque")
 (pattern "Blue Squares")
 (gradient "FG to BG (RGB)")
 (palette "Color History")
-(font "Monospace")
+(font "JetBrains Mono Bold")
 (tool-preset "Core Pointer")
 
 # end of user context

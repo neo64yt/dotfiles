@@ -2,6 +2,10 @@
 
 # Managing sessions
 
+# NOTE: Please change according to your init system
+# systemd: systemctl
+# other init with elogind: loginctl
+
 # Defaults
 lines=5
 border=3
@@ -12,8 +16,8 @@ prompt="󰐦 System ($(uptime -p)):"
 choice=$(printf "󰐥 Shutdown\n󰜉 Restart\n󰽥 Suspend\n󰍁 Lock\n󰍃 Log out\n" | dmenu -l $lines -bw $border -h $height -p "$prompt" -c )
 
 case "$choice" in
-  "󰐥 Shutdown") sudo poweroff ;;
-  "󰜉 Restart") sudo reboot ;;
+  "󰐥 Shutdown") systemctl poweroff ;;
+  "󰜉 Restart") systemctl reboot ;;
   "󰽥 Suspend") suspend-notify ;;
   "󰍁 Lock") $LOCKER ;;
   "󰍃 Log out") sh $SESSION_KILLER ;;
