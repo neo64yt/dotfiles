@@ -1,12 +1,13 @@
 # GIMP gimp-clone-tool options
 
+(foreground (color-rgb 0.070588235294117646 0.51764705882352946 0.43137254901960786))
 (background (color-rgb 0.070588235294117646 0.51764705882352946 0.43137254901960786))
-(brush "hej")
+(brush "Untitledhi")
 (dynamics "Dynamics Off")
 (pattern "Blue Squares")
 (palette "Color History")
-(brush-size 17)
-(brush-spacing 0.37)
-(brush-hardness 0.029999999329447746)
+(brush-size 51)
+(brush-spacing 0.20000000000000001)
+(brush-hardness 0.40999999642372131)
 
 # end of gimp-clone-tool options

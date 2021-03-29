@@ -14,7 +14,7 @@ choice=$(printf "󰸌 Appearance\n󰿻 Account\n󰍁 Lock screen\n󰍂 Login scr
 case "$choice" in
   "󰸌 Appearance") $STYLE ;;
   "󰿻 Account") $USER_INFO ;;
-  "󰍁 Lock screen") xscreensaver-demo ;;
+  "󰍁 Lock screen") $TERMINAL -e $EDITOR $HOME/.xprofile ;;
   "󰍂 Login screen") pkexec $LOGIN ;;
   "󰍹 Display") $RANDR ;;
   "󰲝 Network") $NM_EDITOR ;;

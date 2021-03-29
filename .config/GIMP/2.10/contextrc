@@ -1,9 +1,10 @@
 # GIMP user context
 
-(tool "gimp-text-tool")
+(tool "gimp-scale-tool")
 (paint-info "gimp-paintbrush")
+(foreground (color-rgb 0.070588235294117646 0.51764705882352946 0.43137254901960786))
 (background (color-rgb 0.070588235294117646 0.51764705882352946 0.43137254901960786))
-(brush "hej")
+(brush "Untitledhi")
 (dynamics "Dynamics Off")
 (mybrush "100% Opaque")
 (pattern "Blue Squares")

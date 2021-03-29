@@ -21,7 +21,7 @@
     (gimp-toolbox
         (side left)
         (book
-            (current-page 0)
+            (current-page 2)
             (dockable "gimp-tool-options"
                 (tab-style automatic)
                 (aux-info
@@ -41,7 +41,7 @@
     (gimp-dock
         (side right)
         (book
-            (current-page 0)
+            (current-page 4)
             (dockable "gimp-brush-grid"
                 (tab-style automatic)
                 (aux-info
@@ -62,7 +62,7 @@
                 (tab-style icon)
                 (aux-info
                     (edit-active "true")
-                    (current-data "hej"))))
+                    (current-data "Untitledhi"))))
         (book
             (position 366)
             (current-page 0)
@@ -98,7 +98,7 @@
 (session-info "toplevel"
     (factory-entry "gimp-file-export-dialog")
     (position 0 97)
-    (size 780 585))
+    (size 780 604))
 (session-info "toplevel"
     (factory-entry "gimp-preferences-dialog")
     (position 0 0)
@@ -106,6 +106,10 @@
 (session-info "toplevel"
     (factory-entry "gimp-operation-tool-dialog")
     (position 647 135))
+(session-info "toplevel"
+    (factory-entry "gimp-text-tool-dialog")
+    (position 0 294)
+    (size 408 286))
 
 (hide-docks no)
 (single-window-mode yes)

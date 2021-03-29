@@ -1,9 +1,11 @@
 # GIMP gimp-text-tool options
 
+(foreground (color-rgb 0.070588235294117646 0.51764705882352946 0.43137254901960786))
 (palette "Color History")
 (font "JetBrains Mono Bold")
-(font-size 30)
+(font-size 60)
 (hint-style none)
+(justify center)
 (box-mode fixed)
 
 # end of gimp-text-tool options
