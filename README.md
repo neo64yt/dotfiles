@@ -1,3 +1,6 @@
+# Notice
+This repository is now archived and succeeded by glorious-dotfiles.
+
 # dotfiles
 This is the repository where I store backups of my dotfiles made using Git bare repository method.
 
